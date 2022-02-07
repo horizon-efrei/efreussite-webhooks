@@ -3,9 +3,10 @@
   📜 Les annonces du discord Ef'Réussite !
 </p>
 
-### Ajouter des annonces
+### Ajouter une annonce
 
-1. Ajouter des fichiers dans [`./resources`](/resources). Le nom du fichier doit commencer par :
+1. Créer une nouvelle branche avec le nom de l'annonce
+1. Ajouter un fichier markdown dans [`./resources`](/resources). Le nom du fichier doit commencer par :
     - `ANNOUNCEMENT_ALL_` : pour les annonces générales
     - `ANNOUNCEMENT_<year>_` : pour les annonces de promo (ex: `ANNOUNCEMENT_2025_`, `ANNOUNCEMENT_2026_`...)
     - `ANNOUNCEMENT_STAFF_` : pour les annonces pour le staff
@@ -18,6 +19,7 @@
     1. Créez un **dossier** dans `./resources/images` au nom du fichier markdown contenant l'annonce, en respectant la casse.
     1. Ajouter l'image au format `.png` avec un nom tout en MAJUSCULES, dans `./resources/images/<FOLDER_NAME>`.
     1. Les référencer dans le fichier markdown avec `%PNG_<IMAGE_FILE_NAME>%`.
+1. Faites une Pull Request de votre branche vers master, pour que tout le monde puisse la review
 
 ### Déployer des annonces
 
