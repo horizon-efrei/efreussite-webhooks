@@ -5,7 +5,7 @@ import { URL } from 'node:url';
 import { WebhookClient } from 'discord.js';
 
 /* Regexes, constants, and utility functions */
-const fileNameRegex = /^(?<prefix>ANNOUNCEMENT_(?:ALL|POLL|STAFF|GOODTOKNOW|2026|2025|2024|2023|2922)+)_(?<name>.+)$/;
+const fileNameRegex = /^(?<prefix>ANNOUNCEMENT_(?:ALL|POLL|STAFF|GOODTOKNOW|2026|2025|2024|2023|2022)+)_(?<name>[A-Z0-9]+)$/;
 
 const imagesBaseUrl = 'https://raw.githubusercontent.com/horizon-efrei/efreussite-webhooks/master/resources/images';
 const replacePatterns: Record<string, string> = {} as const;
