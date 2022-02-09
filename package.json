@@ -14,7 +14,7 @@
     "build": "tsc",
     "clean": "tsc --clean",
     "watch": "tsc --watch",
-    "deploy": "node --unhandled-rejections=strict dist/resource-webhooks.js",
+    "deploy": "node --unhandled-rejections=strict dist/main.js",
     "lint": "eslint src scripts",
     "lint:fix": "eslint src scripts --fix"
   },

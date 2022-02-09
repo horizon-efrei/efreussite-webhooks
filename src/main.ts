@@ -5,7 +5,7 @@ import { URL } from 'node:url';
 import { WebhookClient } from 'discord.js';
 
 /* Regexes, constants, and utility functions */
-const fileNameRegex = /^(?<prefix>ANNOUNCEMENT_(?:ALL|POLL|STAFF|GOODTOKNOW|2026|2025|2024|2023|2022)+)_(?<name>[A-Z0-9]+)$/;
+const fileNameRegex = /^(?<prefix>ANNOUNCEMENT_(?:ALL|POLL|STAFF|GOODTOKNOW|202[2-6]))_(?<name>[\dA-Z_]+)$/;
 
 const imagesBaseUrl = 'https://raw.githubusercontent.com/horizon-efrei/efreussite-webhooks/master/resources/images';
 const replacePatterns: Record<string, string> = {} as const;
@@ -13,6 +13,7 @@ const resourcesDir = new URL('../resources/', import.meta.url);
 
 const isDraft = (announcementName: string): boolean => announcementName.toLowerCase().startsWith('draft');
 const draftToAnnouncement = (announcementName: string): string => announcementName.replace(/^DRAFT_/, 'ANNOUNCEMENT_');
+// Converts a file name to the corresponding environment variable name
 const fileNameToVariable = (announcementName: string): string => fileNameRegex.exec(announcementName)!.groups!.prefix;
 
 /* Start processing */
@@ -24,8 +25,8 @@ const deployAnnouncementString = process.env.DEPLOY_ANNOUNCEMENTS;
 const announcements = deployAnnouncementString
   ?.trim()
   .split(/\s*,\s*/gm)
-  .map(announcementName => announcementName.toUpperCase().replace(/-/gm, '_'));
-if (!announcements)
+  .map(announcementName => announcementName.toUpperCase());
+if (!announcements || announcements.length === 0)
   throw new Error('[MISSING] No deploy announcements provided');
 
 const files = await readdir(resourcesDir);
@@ -43,9 +44,9 @@ const missingFiles = announcements.filter((announcementName) => {
 });
 
 if (missingFiles.length > 0)
-  throw new Error(`[MISSING] No file for ${missingFiles.map(c => `${c}.md`).join(', ')}`);
+  throw new Error(`[MISSING] Following file(s) not found: ${missingFiles.map(announcementName => `"${announcementName}.md"`).join(', ')}`);
 
-
+// Go over all requested announcements, and send them
 for (const announcement of announcements) {
   const originalName = draftToAnnouncement(announcement);
   if (!fileNameRegex.test(originalName)) {
@@ -53,7 +54,7 @@ for (const announcement of announcements) {
     continue;
   }
 
-  console.log(`[STARTING] Deploying ${announcement}`);
+  console.log(`[STARTING] Deploying ${announcement}...`);
 
   const webhookToUse = isDraft(announcement) ? 'DRAFT' : fileNameToVariable(announcement);
 
@@ -68,7 +69,7 @@ for (const announcement of announcements) {
   raw = raw.replace(/\[(?<text>.+?)]\((?<url>.+?)\)/gm, (_: unknown, p1: string, p2: string): string => `[${p1}](<${p2}>)`);
   raw = Object.entries(replacePatterns)
     .reduce((acc, [regexp, replaced]) => acc.replace(new RegExp(regexp, 'gm'), replaced), raw);
-  raw = raw.replace(/%PNG_(?<name>[A-Z_]+)%/gm, `${imagesBaseUrl}/${announcement}/$1.png`);
+  raw = raw.replace(/%PNG_(?<name>[\dA-Z_]+)%/gm, `${imagesBaseUrl}/${announcement}/$1.png`);
 
   const parts = raw.split('\n\n\n');
 
