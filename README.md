@@ -13,13 +13,13 @@
     - `ANNOUNCEMENT_GOODTOKNOW_` : pour les annonces "Bon à savoir"
     - `ANNOUNCEMENT_POLL_` : pour les sondages
 
-    La suite du nom du fichier doit être une courte description de l'annonce, en majuscules.
-1. Chaque paragraphe (séparés par deux nouvelles lignes) sera posté dans un nouveau message. Essayez d'utiliser le moins de messages possible (la limite est de 2000 caractères par message) pour éviter les rate limits.
-1. Pour ajouter des images, il faut
+    La suite du nom du fichier doit être une courte description de l'annonce, tout en MAJUSCULES avec uniquement des lettres, des chiffres et des underscores (`_`).
+2. Chaque paragraphe (séparés par deux lignes vides) sera posté dans un nouveau message. Essayez d'utiliser le moins de messages possible (la limite est de 2000 caractères par message) pour éviter les rate limits.
+3. Pour ajouter des images, il faut
     1. Créez un **dossier** dans `./resources/images` au nom du fichier markdown contenant l'annonce, en respectant la casse.
-    1. Ajouter l'image au format `.png` avec un nom tout en MAJUSCULES, dans `./resources/images/<FOLDER_NAME>`.
-    1. Les référencer dans le fichier markdown avec `%PNG_<IMAGE_FILE_NAME>%`.
-1. Faites une Pull Request de votre branche vers master, pour que tout le monde puisse la review
+    2. Dans `./resources/images/<FOLDER_NAME>`, ajoutez l'image au format `.png` avec un nom tout en MAJUSCULES avec uniquement des lettres, des chiffres et des underscores (`_`).
+    3. Les référencer dans le fichier markdown avec `%PNG_<IMAGE_FILE_NAME>%`.
+4. Faites une Pull Request de votre branche vers master, pour que tout le monde puisse la review
 
 ### Déployer des annonces
 
@@ -40,10 +40,10 @@ Par exemple, plutôt que `ANNOUNCEMENT_2025_DESCRIPTION`, vous pouvez utiliser `
 
 La mise à jour d'un message se fait manuellement.
 Pour cela, dans le fichier [updater](./scripts/updater.js), remplacez la ligne 6 par le contenu de votre annonce.
-Remplacez également les variables messageId et webhookURL par l'ID du message souhaité et l'URL du webhook du salon associé.
+Remplacez également les variables `messageId` et `webhookURL` par l'ID du message souhaité et l'URL du webhook du salon associé.
 
 Enfin, dans votre terminal entrez `node ./scripts/updater.js` pour lancer la mise à jour.
-Pensez à ne pas commit vos modifications
+**Pensez à ne pas commit vos modifications.**
 
 ### Crédits
 
