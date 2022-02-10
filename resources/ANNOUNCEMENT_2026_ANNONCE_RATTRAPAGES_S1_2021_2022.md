@@ -1,8 +1,7 @@
 <@&809185319161036841> <@&809102850902589440> <@&809185449447784498>
 Bonjour à tous :wave:,
-Pour celles et ceux ne l'ayant pas encore fait, je vous conseille de participer aux sondages suivants : 
-L1 ⇨ https://discord.com/channels/694220883815956580/822840404968734790/930522870864572437
-L2 ⇨ https://discord.com/channels/694220883815956580/822840404968734790/930535069423124540
+Pour celles et ceux ne l'ayant pas encore fait, je vous conseille de participer au **[sondage](https://discord.com/channels/694220883815956580/822840404968734790/930522870864572437)**.
+
 
 Oui, on est en pleine planification de cours avec les <@&805873100813500447>.
 En raison de la fin de stage des L2 et de leur rentrée le 7 février, on reprend doucement, avec les rattrapages comme priorité.
