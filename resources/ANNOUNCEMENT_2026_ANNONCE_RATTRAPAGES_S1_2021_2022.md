@@ -9,6 +9,8 @@ En raison de la fin de stage des L2 et de leur rentrée le 7 février, on repren
 Si jamais vous souhaitez organiser une séance, proposer votre aide pour faire un cours, ou simplement réviser en groupe à distance, n'hésitez pas à utiliser les salons vocaux faits pour !
 (je vous donnerai les perms de partage d'écran temporairement)
 
+Si vous avez des sujets de rattrapages des années précédentes, n'hésitez pas à les partager !
+
 **Quelques Infos en +**
 Certains enregistrements ont été convertis, donc n'hésitez pas à prévenir <@&934144211815661658> ou <@&934144563499630612> si vous avez des soucis.
 
