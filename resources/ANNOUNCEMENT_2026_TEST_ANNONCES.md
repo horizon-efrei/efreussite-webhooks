@@ -5,6 +5,6 @@ de [lignes](https://google.com)
 
 ahha !!!
 
-encore du text
+encore du texte
 
 mais pas trop quand même
