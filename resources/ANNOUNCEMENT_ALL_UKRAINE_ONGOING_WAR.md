@@ -18,9 +18,12 @@ En raison du conflit avec l'Ukraine, les entreprises conseillent aux employés d
 
 De la même manière, voici quelques conseils que vous pouvez suivre.
 
--Ne pas cliquer sur les liens externes ou ouvrir des pièces jointes qui paraissent suspectes (votre expéditeur ne vous en a pas parlé)
+- Ne cliquez pas sur les liens externes et n'ouvrez pas de pièce jointe paraissant suspecte dont votre expéditeur ne vous a pas parlé.
 
-- Si on vous sollicite pour vos identifiants ou mots de passe, ne JAMAIS les donner
+- Si on vous sollicite pour vos identifiants ou mots de passe, ne les donnez JAMAIS.
 
-- Si vous trouvez une clé usb, un CD etc ne JAMAIS la connecter à vos PC ou à d'autres PC (si trouvé au sein de l'efrei, déposez les à l'accueil et postez un msg dans les groupes correspondants)
+- Si vous trouvez une clé USB, un CD ou autre périphérique de stockage, ne les connectez JAMAIS à vos PC ou à d'autres PC. Si vous les avez trouvés au sein de l'EFREI, déposez-les à l'accueil et postez un msg dans les groupes correspondants.
 
+- Gardez une habitude d'utiliser l'email efrei.net exclusivement pour des activités liées à l'efrei et non personnelles.
+
+- Signalez les mails suspects si vous en avez la possibilité (je ne sais pas si le service informatique a quelque chose en place à ce sujet).
