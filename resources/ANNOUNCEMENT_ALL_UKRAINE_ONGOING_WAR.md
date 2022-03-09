@@ -10,7 +10,7 @@ On en peut pas rester indifférent.
 Si vous pouvez donner, donnez, mais faites attention aux arnaques.
 https://www.lefigaro.fr/social/comment-faire-un-don-pour-l-ukraine-en-evitant-les-escroqueries-20220301
 
-Pour notre part, nous ne pouvons que condamner, et rappeler que le **dialogue** quelque soit la situation est et reste le moyen à privilégier.
+Pour notre part, nous ne pouvons que condamner, et rappeler que le **dialogue**, quelque soit la situation, **est** et **reste le moyen à privilégier**.
 
 <@&895274408325836850>
 
