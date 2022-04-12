@@ -79,4 +79,4 @@ Source coût de la vie: https://www.numbeo.com [coût hors-logement & hors dépe
 Sources classements: https://webometrics.info/en - https://www.topuniversities.com - https://cwur.org/2021-22.php
 
 
-(Toutes les infos)[https://moodle.myefrei.fr/pluginfile.php/229799/mod_resource/content/2/Amphi%20L3%20Fall%202022.pdf]
+[Toutes les infos](https://moodle.myefrei.fr/pluginfile.php/229799/mod_resource/content/2/Amphi%20L3%20Fall%202022.pdf)
