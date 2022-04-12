@@ -77,5 +77,4 @@ Le coût de la vie est **le coût pour tout le voyage**, pas le coût mensuel
 [Source coût de la vie, coût hors-logement & hors dépenses persos/risques](https://www.numbeo.com)
 Sources classements: https://webometrics.info/en - https://www.topuniversities.com - https://cwur.org/2021-22.php
 
-
-[Toutes les infos](https://moodle.myefrei.fr/pluginfile.php/229799/mod_resource/content/2/Amphi%20L3%20Fall%202022.pdf)
+[Toutes les infos sur Moodle](https://moodle.myefrei.fr/pluginfile.php/229799/mod_resource/content/2/Amphi%20L3%20Fall%202022.pdf)
