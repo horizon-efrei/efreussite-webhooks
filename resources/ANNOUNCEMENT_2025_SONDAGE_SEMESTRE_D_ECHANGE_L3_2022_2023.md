@@ -14,7 +14,7 @@ Merci!
 Ces informations vous permettront de les comparer plus facilement :map:
 N'hésitez pas à poser vos **questions relatives aux destinations sur <#889180185574924328>** (ceux qui ont déjà voyagé dans vos futures destinations pourront vous y répondre) !
 **:warning: TOUTES LES DONNÉES DE COÛTS ET DE CLASSEMENT DATENT DE SEPTEMBRE 2021 :warning:
-POUR TOUTES LES DONNÉES MANQUANTES, à CE JOUR NOUS NE SAVONS PAS SI NOUS LES AVONS**
+POUR TOUTES LES DONNÉES MANQUANTES, À CE JOUR NOUS NE SAVONS PAS SI NOUS LES AVONS**
 
 **Choix final le  [LIEN A VENIR]**
 
