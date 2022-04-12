@@ -71,7 +71,7 @@ __Nombre de places__ : **30-40**
 
 **NOTES:**
 
-A titre de comparaison, **l’Efrei est placée en 2300+ e  position** dans les classements mondiaux
+A titre de comparaison, **l’Efrei est placée en 2300+e  position** dans les classements mondiaux.
 Les GPA requis sont basés sur les GPA habituellement requis les dernières années (mais sont pour l'instant juste une spéculation)
 Le coût de la vie est **le coût pour tout le voyage**, pas le coût mensuel
 
