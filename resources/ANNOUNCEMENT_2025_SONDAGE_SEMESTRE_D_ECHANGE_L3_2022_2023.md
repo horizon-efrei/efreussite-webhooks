@@ -45,7 +45,7 @@ __Nombre de places__ : **36-48 / 54-60**
 
 **
 **:flag_ca:  **CANADA (TORONTO) - [ILAC](https://www.ilac.com/toronto/)**
-CURRENTLY NO DATA AVAILABLE
+*Données pas encore compilées*
 __Nombre de places__ : **30-40**
 
 :flag_us:  **USA (IRVINE) - [UCI](https://uci.edu/)**
@@ -56,15 +56,15 @@ __Classement mondial:__ **50-250e** - __GPA requis:__ GPA >= 2.0
 __Nombre de places__ : **30-40**
 
 :flag_hu:  **HONGRIE (BUDAPEST) - [ESSCA](https://www.essca.fr/lessca/les-sites-du-groupe/essca-budapest)**
-CURRENTLY NO DATA AVAILABLE
+*Données pas encore compilées*
 __Nombre de places__ : **30-35**
 
 :flag_cz:  **RÉPUBLIQUE TCHÈQUE (OSTRAVA) - [VSB Technical University of Ostrava](https://www.vsb.cz/en/)**
-CURRENTLY NO DATA AVAILABLE
+*Données pas encore compilées*
 __Nombre de places__ : **18-20**
 
 :flag_za: **SOUTH AFRICA (LE CAP) - [Cape Peninsula University of Technology](https://www.cput.ac.za/)**
-CURRENTLY NO DATA AVAILABLE
+*Données pas encore compilées*
 __Nombre de places__ : **30-40**
 
 
