@@ -41,7 +41,6 @@ __Coût de base:__ **5450€** = mutuelles (France + Canada), aller-retour, perm
 __Coût de la vie:__ **3400-3700€** = frais + 40€/semaine extra (= 2 sorties)
 __Classement mondial:__ **1000-1400e** - __GPA requis:__ GPA >= 2.0
 __Nombre de places__ : **36-48 / 54-60**
-|| ||
 
 
 
@@ -75,7 +74,7 @@ A titre de comparaison, **l’Efrei est placée en 2300+e  position** dans les c
 Les GPA requis sont basés sur les GPA habituellement requis les dernières années (mais sont pour l'instant juste une spéculation)
 Le coût de la vie est **le coût pour tout le voyage**, pas le coût mensuel
 
-Source coût de la vie: https://www.numbeo.com [coût hors-logement & hors dépenses persos/risques]
+[Source coût de la vie, coût hors-logement & hors dépenses persos/risques](https://www.numbeo.com)
 Sources classements: https://webometrics.info/en - https://www.topuniversities.com - https://cwur.org/2021-22.php
 
 
