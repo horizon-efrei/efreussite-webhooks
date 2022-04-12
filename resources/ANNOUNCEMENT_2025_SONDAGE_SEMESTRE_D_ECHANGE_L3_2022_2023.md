@@ -16,7 +16,7 @@ N'hésitez pas à poser vos **questions relatives aux destinations sur <#8891801
 **:warning: TOUTES LES DONNÉES DE COÛTS ET DE CLASSEMENT DATENT DE SEPTEMBRE 2021 :warning:
 POUR TOUTES LES DONNÉES MANQUANTES, À CE JOUR NOUS NE SAVONS PAS SI NOUS LES AVONS**
 
-**Choix final le  [LIEN A VENIR]**
+ **Les Destinations**
 
 :flag_pl:  **POLOGNE (CRACOVIE) - [AGH](https://www.agh.edu.pl/en)** 
 __Coût de base:__ **1480€** = mutuelle France, aller-retour, 900€ de logement
