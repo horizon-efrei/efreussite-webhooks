@@ -13,8 +13,7 @@ Merci!
 
 Ces informations vous permettront de les comparer plus facilement :map:
 N'hésitez pas à poser vos **questions relatives aux destinations sur <#889180185574924328>** (ceux qui ont déjà voyagé dans vos futures destinations pourront vous y répondre) !
-**:warning: TOUTES LES DONNÉES DE COÛTS ET DE CLASSEMENT DATENT DE SEPTEMBRE 2021 :warning:
-POUR TOUTES LES DONNÉES MANQUANTES, À CE JOUR NOUS NE SAVONS PAS SI NOUS LES AVONS**
+**:warning: Toutes les données de coûrs et de classement datent de septembre 2021 :warning:**
 
  **Les Destinations**
 
@@ -44,7 +43,8 @@ __Nombre de places__ : **36-48 / 54-60**
 
 
 
-:flag_ca:  **CANADA (TORONTO) - [ILAC](https://www.ilac.com/toronto/)** 
+:flag_ca:  **CANADA (TORONTO) - [ILAC](https://www.ilac.com/toronto/)**
+
 CURRENTLY NO DATA AVAILABLE
 __Nombre de places__ : **30-40**
 
