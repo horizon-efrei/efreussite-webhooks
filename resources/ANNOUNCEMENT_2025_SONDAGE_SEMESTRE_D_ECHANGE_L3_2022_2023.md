@@ -43,8 +43,8 @@ __Nombre de places__ : **36-48 / 54-60**
 
 
 
-:flag_ca:  **CANADA (TORONTO) - [ILAC](https://www.ilac.com/toronto/)**
-
+**
+**:flag_ca:  **CANADA (TORONTO) - [ILAC](https://www.ilac.com/toronto/)**
 CURRENTLY NO DATA AVAILABLE
 __Nombre de places__ : **30-40**
 
