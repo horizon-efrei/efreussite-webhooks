@@ -3,7 +3,7 @@ Hello les L2 ||<@&794628669737009183>|| !
 Avec la publication des classements des 3 premiers semestres et le choix de la mobilité qui arrive à grand pas,
 [Un formulaire circule, permettant à tout le monde de se pré-situer (ça reste anonyme, ne vous inquiétez pas)](https://forms.gle/5oC6osJFc3EXDz1H6) (créé par <@689931471430877233>)
 Les résultats sont disponibles après avoir l'avoir rempli.
-Partagez le au max comme ça on peut tous avoir une idée d'où on peut se retrouver l'an prochain 🙂
+Partagez le au maximum, comme ça on peut tous avoir une idée d'où on peut se retrouver l'an prochain 🙂
 
 Merci!
 
@@ -13,7 +13,7 @@ Merci!
 
 Ces informations vous permettront de les comparer plus facilement :map:
 N'hésitez pas à poser vos **questions relatives aux destinations sur <#889180185574924328>** (ceux qui ont déjà voyagé dans vos futures destinations pourront vous y répondre) !
-**:warning: Toutes les données de coûrs et de classement datent de septembre 2021 :warning:**
+**:warning: Toutes les données de coûts et de classement datent de septembre 2021 :warning:**
 
  **Les Destinations**
 
@@ -72,8 +72,8 @@ __Nombre de places__ : **30-40**
 ** **NOTES:**
 
 A titre de comparaison, **l’Efrei est placée en 2300+e  position** dans les classements mondiaux.
-Les GPA requis sont basés sur les GPA habituellement requis les dernières années (mais sont pour l'instant juste une spéculation)
-Le coût de la vie est **le coût pour tout le voyage**, pas le coût mensuel
+Les GPA requis sont basés sur les GPA habituellement requis les dernières années (mais sont pour l'instant juste une spéculation).
+Le coût de la vie est **le coût pour tout le voyage**, pas le coût mensuel.
 
 [Source coût de la vie, coût hors-logement & hors dépenses persos/risques](https://www.numbeo.com)
 Sources classements: [Webometrics](https://webometrics.info/en) - [TopUniversities ](https://www.topuniversities.com) - [CWUR](https://cwur.org/2021-22.php)
