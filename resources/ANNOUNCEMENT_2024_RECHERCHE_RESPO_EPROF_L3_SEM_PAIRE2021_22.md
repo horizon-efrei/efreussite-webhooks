@@ -7,7 +7,7 @@ Le Responsable eProf L3 :L3: a la charge de :
  - Du suivi des eProfs L3
  - De la gestion du dossier dédié à son rôle sur le GDrive :GDrive:, et des enregistrements de son niveau sur le SharePoint :SharePoint: 
 
-Pour toute personne intéressée, n'hésitez pas à remplir le **(formulaire)**[https://bit.ly/RespoL3_S6_2022] et/ou à envoyer un message :speech_balloon: privé à @David Gorgette#7266 pour en discuter plus en détail :slight_smile:
+Pour toute personne intéressée, n'hésitez pas à remplir le **(formulaire)**[https://bit.ly/RespoL3_S6_2022] et/ou à envoyer un message :speech_balloon: privé à <@890084641317478400> pour en discuter plus en détail :slight_smile:
 
 Des points PAVE seront attribués à la fin du semestre.
 Au plaisir de vous revoir pendant les cours de révisions :wink: !
