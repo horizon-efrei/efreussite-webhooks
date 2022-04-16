@@ -1,6 +1,6 @@
 <@&954278602504019988>
 
-Pour coordonner et planifier des cours, Ef'Réussite :EfRussite:  cherche un :L3: réalisant  actuellement son semestre sur Campus, volontaire pour le poste de Responsable eProf L3 pour la période d'avril à juin/juillet 2022 
+Pour coordonner et planifier des cours, Ef'Réussite :EfRussite:  cherche un :L3: réalisant  actuellement son semestre sur Campus, volontaire pour le poste de Responsable eProf L3 pour la période d'avril à juin/juillet 2022. 
 
 Le Responsable eProf L3 :L3: a la charge de :
  - Coordonner avec les eProfs la planification de cours si nécessaire pour les L3
