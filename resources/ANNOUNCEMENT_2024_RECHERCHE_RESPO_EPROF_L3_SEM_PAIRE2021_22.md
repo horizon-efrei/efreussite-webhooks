@@ -5,7 +5,7 @@ Pour coordonner et planifier des cours, Ef'Réussite :EfRussite:  cherche un :L3
 Le Responsable eProf L3 :L3: a la charge de :
  - Coordonner avec les eProfs la planification de cours si nécessaire pour les L3
  - Suivre les eProfs L3
- - De la gestion du dossier dédié à son rôle sur le GDrive :GDrive:, et des enregistrements de son niveau sur le SharePoint :SharePoint: 
+ - La gestion du dossier dédié à son rôle sur le GDrive :GDrive:, et des enregistrements de son niveau sur le SharePoint :SharePoint: 
 
 Pour toute personne intéressée, n'hésitez pas à remplir le **[formulaire]**(https://bit.ly/RespoL3_S6_2022) et/ou à envoyer un message :speech_balloon: privé à <@890084641317478400> pour en discuter plus en détail :slight_smile:
 
