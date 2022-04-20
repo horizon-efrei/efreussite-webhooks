@@ -9,4 +9,4 @@ N'hésitez pas à poser vos questions:question:dans les channels des matières o
 
 Bon courage à toutes et à tous pour ce semestre S6 !
 
-* N.B. `*` pour voir le channel, prenez le rôle parcours [ici](https://bit.ly/EfReussite_Parcours)
+* N.B. `*` pour voir le salon, [prenez le rôle parcours](https://discord.com/channels/694220883815956580/817741515564122143/895428636038012970)
