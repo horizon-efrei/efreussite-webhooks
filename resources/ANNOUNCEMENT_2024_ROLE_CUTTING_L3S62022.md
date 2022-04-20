@@ -5,7 +5,7 @@ Dans un but de réduire les ping :ping:, malgré une reprise tardive pour ce sem
 
 Une réflexion est menée pour faire la même chose pour les rattrapages (more to come)
 
-N'hésitez pas à poser vos questions:question:dans les channels des matières ou à demander pour un cours :book: :muscle: !
+N'hésitez pas à poser vos questions :question: dans les channels des matières ou à demander pour un cours :book: :muscle: !
 
 Bon courage à toutes et à tous pour ce semestre S6 !
 
