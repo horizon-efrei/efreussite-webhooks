@@ -28,23 +28,23 @@ __Nombre de places:__ **35-40 / 50-51 / 59-60**
 :flag_gb:  **ANGLETERRE (STOKE-ON-TRENT) - [SU](https://www.staffs.ac.uk/)**
 __Estimation du coût mensuel pour une personne :__ [745€](https://www.numbeo.com/cost-of-living/in/Stoke-On-Trent)
 __Classement :__
+__Nombre de places :__ 30-60
 __Prix des billets d'avion aller retour :__ ~175€
-__Nombre de place :__ 30-60
 __Logement à trouver :__ Non 
 
 
 :flag_my:  **MALAISIE (KUALA LUMPUR) - [APU](https://www.apu.edu.my/)**
 __Estimation du coût mensuel pour une personne :__ [455€](https://www.numbeo.com/cost-of-living/in/Kuala-Lumpur)
 __Classement :__ 275 d'Asie
+__Nombre de places :__ 30-60
 __Prix des billets d'avion aller retour :__ ~800€
-__Nombre de place :__ 30-60
 __Logement à trouver :__ Non
 
 
 :flag_ca:  **CANADA (MONTRÉAL) - [CU](https://www.concordia.ca/)**
 __Estimation du coût mensuel pour une personne :__ [835€](https://www.numbeo.com/cost-of-living/in/Montreal)
 __Classement :__ 525
-__Nombre de place :__ 36-48 OU 54-60
+__Nombre de places :__ 36-48 OU 54-60
 __Prix des billets d'avion aller retour :__ ~500€
 __Logement à trouver :__ Non
 
@@ -54,7 +54,7 @@ __Logement à trouver :__ Non
 **:flag_ca:  **CANADA (TORONTO) - [ILAC](https://www.ilac.com/toronto/)**
 __Estimation du coût mensuel pour une personne :__ [935€](https://www.numbeo.com/cost-of-living/in/Toronto)
 __Classement :__
-__Nombre de place :__ 30-40 
+__Nombre de places :__ 30-40
 __Prix des billets d'avion aller retour :__ ~600€
 __Logement à trouver :__ Oui
 
@@ -62,7 +62,7 @@ __Logement à trouver :__ Oui
 :flag_us:  **USA (IRVINE) - [UCI](https://uci.edu/)**
 __Estimation du coût mensuel pour une personne :__ [915€](https://www.numbeo.com/cost-of-living/in/Irvine)
 __Classement :__ 232
-__Nombre de place :__ 30-40
+__Nombre de places :__ 30-40
 __Prix des billets d'avion aller retour :_ ~1000€
 __Logement à trouver :__ Oui
 
@@ -71,14 +71,14 @@ __Logement à trouver :__ Oui
 __Prix des billets d'avion aller retour :__ ~220€
 __Estimation du coût mensuel pour une personne :__ [520€](https://www.numbeo.com/cost-of-living/in/Budapest)
 __Classement :__
-__Nombre de place :__ 30-35
+__Nombre de places :__ 30-35
 __Logement à trouver :__ Oui 
 
 
 :flag_cz:  **RÉPUBLIQUE TCHÈQUE (OSTRAVA) - [VSB](https://www.vsb.cz/en/)**
 __Estimation du coût mensuel pour une personne :__ [690€](https://www.numbeo.com/cost-of-living/in/Ostrava)
 __Classement :__ 1001-1200
-__Nombre de place :__ 18-20
+__Nombre de places :__ 18-20
 __Prix des billets d'avion aller retour :__ ~250€
 __Logement à trouver :__ Non
 
@@ -86,8 +86,8 @@ __Logement à trouver :__ Non
 :flag_za:  **SOUTH AFRICA (LE CAP) - [CPUT](https://www.cput.ac.za/)**
 __Estimation du coût mensuel pour une personne :__ [565€](https://www.numbeo.com/cost-of-living/in/Cape-Town)
 __Classement :__
+__Nombre de places :__ 30-40
 __Prix des billets d'avion aller retour :__ ~700€
-__Nombre de place :__ 30-40
 __Logement à trouver :__ Non
 
 
