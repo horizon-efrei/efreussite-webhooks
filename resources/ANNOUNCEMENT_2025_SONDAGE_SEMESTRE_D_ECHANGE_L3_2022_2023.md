@@ -18,17 +18,19 @@ N'hésitez pas à poser vos **questions relatives aux destinations sur <#8891801
  **Les Destinations**
 
 :flag_pl:  **POLOGNE (CRACOVIE) - [AGH](https://www.agh.edu.pl/en)** 
+Estimations faites en septembre 2021
 __Coût de base:__ **1480€** = mutuelle France, aller-retour, 900€ de logement
 __Coût de la vie:__ **1700-2650€** = frais + 30€/semaine extra (= 2 sorties)
 __Classement mondial:__ **600-800e** - __GPA requis:__ GPA >= 1.0
-__Nombre de places:__ **35-40 / 50-51 / 59-60**
 
-Estimation du coût mensuel pour une personne : 539.33€ 
-Lien :  https://www.numbeo.com/cost-of-living/in/Krakow-Cracow
+Estimations faites en avril 2022
+Estimation du coût mensuel pour une personne : [539.33€](https://www.numbeo.com/cost-of-living/in/Krakow-Cracow)
 Classement : 800-100
-Nombre de place : 35 à 40 ou 50-51 ou 59-60
 Prix des billets d'avion aller retour : ~250€
 Logement à trouver : Non
+
+__Nombre de places:__ **35-40 / 50-51 / 59-60**
+
 
 :flag_gb:  **ANGLETERRE (STOKE-ON-TRENT) - [SU](https://www.staffs.ac.uk/)**
 __Coût de base:__ **2950€** = mutuelle France, aller-retour, 2500€ de logement
