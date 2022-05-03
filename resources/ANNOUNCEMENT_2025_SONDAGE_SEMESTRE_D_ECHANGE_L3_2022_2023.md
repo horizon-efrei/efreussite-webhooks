@@ -1,19 +1,14 @@
 Hello les L2 ||<@&794628669737009183>|| !
 
-Avec la publication des classements des 3 premiers semestres et le choix de la mobilité qui arrive à grand pas,
-[Un formulaire circule, permettant à tout le monde de se pré-situer (ça reste anonyme, ne vous inquiétez pas)](https://forms.gle/5oC6osJFc3EXDz1H6) (créé par <@689931471430877233>)
-Les résultats sont disponibles après avoir l'avoir rempli.
-Partagez le au maximum, comme ça on peut tous avoir une idée d'où on peut se retrouver l'an prochain 🙂
-
-Merci!
-
+Le form a été fermé.
+Cette annonce arrive avec un peu de retard.
 
 **
 ** **__INFOS POUR LES L3: SEMESTRE INTERNATIONAL S5__**
 
 Ces informations vous permettront de les comparer plus facilement :map:
-N'hésitez pas à poser vos **questions relatives aux destinations sur <#889180185574924328>** (ceux qui ont déjà voyagé dans vos futures destinations pourront vous y répondre) !
-**:warning: Toutes les données de coûts et de classement datent de septembre 2021 :warning:**
+N'hésitez pas à poser vos **questions relatives aux destinations sur <#889180185574924328>** ou dans les channels des destinations. Ceux qui ont déjà voyagé dans vos futures destinations pourront vous y répondre !
+**:warning: Toutes les données monétaires sont des estimations, suivants vos habitudes ou trajets, elles sont susceptibles de varier  :warning:**
 
  **Les Destinations**
 
