@@ -1,9 +1,9 @@
 Hello les L2 ||<@&794628669737009183>|| !
 
 **
-** **__INFOS POUR LES L3: SEMESTRE INTERNATIONAL S5__**
+** **__INFOS POUR LES L2: SEMESTRE INTERNATIONAL S5 2022__**
 
-Ces informations vous permettront de les comparer plus facilement :map:
+Ces informations vous aideront dans vos réflexions et voix choix :map:
 N'hésitez pas à poser vos **questions relatives aux destinations sur <#889180185574924328>** ou dans les channels des destinations. Ceux qui ont déjà voyagé dans vos futures destinations pourront vous y répondre !
 **:warning: Toutes les données monétaires sont des estimations, suivant vos habitudes ou trajets, elles sont susceptibles de varier  :warning:**
 
