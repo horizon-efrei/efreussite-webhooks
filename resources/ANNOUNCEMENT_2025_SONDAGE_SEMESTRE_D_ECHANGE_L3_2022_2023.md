@@ -17,7 +17,8 @@ __Prix des billets d'avion aller retour :__ ~250€
 __Logement à trouver :__ Non
 
 
-:flag_gb:  **ANGLETERRE (STOKE-ON-TRENT) - [SU](https://www.staffs.ac.uk/)**
+**
+**:flag_gb:  **ANGLETERRE (STOKE-ON-TRENT) - [SU](https://www.staffs.ac.uk/)**
 __Estimation du coût mensuel pour une personne :__ [745€](https://www.numbeo.com/cost-of-living/in/Stoke-On-Trent)
 __Classement :__
 __Nombre de places :__ 30-60
