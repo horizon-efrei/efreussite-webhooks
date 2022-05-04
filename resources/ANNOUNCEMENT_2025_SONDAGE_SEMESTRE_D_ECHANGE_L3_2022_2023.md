@@ -51,7 +51,7 @@ __Logement à trouver :__ Oui
 __Estimation du coût mensuel pour une personne :__ [915€](https://www.numbeo.com/cost-of-living/in/Irvine)
 __Classement :__ 232
 __Nombre de places :__ 30-40
-__Prix des billets d'avion aller retour :_ ~1000€
+__Prix des billets d'avion aller retour :__ ~1000€
 __Logement à trouver :__ Oui
 
 :flag_hu:  **HONGRIE (BUDAPEST) - [ESSCA](https://www.essca.fr/lessca/les-sites-du-groupe/essca-budapest)**
