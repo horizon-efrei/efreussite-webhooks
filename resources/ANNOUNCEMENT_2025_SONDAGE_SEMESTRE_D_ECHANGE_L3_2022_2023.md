@@ -8,7 +8,7 @@ Cette annonce arrive avec un peu de retard.
 
 Ces informations vous permettront de les comparer plus facilement :map:
 N'hésitez pas à poser vos **questions relatives aux destinations sur <#889180185574924328>** ou dans les channels des destinations. Ceux qui ont déjà voyagé dans vos futures destinations pourront vous y répondre !
-**:warning: Toutes les données monétaires sont des estimations, suivants vos habitudes ou trajets, elles sont susceptibles de varier  :warning:**
+**:warning: Toutes les données monétaires sont des estimations, suivant vos habitudes ou trajets, elles sont susceptibles de varier  :warning:**
 
  **Les Destinations**
 
