@@ -1,22 +1,23 @@
 {
   "name": "efreussite-webhooks",
   "version": "1.0.0",
-  "description": "A collection of webhooks to update our rules channel on Discord",
+  "description": "A collection of webhooks to update our announcements channel on Discord",
   "contributors": [
     "Crawl <icrawltogo@gmail.com>",
-    "Favna <support@favware.tech>"
+    "Favna <support@favware.tech>",
+    "noftaly"
   ],
   "license": "MIT",
   "private": true,
-  "main": "dist/index.js",
+  "main": "dist/main.js",
   "type": "module",
   "scripts": {
     "build": "tsc",
     "clean": "tsc --clean",
     "watch": "tsc --watch",
     "deploy": "node --unhandled-rejections=strict dist/main.js",
-    "lint": "eslint src scripts",
-    "lint:fix": "eslint src scripts --fix"
+    "lint": "eslint src",
+    "lint:fix": "eslint src --fix"
   },
   "dependencies": {
     "@sapphire/fetch": "^2.1.0",

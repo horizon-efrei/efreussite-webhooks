@@ -39,10 +39,10 @@ Par exemple, plutôt que `ANNOUNCEMENT_2025_DESCRIPTION`, vous pouvez utiliser `
 #### Mise à jour d'un message
 
 La mise à jour d'un message se fait manuellement.
-Pour cela, dans le fichier [updater](./scripts/updater.js), remplacez la ligne 6 par le contenu de votre annonce.
+Pour cela, dans le fichier [updater](./src/updater.js), remplacez la ligne 6 par le contenu de votre annonce.
 Remplacez également les variables `messageId` et `webhookURL` par l'ID du message souhaité et l'URL du webhook du salon associé.
 
-Enfin, dans votre terminal entrez `node ./scripts/updater.js` pour lancer la mise à jour.
+Enfin, dans votre terminal entrez `node ./src/updater.js` pour lancer la mise à jour.
 **Pensez à ne pas commit vos modifications.**
 
 ### Crédits
