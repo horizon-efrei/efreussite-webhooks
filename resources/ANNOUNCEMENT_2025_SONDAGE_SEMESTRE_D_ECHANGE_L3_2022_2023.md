@@ -20,7 +20,7 @@ __Logement à trouver :__ Non
 **
 **:flag_gb:  **ANGLETERRE (STOKE-ON-TRENT) - [SU](https://www.staffs.ac.uk/)**
 __Estimation du coût mensuel pour une personne :__ [745€](https://www.numbeo.com/cost-of-living/in/Stoke-On-Trent)
-__Classement :__
+__Classement :__ [1001-1200](https://www.timeshighereducation.com/world-university-rankings/staffordshire-university)
 __Nombre de places :__ 30-60
 __Prix des billets d'avion aller retour :__ ~175€
 __Logement à trouver :__ Non 
@@ -43,7 +43,7 @@ __Logement à trouver :__ Non
 **
 **:flag_ca:  **CANADA (TORONTO) - [ILAC](https://www.ilac.com/toronto/)**
 __Estimation du coût mensuel pour une personne :__ [935€](https://www.numbeo.com/cost-of-living/in/Toronto)
-__Classement :__
+__Classement :__ 
 __Nombre de places :__ 30-40
 __Prix des billets d'avion aller retour :__ ~600€
 __Logement à trouver :__ Oui
@@ -58,7 +58,7 @@ __Logement à trouver :__ Oui
 :flag_hu:  **HONGRIE (BUDAPEST) - [ESSCA](https://www.essca.fr/lessca/les-sites-du-groupe/essca-budapest)**
 __Prix des billets d'avion aller retour :__ ~220€
 __Estimation du coût mensuel pour une personne :__ [520€](https://www.numbeo.com/cost-of-living/in/Budapest)
-__Classement :__
+__Classement :__ [~70 Europe](https://rankings.ft.com/rankings/2858/european-business-school-rankings-2020)
 __Nombre de places :__ 30-35
 __Logement à trouver :__ Oui 
 
@@ -71,7 +71,7 @@ __Logement à trouver :__ Non
 
 :flag_za:  **SOUTH AFRICA (LE CAP) - [CPUT](https://www.cput.ac.za/)**
 __Estimation du coût mensuel pour une personne :__ [565€](https://www.numbeo.com/cost-of-living/in/Cape-Town)
-__Classement :__
+__Classement :__ [2268](edurank.org/uni/cape-peninsula-university-of-technology/rankings/)
 __Nombre de places :__ 30-40
 __Prix des billets d'avion aller retour :__ ~700€
 __Logement à trouver :__ Non
