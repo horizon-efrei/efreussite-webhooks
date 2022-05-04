@@ -1,8 +1,5 @@
 Hello les L2 ||<@&794628669737009183>|| !
 
-Le form a été fermé.
-Cette annonce arrive avec un peu de retard.
-
 **
 ** **__INFOS POUR LES L3: SEMESTRE INTERNATIONAL S5__**
 
@@ -15,9 +12,10 @@ N'hésitez pas à poser vos **questions relatives aux destinations sur <#8891801
 :flag_pl:  **POLOGNE (CRACOVIE) - [AGH](https://www.agh.edu.pl/en)** 
 __Estimation du coût mensuel pour une personne :__ [540€](https://www.numbeo.com/cost-of-living/in/Krakow-Cracow)
 __Classement mondial :__ 800-1000
+__Nombre de places:__ 35-40 / 50-51 / 59-60
 __Prix des billets d'avion aller retour :__ ~250€
 __Logement à trouver :__ Non
-__Nombre de places:__ **35-40 / 50-51 / 59-60**
+
 
 :flag_gb:  **ANGLETERRE (STOKE-ON-TRENT) - [SU](https://www.staffs.ac.uk/)**
 __Estimation du coût mensuel pour une personne :__ [745€](https://www.numbeo.com/cost-of-living/in/Stoke-On-Trent)
