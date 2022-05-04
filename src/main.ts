@@ -5,11 +5,12 @@ import { URL } from 'node:url';
 import { WebhookClient } from 'discord.js';
 
 /* Regexes, constants, and utility functions */
-const fileNameRegex = /^(?<prefix>ANNOUNCEMENT_(?:ALL|POLL|STAFF|GOODTOKNOW|202[2-6]))_(?<name>[\dA-Z_]+)$/;
+const fileNameRegex = /^(?<prefix>ANNOUNCEMENT_(?:ALL|POLL|STAFF|GOODTOKNOW|202\d))_(?<name>[\dA-Z_]+)$/;
 
 const imagesBaseUrl = 'https://raw.githubusercontent.com/horizon-efrei/efreussite-webhooks/master/resources/images';
 const replacePatterns: Record<string, string> = {} as const;
 const resourcesDir = new URL('../resources/', import.meta.url);
+const accents = ['à', 'â', 'Â', 'À', 'é', 'è', 'ê', 'ë', 'É', 'È', 'Ê', 'Ë', 'î', 'ï', 'Î', 'Ï', 'ô', 'ö', 'Ô', 'Ö', 'ù', 'û', 'Ù', 'Û'];
 
 const isDraft = (announcementName: string): boolean => announcementName.toLowerCase().startsWith('draft');
 const draftToAnnouncement = (announcementName: string): string => announcementName.replace(/^DRAFT_/, 'ANNOUNCEMENT_');
@@ -22,6 +23,9 @@ if (!deployServerId)
   throw new Error('[MISSING] No deploy server id provided');
 
 const deployAnnouncementString = process.env.DEPLOY_ANNOUNCEMENTS;
+if (accents.some(c => deployAnnouncementString?.includes(c)))
+  throw new Error('[INVALID] The deploy announcement string cannot contain accents');
+
 const announcements = deployAnnouncementString
   ?.trim()
   .split(/\s*,\s*/gm)
