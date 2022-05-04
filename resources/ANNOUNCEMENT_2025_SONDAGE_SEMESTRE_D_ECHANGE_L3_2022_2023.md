@@ -43,7 +43,7 @@ __Logement à trouver :__ Non
 **
 **:flag_ca:  **CANADA (TORONTO) - [ILAC](https://www.ilac.com/toronto/)**
 __Estimation du coût mensuel pour une personne :__ [935€](https://www.numbeo.com/cost-of-living/in/Toronto)
-__Classement :__ 
+__Classement :__ ~78 
 __Nombre de places :__ 30-40
 __Prix des billets d'avion aller retour :__ ~600€
 __Logement à trouver :__ Oui
