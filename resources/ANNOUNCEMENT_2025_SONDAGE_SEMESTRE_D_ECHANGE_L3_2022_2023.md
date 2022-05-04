@@ -19,14 +19,12 @@ __Prix des billets d'avion aller retour :__ ~250€
 __Logement à trouver :__ Non
 __Nombre de places:__ **35-40 / 50-51 / 59-60**
 
-
 :flag_gb:  **ANGLETERRE (STOKE-ON-TRENT) - [SU](https://www.staffs.ac.uk/)**
 __Estimation du coût mensuel pour une personne :__ [745€](https://www.numbeo.com/cost-of-living/in/Stoke-On-Trent)
 __Classement :__
 __Nombre de places :__ 30-60
 __Prix des billets d'avion aller retour :__ ~175€
 __Logement à trouver :__ Non 
-
 
 :flag_my:  **MALAISIE (KUALA LUMPUR) - [APU](https://www.apu.edu.my/)**
 __Estimation du coût mensuel pour une personne :__ [455€](https://www.numbeo.com/cost-of-living/in/Kuala-Lumpur)
@@ -35,14 +33,12 @@ __Nombre de places :__ 30-60
 __Prix des billets d'avion aller retour :__ ~800€
 __Logement à trouver :__ Non
 
-
 :flag_ca:  **CANADA (MONTRÉAL) - [CU](https://www.concordia.ca/)**
 __Estimation du coût mensuel pour une personne :__ [835€](https://www.numbeo.com/cost-of-living/in/Montreal)
 __Classement :__ 525
 __Nombre de places :__ 36-48 OU 54-60
 __Prix des billets d'avion aller retour :__ ~500€
 __Logement à trouver :__ Non
-
 
 
 **
@@ -53,14 +49,12 @@ __Nombre de places :__ 30-40
 __Prix des billets d'avion aller retour :__ ~600€
 __Logement à trouver :__ Oui
 
-
 :flag_us:  **USA (IRVINE) - [UCI](https://uci.edu/)**
 __Estimation du coût mensuel pour une personne :__ [915€](https://www.numbeo.com/cost-of-living/in/Irvine)
 __Classement :__ 232
 __Nombre de places :__ 30-40
 __Prix des billets d'avion aller retour :_ ~1000€
 __Logement à trouver :__ Oui
-
 
 :flag_hu:  **HONGRIE (BUDAPEST) - [ESSCA](https://www.essca.fr/lessca/les-sites-du-groupe/essca-budapest)**
 __Prix des billets d'avion aller retour :__ ~220€
@@ -69,14 +63,12 @@ __Classement :__
 __Nombre de places :__ 30-35
 __Logement à trouver :__ Oui 
 
-
 :flag_cz:  **RÉPUBLIQUE TCHÈQUE (OSTRAVA) - [VSB](https://www.vsb.cz/en/)**
 __Estimation du coût mensuel pour une personne :__ [690€](https://www.numbeo.com/cost-of-living/in/Ostrava)
 __Classement :__ 1001-1200
 __Nombre de places :__ 18-20
 __Prix des billets d'avion aller retour :__ ~250€
 __Logement à trouver :__ Non
-
 
 :flag_za:  **SOUTH AFRICA (LE CAP) - [CPUT](https://www.cput.ac.za/)**
 __Estimation du coût mensuel pour une personne :__ [565€](https://www.numbeo.com/cost-of-living/in/Cape-Town)
