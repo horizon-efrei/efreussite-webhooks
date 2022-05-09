@@ -12,10 +12,10 @@ Mais ça n'est pas là le sujet de discussion pour le moment....
 Souhaiterez-vous qu'on organise des ateliers avec des étudiants des majeures :mortar_board: ?
 
 
-1️⃣Oui, c'est une bonne idée, ça m'aiderait ou serait intéressant
+:one: Oui, c'est une bonne idée, ça m'aiderait ou serait intéressant
 
-2️⃣Non, je ne pense pas que cela soit utile
+:two: Non, je ne pense pas que cela soit utile
 
-3️⃣Mon choix est déjà fait
+:three: Mon choix est déjà fait
 
-4️⃣Ne souhaite pas se prononcer
+:four: Ne souhaite pas se prononcer
