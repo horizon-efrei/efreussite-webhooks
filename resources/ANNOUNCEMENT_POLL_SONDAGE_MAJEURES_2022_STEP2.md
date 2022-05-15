@@ -1,7 +1,7 @@
 **Sondage n°2 pour l'échange sur les majeures avec les M1 et M2 **
 
 Hello,
-Deuxième spndage pour nous permettre de savoir quelle(s) majeure(s) vous intéressent.
+Deuxième sondage pour nous permettre de savoir quelle(s) majeure(s) vous intéressent et de plannifier au plus vite les échanges avant le master camp.
 
 :woman_technologist: = SE (Software Engineering)
 :man_office_worker: = BIA (Business Intelligence & Analytics)
