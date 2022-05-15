@@ -1,9 +1,7 @@
 **Sondage n°2 pour l'échange sur les majeures avec les M1 et M2 **
 
 Hello,
-Pour nous permettre de savoir quelle(s) majeure(s) vous intéressent, on réalise un deuxième sondage.
-
-La prochaine sera une annonce avec
+Deuxième spndage pour nous permettre de savoir quelle(s) majeure(s) vous intéressent.
 
 :woman_technologist: = SE (Software Engineering)
 :man_office_worker: = BIA (Business Intelligence & Analytics)
@@ -19,3 +17,5 @@ La prochaine sera une annonce avec
 :helicopter: = SRD (Système Robotiques & Drones)
 :metro: = TI (Transports Intelligents)
 :goggles: = IRV (Imagerie & Réalité Virtuelle) 
+
+Bonne soirée 🚀
