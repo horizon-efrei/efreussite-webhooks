@@ -6,7 +6,7 @@ On vous invite à regarder les canaux de docs pour des annales, à partager des 
 Voici le lien du SharePoint avec les enregistrements passés (Dossier L3)
 https://bit.ly/EfRéussiteSP
 
-Faire un cours sur Ef'Réussite (Horizon)<:EfRussite:938151807228706886>, il est préférable d'intégrer l'association, si vous souhaitez y contribuer plus souvent, mais ça reste ouvert à toutes et à tous !
+Faire un cours sur Ef'Réussite (Horizon)<:EfRussite:938151807228706886>, il est préférable d'intégrer l'association si vous souhaitez y contribuer plus souvent, mais ça reste ouvert à toutes et à tous !
 Si vous souhaitez juste partager votre écran pour une explication ou expliquer à un petit groupe, vous avez juste besoin de mp <@370940255026675715> ou <@890084641317478400> pour qu'on vous donne le rôle `eProf Cours` pour que vous puissiez partager votre écran dans le cannal vocal de la matière.
 Même, on pourrait planifier si vous êtes chaud un cours via le bot !
 
