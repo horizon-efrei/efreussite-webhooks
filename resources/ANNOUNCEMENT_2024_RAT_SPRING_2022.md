@@ -1,7 +1,7 @@
 Hello <@&799636419249045554> 👋
 
 On sait que ç'a été difficile pour nous de trouver des eProfs pour vous donner des cours.
-On vous invite à regarder les canaux de docs pour des annales, à partager des docs que vous aurez mais qui n'y sont pas et à poser vos questions. 
+On vous invite à regarder les canaux de docs pour des annales, à y partager des docs que vous auriez mais qui n'y sont pas ; et à poser vos questions. 
 
 [Voici le lien du SharePoint avec les enregistrements passés (Dossier L3)](https://bit.ly/EfRéussiteSP)
 
