@@ -10,4 +10,4 @@ Si vous souhaitez juste partager votre écran pour une explication ou expliquer 
 Même, on pourrait planifier, si vous êtes chauds, un cours via le bot !
 
 Merci pour votre patience et compréhension pour ce semestre 🙏
-Bon courage pour mater ces Rattrapages 💪
+Bon courage pour mater ces rattrapages 💪
