@@ -5,6 +5,8 @@ Si tu ne vois pas le cannal où prendre les rôles, il te manque le [rôle parco
 
 Réagis sur les menus suivants pour nous aider à avoir une idée de là où tu pourrais avoir besoin d'aide ou de cours.
 
+
+` `
 __**RATTRAPAGES L1**__
 
 :zero: <#796439254469312582> Analyse
@@ -17,6 +19,7 @@ __**RATTRAPAGES L1**__
 :seven: <#819540421545033759> Algo (c)
 :eight: <#802867138518843432> Système à la fonction
 :nine: <#927857179824889896> Introduction à Git
+
 
 ` `
 __**RATTRAPAGES L2**__
@@ -41,7 +44,6 @@ __**RATTRAPAGES L2**__
 
 ` `
 __**RATTRAPAGES L3**__
-
 :zero: <#809083403743264788> SM503 Théorie des graphes
 :one: <#806611362221916190> Théorie du Signal 1
 :two: <#694636294961234001> Dissertation et communication
