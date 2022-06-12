@@ -1,11 +1,12 @@
 Hello <@&809185319161036841> <@&809102850902589440> <@&809185449447784498>
 
-Si tu n'as pas pris les [rôles pour les rattrapages] (https://discord.com/channels/694220883815956580/892340236175147029/893852934104825866) car les rôles promo ne seront pas ping
-Si tu ne vois pas le cannal où prendre les rôles, il te manque [rôle parcours ingé ou pex](https://discord.com/channels/694220883815956580/817741515564122143/895428636038012970)
+Si tu veux être ping pout les rattarapages, prends les [rôles ping des rattrapages](https://discord.com/channels/694220883815956580/892340236175147029/893852934104825866) car les rôles promo ne seront pas ping <:ping:985633283159253012:> !
+Si tu ne vois pas le cannal où prendre les rôles, il te manque le [rôle parcours ingé ou pex](https://discord.com/channels/694220883815956580/817741515564122143/895428636038012970).
 
 Réagis sur les menus suivants pour nous aider à avoir une idée de là où tu pourrais avoir besoin d'aide ou de cours.
 
 L1
+
 :zero: <#796439254469312582> Analyse
 :one: <#927862574777790495> Atome à la puce
 :two: <#977913803385749504> Histoire des Sciences
@@ -18,7 +19,8 @@ L1
 :nine: <#927857179824889896> Introduction à Git
 
 
-L2 
+**RATTRAPAGES L2**
+
 :zero: <#815938394013827112> SP401 Propagation électromagnétique
 :one: <#809082397781655592> SM401 Modélisation mathématique
 :two: <#819374104108728340> TI403 Programmation Orienté Objet Java
@@ -31,12 +33,15 @@ L2
 :nine: <#761922623063064648> TE402 Systèmes de Transmission
 
 
+
 :zero: <#888085892080738324> SB405 Pratique de la biologie moléculaire 2
 :one: <#809818898182045696> SM401 Automates finis et expressions rationnelles
 :two: <#810151770192871454> FHS401 Histoire des Sciences
 
 
-L3
+
+**RATTRAPAGES L3**
+
 :zero: <#809083403743264788> SM503 Théorie des graphes
 :one: <#806611362221916190> Théorie du Signal 1
 :two: <#694636294961234001> Dissertation et communication
@@ -48,5 +53,7 @@ L3
 :eight: <#799664237462159400> Java (date ?)
 
 
+
+
 Pour les L3, nous n'avons pas toutes les dates :calendar_spiral:  de tous les examens, vous pouvez poser vos questions :question: dans les canaux ;)
-Voir [annonce](https://discord.com/channels/694220883815956580/887751449625387089/985630204728864818)
+Voir l'[annonce](https://discord.com/channels/694220883815956580/887751449625387089/985630204728864818)
