@@ -5,7 +5,7 @@ Si tu ne vois pas le cannal où prendre les rôles, il te manque le [rôle parco
 
 Réagis sur les menus suivants pour nous aider à avoir une idée de là où tu pourrais avoir besoin d'aide ou de cours.
 
-L1
+__**RATTRAPAGES L1**__
 
 :zero: <#796439254469312582> Analyse
 :one: <#927862574777790495> Atome à la puce
@@ -19,7 +19,7 @@ L1
 :nine: <#927857179824889896> Introduction à Git
 
 
-**RATTRAPAGES L2**
+__**RATTRAPAGES L2**__
 
 :zero: <#815938394013827112> SP401 Propagation électromagnétique
 :one: <#809082397781655592> SM401 Modélisation mathématique
@@ -40,7 +40,7 @@ L1
 
 
 
-**RATTRAPAGES L3**
+__**RATTRAPAGES L3**__
 
 :zero: <#809083403743264788> SM503 Théorie des graphes
 :one: <#806611362221916190> Théorie du Signal 1
