@@ -18,7 +18,7 @@ __**RATTRAPAGES L1**__
 :eight: <#802867138518843432> Système à la fonction
 :nine: <#927857179824889896> Introduction à Git
 
-
+` `
 __**RATTRAPAGES L2**__
 
 :zero: <#815938394013827112> SP401 Propagation électromagnétique
@@ -33,13 +33,13 @@ __**RATTRAPAGES L2**__
 :nine: <#761922623063064648> TE402 Systèmes de Transmission
 
 
-
+` `
 :zero: <#888085892080738324> SB405 Pratique de la biologie moléculaire 2
 :one: <#809818898182045696> SM401 Automates finis et expressions rationnelles
 :two: <#810151770192871454> FHS401 Histoire des Sciences
 
 
-
+` `
 __**RATTRAPAGES L3**__
 
 :zero: <#809083403743264788> SM503 Théorie des graphes
@@ -53,7 +53,6 @@ __**RATTRAPAGES L3**__
 :eight: <#799664237462159400> Java (date ?)
 
 
-
-
+` `
 Pour les L3, nous n'avons pas toutes les dates :calendar_spiral:  de tous les examens, vous pouvez poser vos questions :question: dans les canaux ;)
 Voir l'[annonce](https://discord.com/channels/694220883815956580/887751449625387089/985630204728864818)
