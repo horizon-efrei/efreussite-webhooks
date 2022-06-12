@@ -58,6 +58,6 @@ __**RATTRAPAGES L3**__
 
 
 ` `
-Pour les L3, nous n'avons pas toutes les dates :calendar_spiral: ni tous les examens, envoie les à <@370940255026675715> si tu les as
-Tu peux poser tes questions :question: dans les canaux ;)
-Voir l'[annonce](https://discord.com/channels/694220883815956580/887751449625387089/985630204728864818)
+Pour les L3, nous n'avons pas toutes les dates :calendar_spiral: ni tous les examens, envoie les à <@370940255026675715> si tu les as.
+Tu peux poser tes questions :question: dans les canaux 😉.
+Voir l'[annonce](https://discord.com/channels/694220883815956580/887751449625387089/985630204728864818).
