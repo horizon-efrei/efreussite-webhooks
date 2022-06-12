@@ -9,50 +9,51 @@ Réagis sur les menus suivants pour nous aider à avoir une idée de là où tu 
 ` `
 __**RATTRAPAGES L1**__
 
-:zero: <#796439254469312582> Analyse
-:one: <#927862574777790495> Atome à la puce
-:two: <#977913803385749504> Histoire des Sciences
-:three: <#694636294961234001> Communication
-:four: <#694636933166530580> Anglais
-:five: <#809466892065832980> Electricité Générale
-:six: <#809084853348991017> Algèbre linéaire
-:seven: <#819540421545033759> Algo (c)
-:eight: <#802867138518843432> Système à la fonction
-:nine: <#927857179824889896> Introduction à Git
+:zero: <#796439254469312582>
+:one: <#927862574777790495>
+:two: <#977913803385749504>
+:three: <#694636294961234001>
+:four: <#694636933166530580>
+:five: <#809466892065832980>
+:six: <#809084853348991017>
+:seven: <#819540421545033759>
+:eight: <#802867138518843432>
+:nine: <#927857179824889896>
 
 
 ` `
 __**RATTRAPAGES L2**__
 
-:zero: <#815938394013827112> SP401 Propagation électromagnétique
-:one: <#809082397781655592> SM401 Modélisation mathématique
-:two: <#819374104108728340> TI403 Programmation Orienté Objet Java
-:three: <#694636294961234001> FH401 Dissertation et rhétorique
-:four: <#888085892080738324> SB407 Biologie structurale et métabolique
-:five: <#927858681972944926> TI404 Introduction aux Bases de données
-:six: <#832302872506138684> TI402 Programmation Web
-:seven: <#694636933166530580> FL401 English 4 - Preparation
-:eight: <#809082131166134313> Analyse de données
-:nine: <#761922623063064648> TE402 Systèmes de Transmission
+:zero: <#815938394013827112>
+:one: <#809082397781655592>
+:two: <#819374104108728340>
+:three: <#694636294961234001>
+:four: <#888085892080738324>
+:five: <#927858681972944926>
+:six: <#832302872506138684>
+:seven: <#694636933166530580>
+:eight: <#809082131166134313>
+:nine: <#761922623063064648>
 
 
 ` `
-:zero: <#888085892080738324> SB405 Pratique de la biologie moléculaire 2
-:one: <#809818898182045696> SM401 Automates finis et expressions rationnelles
-:two: <#810151770192871454> FHS401 Histoire des Sciences
+:zero: <#888085892080738324>
+:one: <#809818898182045696>
+:two: <#810151770192871454>
 
 
 ` `
 __**RATTRAPAGES L3**__
-:zero: <#809083403743264788> SM503 Théorie des graphes
-:one: <#806611362221916190> Théorie du Signal 1
-:two: <#694636294961234001> Dissertation et communication
-:three: <#809083188331937882> SM503M Mathématiques pour la cryptographie
-:four: <#812362478340145162> Canaux de transmission
-:five: <#809844421054824468> Systèmes Linéaires
-:six: <#799662080071303248> Advanced Web Programming
-:seven: <#836219786705764412> Networks (date ?)
-:eight: <#799664237462159400> Java (date ?)
+
+:zero: <#809083403743264788>
+:one: <#806611362221916190>
+:two: <#694636294961234001>
+:three: <#809083188331937882>
+:four: <#812362478340145162>
+:five: <#809844421054824468>
+:six: <#799662080071303248>
+:seven: <#836219786705764412>
+:eight: <#799664237462159400>
 
 
 ` `
