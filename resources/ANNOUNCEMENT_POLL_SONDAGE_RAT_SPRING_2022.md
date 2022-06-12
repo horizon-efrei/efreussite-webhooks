@@ -1,6 +1,6 @@
 Hello <@&809185319161036841> <@&809102850902589440> <@&809185449447784498>
 
-Si tu veux être ping pout les rattarapages, prends les [rôles ping des rattrapages](https://discord.com/channels/694220883815956580/892340236175147029/893852934104825866) car les rôles promo ne seront pas ping <:ping:985633283159253012:> !
+Si tu veux être ping pour les rattarapages, prends les [rôles ping des rattrapages](https://discord.com/channels/694220883815956580/892340236175147029/893852934104825866) car les rôles promo ne seront pas ping <:ping:985633283159253012:> !
 Si tu ne vois pas le cannal où prendre les rôles, il te manque le [rôle parcours ingé ou pex](https://discord.com/channels/694220883815956580/817741515564122143/895428636038012970).
 
 Réagis sur les menus suivants pour nous aider à avoir une idée de là où tu pourrais avoir besoin d'aide ou de cours.
