@@ -1,4 +1,4 @@
-Bonsoir à toutes et à tous !
+Bonjour à toutes et à tous !
 
 J'espère que vous allez bien, que vous soyez en vacances ou non.
 
