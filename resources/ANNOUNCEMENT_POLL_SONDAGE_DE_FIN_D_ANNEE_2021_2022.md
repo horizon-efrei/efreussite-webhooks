@@ -1,4 +1,4 @@
-Bonjour à toutes et à tous !
+Bonjour à toutes et à tous ! <@&823155823063597107>
 
 J'espère que vous allez bien, que vous soyez en vacances ou non.
 
