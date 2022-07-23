@@ -3,47 +3,66 @@
   📜 Les annonces du discord Ef'Réussite !
 </p>
 
-### Ajouter une annonce
+### 🆕 Ajouter un message
 
-1. Créer une nouvelle branche avec le nom de l'annonce
-1. Ajouter un fichier markdown dans [`./resources`](/resources). Le nom du fichier doit commencer par :
-    - `ANNOUNCEMENT_ALL_` : pour les annonces générales
-    - `ANNOUNCEMENT_<year>_` : pour les annonces de promo (ex: `ANNOUNCEMENT_2025_`, `ANNOUNCEMENT_2026_`...)
-    - `ANNOUNCEMENT_STAFF_` : pour les annonces pour le staff
-    - `ANNOUNCEMENT_GOODTOKNOW_` : pour les annonces "Bon à savoir"
-    - `ANNOUNCEMENT_POLL_` : pour les sondages
+1. Créez une nouvelle branche avec le titre du message.
+1. Ajouter un fichier markdown dans [`./resources`](/resources). Choisissez un des sous-dossiers qui correspond à votre message.
+      - `guide` pour les messages du guide (#📍-guide-et-liens)
+      - `rules` pour les messages des règles (#📜-règles)
+      - `P2022` pour les annonces pour la Promo 2023 (#⚪-promo-2022)
+      - `P2023` pour les annonces pour la Promo 2023 (#🟣-promo-2023)
+      - `P2024` pour les annonces pour la Promo 2024 (#🟤-promo-2024)
+      - `P2025` pour les annonces pour la Promo 2025 (#🟠-promo-2025)
+      - `P2026` pour les annonces pour la Promo 2026 (#🔵-promo-2026)
+      - `P2027` pour les annonces pour la Promo 2027 (#🟢-promo-2027)
+      - `global` pour les annonces générales (#📢-annonces)
+      - `poll` pour les messages de sondage (#🤔-sondages)
+      - `tips` pour les annonces "bon à savoir" (#📢-bon-à-savoir-❗)
 
-    La suite du nom du fichier doit être une courte description de l'annonce, tout en MAJUSCULES avec uniquement des lettres, des chiffres et des underscores (`_`).
-2. Chaque paragraphe (séparés par deux lignes vides) sera posté dans un nouveau message. Essayez d'utiliser le moins de messages possible (la limite est de 2000 caractères par message) pour éviter les rate limits.
-3. Pour ajouter des images, il faut
-    1. Créez un **dossier** dans `./resources/images` au nom du fichier markdown contenant l'annonce, en respectant la casse.
-    2. Dans `./resources/images/<FOLDER_NAME>`, ajoutez l'image au format `.png` avec un nom tout en MAJUSCULES avec uniquement des lettres, des chiffres et des underscores (`_`).
-    3. Les référencer dans le fichier markdown avec `%PNG_<IMAGE_FILE_NAME>%`.
-4. Faites une Pull Request de votre branche vers master, pour que tout le monde puisse la review
+    À part pour `guide` et `rules`, il vous faudra choisir un deuxième sous-dossier correspondant à l'année scolaire en cours. Par exemple, `P2024/2022-2023/`.
+    Le nom du fichier en lui même doit être une courte description de l'annonce (avec ou sans espaces, accents, majuscules, caractères spéciaux...), seuls les points (`.`), et les slashs/anti-slashs (`/` et `\`) ne sont pas autorisés.
 
-### Déployer des annonces
+    Si le dossier dans lequel vous devez mettre votre annonce contient un fichier `.gitkeep`, vous pouvez le supprimer.
+2. Faites une Pull Request de votre branche vers master, pour que tout le monde puisse la review.
+
+
+### 💡 Astuces pour un message bien formatté
+
+- Chaque paragraphe séparé par `===MESSAGE_BREAK===` sera posté dans un nouveau message. Essayez d'utiliser le moins de messages possible (la limite est de 2000 caractères par message) pour éviter les rate limits.
+- Utilisez "nous", "l'équipe" etc, pas "je" car les lecteurs ne sauront pas de qui vous parlez comme le message sera posté sous le nom "Horizon".
+- Pensez à utilisez des émojis !
+- Intégrez les liens au texte, par exemple `[Rendez-vous sur Google](https://www.google.com)` qui donne "[Rendez-vous sur Google](https://www.google.com)". Évitez de mettre un lien uniquement sur des textes cours et non descriptifs ("Cliquez [ici]", "Vous pouvez le voir [là]"...).
+- Utilisez du **gras** (`**gras**`), de l'italique (`*italique*`) et du souligné (`__souligné__`) pour mettre en forme votre texte.
+- Utilisez des images ! Pour cela, il faut :
+    1. Créez un ou des **dossier(s)** dans `./resources/_images/` correspondants aux dossiers dans lesquels vous avez mis votre annonce. Exemples :
+         - Pour une annonce dans `./resources/guide/Premier message.md`, il faut créer le dossier `./resources/_images/guide/Premier message/`
+         - Pour une annonce dans `./resources/P2025/2021-2022/Ateliers mobilité S5.md`, il faut créer le dossier `./resources/_images/P2025/2021-2022/Ateliers mobilité S5/`
+      Notez bien qu'il faut créer un **dossier** correspondant au nom de votre annonce, mais sans le `.md` à la fin.
+    1. Dans `./resources/_images/<FOLDER_NAME>`, ajoutez l'image au format `.png` avec un nom tout en MAJUSCULES avec uniquement des lettres, des chiffres et des underscores (`_`).
+    1. Les référencer dans le fichier markdown avec `%PNG_<IMAGE_FILE_NAME>%`.
+
+    Les images apparaitront toujours à la fin du message, sauf si vous utilisez `===MESSAGE_BREAK===`.
+
+
+### 🚀 Déployer un message
 
 Une fois qu'un document est prêt à être publié, il peut être déployé avec le workflow GitHub.
 
-1. Allez sur [le workflow GitHub](https://github.com/horizon-efrei/efreussite-webhooks/actions/workflows/deployment.yml)
-1. Cliquez sur "Run workflow"
-1. Dans le champs d'input, mettez le nom des fichiers à déployer, séparés par des virgules
-1. Confirmez en cliquant sur "Run workflow"
+1. Allez sur le workflow GitHub [de déploiement](https://github.com/horizon-efrei/efreussite-webhooks/actions/workflows/deployment.yml) ou [de pré-déploiement](https://github.com/horizon-efrei/efreussite-webhooks/actions/workflows/draft-deployment.yml) pour tester d'abord.
+1. Cliquez sur "Run workflow".
+1. Dans le champs d'input, mettez le nom du fichier à déployer avec ses dossiers parents, sauf le dossier `resource`. Exemple : `guide/Premier message.md` ou `P2025/2021-2022/Ateliers mobilité S5` (le `.md` est facultatif).
+1. Confirmez en cliquant sur "Run workflow".
 
-#### Tester le déploiement d'une annonce
-
-Il est possible de déployer une annonce dans le salon [`#pré-annonces`](https://discord.com/channels/694220883815956580/823144431368536074) afin de la vérifier avec de l'envoyer pour de bon.
-Pour cela, il suffit de remplacer la partie `ANNOUNCEMENT` du nom du fichier par `DRAFT`.
-Par exemple, plutôt que `ANNOUNCEMENT_2025_DESCRIPTION`, vous pouvez utiliser `DRAFT_2025_DESCRIPTION` au niveau de l'étape 3.
-
-#### Mise à jour d'un message
+#### ✏️ Mise à jour d'un message
 
 La mise à jour d'un message se fait manuellement.
-Pour cela, dans le fichier [updater](./src/updater.js), remplacez la ligne 6 par le contenu de votre annonce.
-Remplacez également les variables `messageId` et `webhookURL` par l'ID du message souhaité et l'URL du webhook du salon associé.
+Installez le projet en local avec `git clone https://github.com/horizon-efrei/efreussite-webhooks && cd efreussite-webhooks && npm intsall`. Si la commande `npm` n'est pas reconnue, vous devez [installer Node.js](https://nodejs.org/en/download/).
+Assurez-vous d'avoir Node.js ≥16.9.0 minimum, via `node -v`. Autrement, mettez-le à jour.
+Ensuite, dans le fichier [updater](./src/updater.js), suivez les instructions en commentaire. Remplacez le contenu du message, l'ID du message et l'url du webhook comme indiqué.
 
-Enfin, dans votre terminal entrez `node ./src/updater.js` pour lancer la mise à jour.
+Enfin, dans votre terminal entrez `npm run update` pour lancer la mise à jour.
 **Pensez à ne pas commit vos modifications.**
+
 
 ### Crédits
 
