@@ -1,6 +1,7 @@
+%GIF_BANNER_EFREUSSITE_HORIZON%
 
-Ghttps://cdn.discordapp.com/attachments/892407797961089114/895430370042998846/Banner_EfReussite_Horizon.gif
 ===MESSAGE_BREAK===
+
 `Horizon`: **l'association d'entraide**, de peer learning/peer support et de projets collaboratifs de l'***Efrei***, **qui gère <@&817131722399154177> :efreiparis:** ! `Ef'Réussite`: le forum de discussions pour aider la réussite scolaire des étudiants <@&822901466586415114> : 
 
 `Ef'Réussite` : le forum de discussions pour aider la réussite scolaire des étudiants @Efrei :
@@ -10,7 +11,7 @@ Pour rejoindre l'association Horizon, le Pôle Ef'Réussite, tu peux contacter @
 
 ===MESSAGE_BREAK===
 
-https://cdn.discordapp.com/attachments/892407797961089114/895430462384795769/Banner_Nos_Reseaux.png
+%PNG_BANNER_NOS_RESEAUX%
 
 ===MESSAGE_BREAK===
 
@@ -23,7 +24,7 @@ https://cdn.discordapp.com/attachments/892407797961089114/895430462384795769/Ban
 
 ===MESSAGE_BREAK===
 
-https://cdn.discordapp.com/attachments/892407797961089114/895430561642975302/Banner_Channels.png
+%PNG_BANNER_CHANNELS%
 
 ===MESSAGE_BREAK===
 
@@ -57,41 +58,41 @@ __Salons publics ouverts aux **questions, remontées de problèmes et discussion
 
 ===MESSAGE_BREAK===
 
-https://cdn.discordapp.com/attachments/892407797961089114/895431351363321896/Banner_Roles_Particuliers.png
+%BANNER_ROLES_PARTICULIERS%
 
 ===MESSAGE_BREAK===
 
-:compass:__**L'ÉQUIPE**__ @Enseignant(e) EFREI / @Admin. Efrei = Membres de l'équipe pédagogique/de l'administration Efrei 
-@Horizon = Membres d'Horizon, l'association étudiante Efrei dont l'un des Pôles est @Ef'Réussite ! 
+:compass:__**L'ÉQUIPE**__ <@&808297761450754049>/<@&809102657205043301> = Membres de l'équipe pédagogique/de l'administration Efrei 
+@Horizon = Membres d'Horizon, l'association étudiante Efrei dont l'un des Pôles est <@&817131722399154177> ! 
 @Étudiant-Prof = Étudiants prêts à t'aider pour les révisions via des séances de cours ou en répondant à tes questions par écrit ! 
 @etudiant prof cours = 
 @etudiant présentiel = 
 
 [TIP] Pose tes questions publiquement et détaille-les au max. pour que les @Étudiant-Prof puissent t'aider ! 
-[TIP] Si tu souhaites t'inscrire en tant qu'eProf, les détails sont dans 🇭-horizon 
+[TIP] Si tu souhaites t'inscrire en tant qu'eProf, tu peux contacter 
 
 ===MESSAGE_BREAK===
 
-🎩 REPRÉSENTANTS ÉTUDIANTS
+🎩 __**`REPRÉSENTANTS ÉTUDIANTS`**__
 
-@Délégué(e) = Délégués Efrei: Interlocuteurs privilégiés pour les cours à organiser, les remontées & les relais d'annonces
-@Intervenant(e) Majeure = Interlocuteurs volontaires pour aider à représenter leur majeure
-@Intervenant(e) International = Interlocuteurs volontaires pour aider à répondre à des questions liées au semestre à l'étranger
-@Annonceur général/L1/L2/L3/M1/M2/Spé = Étudiants avec permissions d'annonce (canaux # ⚪-promo-<promo>)
+<@&805219177660022834> = Délégués Efrei: Interlocuteurs privilégiés pour les cours à organiser, les remontées & les relais d'annonces
+<@&893240708339753000> = Interlocuteurs volontaires pour aider à représenter leur majeure
+<@&995780483034124409> = Interlocuteurs volontaires pour aider à répondre à des questions liées au semestre à l'étranger
+<@&892397608138584086>/L1/L2/L3/M1/M2/Spé = Étudiants avec permissions d'annonce (canaux # ⚪-promo-<promo>)
 
-[TIP] Î Les rôles ci-dessus peuvent être obtenus en les demandant à un membre du staff @Horizon
+**[TIP] ↑ Les rôles ci-dessus peuvent être obtenus en les demandant à un des respo <@&938679049746792448>**
   
  
-⚙️ RÔLES OPTIONNELS
+⚙️ __**`RÔLES OPTIONNELS`**__
 
-@Membre actif = Rôle notifié pour des questions/annonces ne nécessitant pas de gros ping (@everyone ou ping de promo) mais qui peuvent aider la communauté 👍
-Ex. 
-- Questions d'organisation ("Où en êtes-vous dans tel ou tel cours ?", "Avez-vous plus d'information sur tel ou tel sujet ?" ...)
-- Retours ouverts ("Que pensez-vous de cette nouvelle fonctionnalité ?", "Que pensez-vous de cette communication de l'Efrei ?" ...)
-- Mini-annonces ("Nous recherchons une personne qui s'y connaît dans tel ou tel domaine, connaissez-vous quelqu'un ?", relais d'annonces ...)
+<@&893240596280537119> = Rôle notifié pour des questions/annonces ne nécessitant pas de gros ping (@everyone ou ping de promo) mais qui peuvent aider la communauté 👍
+> Ex. 
+> - Questions d'organisation ("Où en êtes-vous dans tel ou tel cours ?", "Avez-vous plus d'information sur tel ou tel sujet ?" ...)
+> - Retours ouverts ("Que pensez-vous de cette nouvelle fonctionnalité ?", "Que pensez-vous de cette communication de l'Efrei ?" ...)
+> - Mini-annonces ("Nous recherchons une personne qui s'y connaît dans tel ou tel domaine, connaissez-vous quelqu'un ?", relais d'annonces ...)
 
-@Bon à Savoir ! = Rôle notifié lors de nouvelles annonces informatives sont postées sur 📢-bon-à-savoir-❗
-@Sondage = Rôle notifié lorsque de nouveaux 🤔-sondages sont lancés (ta voix importe !)
+<@&895274408325836850> = Rôle notifié lors de nouvelles annonces informatives sont postées sur <#895274285457887242>
+<@&823155823063597107> = Rôle notifié lorsque de nouveaux <#895431846958092300> sont lancés (ta voix importe !)
 
-[TIP] Utilise le channel 🧢-roles-généraux pour obtenir un Rôle optionnel
+**[TIP] Utilise le channel <#892340236175147029> pour obtenir un `Rôle optionnel`**
 
