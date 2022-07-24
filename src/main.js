@@ -63,8 +63,10 @@ try {
   throw new Error('❌ [INVALID] Invalid file path');
 }
 
-file = file.replace(/\[(?<text>.+?)]\((?<url>.+?)\)/gm, (_, text, url) => `[${text}](<${url}>)`);
-file = file.replace(/%PNG_(?<name>[\dA-Z_]+)%/gm, `${imagesBaseUrl}/${announcementPath}/$1.png`);
+file = file
+  .replace(/\[(?<text>.+?)]\((?<url>.+?)\)/gm, (_, text, url) => `[${text}](<${url}>)`)
+  .replace(/%PNG_(?<name>[\dA-Z_]+)%/gm, `${imagesBaseUrl}/${announcementPath}/$1.png`)
+  .replace(/%GIF_(?<name>[\dA-Z_]+)%/gm, `${imagesBaseUrl}/${announcementPath}/$1.gif`);
 
 const parts = file.split('===MESSAGE_BREAK===');
 
