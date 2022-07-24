@@ -11,10 +11,12 @@ Pour rejoindre l'association Horizon, le Pôle Ef'Réussite, tu peux contacter @
 ===MESSAGE_BREAK===
 
 https://cdn.discordapp.com/attachments/892407797961089114/895430462384795769/Banner_Nos_Reseaux.png
+
 ===MESSAGE_BREAK===
-:youtube~2: [`YouTube`](https://bit.ly/HorizonYouTube) [Rediffusions des cours édités]
-:SharePoint: [`SharePoint`](https://bit.ly/EfRéussiteSP) [Rediffusions des cours] 
-:instagram~1: [`Instagram`](https://bit.ly/HorizonInstagram) horizon.efrei
+
+:1000875843167453277: [`YouTube`](https://bit.ly/HorizonYouTube) [Rediffusions des cours édités]
+:1000875919080161382: [`SharePoint`](https://bit.ly/EfRéussiteSP) [Rediffusions des cours] 
+:1000875984330965012: [`Instagram`](https://bit.ly/HorizonInstagram) horizon.efrei
 
 `Mentorat` - [`Inscription Junior`](https://bit.ly/HorizonJunior)
 `Mentorat` - [`Inscription Mentor`](https://bit.ly/HorizonMentor)
@@ -49,7 +51,7 @@ __Salons publics ouverts aux **questions, remontées de problèmes et discussion
 <#895430833593286666> = Conventions de stage, conseils pour trouver un job, questions career center... :briefcase:
 <#895430833593286666> = Tout ce qui est en rapport avec l'informatique, même hors de ce qui est vu en cours :computer:
 <#895430833593286666> = Signalement de problèmes, suggestions d'améliorations pour l'Efrei  :efreiparis:
-🤖-commandes-bot = Écris `!help` dans le canal pour voir la liste des commandes :robot:
+<#881986157355888691> = Écris `!help` dans le canal pour voir la liste des commandes :robot:
 
 **[TIP] Utilise la commande `!tags list` pour voir tous les récapitulatifs d'infos disponibles dans notre base de données !**
 
