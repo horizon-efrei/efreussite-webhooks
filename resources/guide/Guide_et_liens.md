@@ -15,9 +15,9 @@ Pour rejoindre l'association Horizon, le Pôle Ef'Réussite, tu peux contacter l
 
 ===MESSAGE_BREAK===
 
-:1000875843167453277: [`YouTube`](https://bit.ly/HorizonYouTube) [Rediffusions des cours édités]
-:1000875919080161382: [`SharePoint`](https://bit.ly/EfRéussiteSP) [Rediffusions des cours] 
-:1000875984330965012: [`Instagram`](https://bit.ly/HorizonInstagram) horizon.efrei
+<:Youtube:1000875843167453277> [`YouTube`](https://bit.ly/HorizonYouTube) [Rediffusions des cours édités]
+<:SharePoint:1000875919080161382> [`SharePoint`](https://bit.ly/EfRéussiteSP) [Rediffusions des cours] 
+<:Instagram:1000875984330965012> [`Instagram`](https://bit.ly/HorizonInstagram) horizon.efrei
 
 `Mentorat` - [`Inscription Junior`](https://bit.ly/HorizonJunior)
 `Mentorat` - [`Inscription Mentor`](https://bit.ly/HorizonMentor)
@@ -46,8 +46,9 @@ Pour rejoindre l'association Horizon, le Pôle Ef'Réussite, tu peux contacter l
 ===MESSAGE_BREAK===
 
 __**:book: `CHANNELS GÉNÉRAUX`**__
+
 #:white_circle:-général-<promo> = Questions relatives à ta promo, relais d'informations et discussions libres :speech_balloon: 
-**[TIP] Remplis le [formulaire](https://bit.ly/EfRéussiteRecrute) pour rejoindre l'asso !** 
+**[TIP] Remplis le [formulaire](https://bit.ly/EfRéussiteRecrute) pour rejoindre le Pôle ou l'asso !** 
 
 __Salons publics ouverts aux **questions, remontées de problèmes et discussions**__: 
 
