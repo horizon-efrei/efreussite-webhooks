@@ -34,7 +34,7 @@ Pour rejoindre l'association Horizon, le Pôle Ef'Réussite, tu peux contacter l
 ⦿ Pour une question / une demande de cours __pour un module__, demande directement dans le channel du cours: 
 > Ex: Question en Python ? ➤ <#799611218352406528> / Question en Communication ? ➤ <#694636294961234001> 
 
-⦿ Les channels #<module>-docs (ex. <#895430659395424257>, <#895430659395424257>) servent à partager des ressources de cours (TD, annales, fiches de révisions...) 
+⦿ Les channels #<module>-docs (ex. <#885617773131202640>, <#810151799020847164>) servent à partager des ressources de cours (TD, annales, fiches de révisions...) 
 > __Le bot delete automatiquement les messages ne contenant pas de docs. Merci de ne pas discuter dans ces salons pour éviter le flood ! __
 
 ⦿ Pour une question générale __par rapport à une matière__, demande dans le channel de la matière: 
