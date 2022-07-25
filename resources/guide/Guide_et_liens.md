@@ -2,7 +2,7 @@
 
 ===MESSAGE_BREAK===
  ** **
-`Horizon`: **l'association d'entraide**, de peer learning/peer support et de projets collaboratifs de l'@Efrei, **qui gère <@&817131722399154177> <:efreiparis:809232977347084308>** ! `Ef'Réussite`: le forum de discussions pour aider la réussite scolaire des étudiants @Efrei : 
+`Horizon` : **l'association d'entraide**, de peer learning/peer support et de projets collaboratifs de l'@Efrei, **qui gère <@&817131722399154177> <:efreiparis:809232977347084308>** ! `Ef'Réussite` : le forum de discussions pour aider la réussite scolaire des étudiants @Efrei : 
 
 `Ef'Réussite` : le forum de discussions pour aider la réussite scolaire des étudiants @Efrei :
 > Suis nos séances de révisions organisées par des <@&805873100813500447>, pose tes questions & discute sur les divers channels, relaie des <#895430423990140958> et participe à la communauté :100: !
