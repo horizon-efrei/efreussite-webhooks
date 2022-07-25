@@ -1,14 +1,14 @@
 %GIF_BANNER_EFREUSSITE_HORIZON%
 
 ===MESSAGE_BREAK===
- 
+ **
 `Horizon`: **l'association d'entraide**, de peer learning/peer support et de projets collaboratifs de l'***Efrei***, **qui gère <@&817131722399154177> :efreiparis:** ! `Ef'Réussite`: le forum de discussions pour aider la réussite scolaire des étudiants <@&822901466586415114> : 
 
 `Ef'Réussite` : le forum de discussions pour aider la réussite scolaire des étudiants @Efrei :
 > Suis nos séances de révisions organisées par des <@&805873100813500447>, pose tes questions & discute sur les divers channels, relaie des <#895430423990140958> et participe à la communauté :100: !
 
 Pour rejoindre l'association Horizon, le Pôle Ef'Réussite, tu peux contacter le <@&918277370161532948>, les <@&938679049746792448>, un des <@&934147334760169574> ou remplir le formulaire plus bas. 
- 
+  ** 
 ===MESSAGE_BREAK===
 
 %PNG_BANNER_NOS_RESEAUX%
@@ -28,7 +28,7 @@ Pour rejoindre l'association Horizon, le Pôle Ef'Réussite, tu peux contacter l
 %PNG_BANNER_CHANNELS%
 
 ===MESSAGE_BREAK===
-
+ **
 :teacher: __**CHANNELS DE COURS**__
 
 ⦿ Pour une question / une demande de cours __pour un module__, demande directement dans le channel du cours: 
@@ -39,14 +39,14 @@ Pour rejoindre l'association Horizon, le Pôle Ef'Réussite, tu peux contacter l
 
 ⦿ Pour une question générale __par rapport à une matière__, demande dans le channel de la matière: 
 > Ex. Question sur les Maths en L1 ? ➤ <#895430659395424257> / Question en Formation Générale en L3 ? ➤ <#880208269593939978>
-
+  **
 <#895430659395424257>/l2/l3 + <#895430659395424257> = Résumés des cours à venir <#895430659395424257>/l2/l3 = Annonces des cours à venir 
 
 **[TIP] Réagis sur les :white_check_mark: pour avoir un rappel pour le cours dans** <#895430659395424257> <#895430659395424257> <#895430659395424257>
  
 
 ===MESSAGE_BREAK===
- 
+ **
 __**:book: `CHANNELS GÉNÉRAUX`**__
 
 #:white_circle:-général-<promo> = Questions relatives à ta promo, relais d'informations et discussions libres :speech_balloon: 
@@ -64,7 +64,7 @@ __Salons publics ouverts aux **questions, remontées de problèmes et discussion
 
 **[TIP] Utilise la commande `!tags list` pour voir tous les récapitulatifs d'infos disponibles dans notre base de données !**
  
-
+**
 ===MESSAGE_BREAK===
 
 %PNG_BANNER_ROLES_PARTICULIERS%
@@ -92,7 +92,7 @@ __Salons publics ouverts aux **questions, remontées de problèmes et discussion
 ===MESSAGE_BREAK===
  
 🎩 __**`REPRÉSENTANTS ÉTUDIANTS`**__
-
+**
 <@&805219177660022834> = Délégués Efrei: Interlocuteurs privilégiés pour les cours à organiser, les remontées & les relais d'annonces
 <@&893240708339753000> = Interlocuteurs volontaires pour aider à représenter leur majeure
 <@&995780483034124409> = Interlocuteurs volontaires pour aider à répondre à des questions liées au semestre à l'étranger
@@ -100,9 +100,9 @@ __Salons publics ouverts aux **questions, remontées de problèmes et discussion
 
 **[TIP] ↑ Les rôles ci-dessus peuvent être obtenus en les demandant à un des respo <@&938679049746792448>**
    
-
+**
 ===MESSAGE_BREAK===
- 
+ * *
 ⚙️ __**`RÔLES OPTIONNELS`**__
 
 <@&893240596280537119> = Rôle notifié pour des questions/annonces ne nécessitant pas de gros ping (@everyone ou ping de promo) mais qui peuvent aider la communauté 👍
