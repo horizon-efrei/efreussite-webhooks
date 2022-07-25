@@ -15,9 +15,9 @@ Pour rejoindre l'association Horizon, le Pôle Ef'Réussite, tu peux contacter l
 
 ===MESSAGE_BREAK===
  
-<:Youtube:1000875843167453277> [`YouTube`](https://bit.ly/HorizonYouTube) [Rediffusions des cours édités]
-<:SharePoint:1000875919080161382> [`SharePoint`](https://bit.ly/EfRéussiteSP) [Rediffusions des cours] 
-<:Instagram:1000875984330965012> [`Instagram`](https://bit.ly/HorizonInstagram) horizon.efrei
+<:youtube:893954942069526528> [`YouTube`](https://bit.ly/HorizonYouTube) [Rediffusions des cours édités]
+<:SharePoint:918826983612354560> [`SharePoint`](https://bit.ly/EfRéussiteSP) [Rediffusions des cours] 
+<:instagram:894179613918519386> [`Instagram`](https://bit.ly/HorizonInstagram) horizon.efrei
 
 `Mentorat` - [`Inscription Junior`](https://bit.ly/HorizonJunior)
 `Mentorat` - [`Inscription Mentor`](https://bit.ly/HorizonMentor)
