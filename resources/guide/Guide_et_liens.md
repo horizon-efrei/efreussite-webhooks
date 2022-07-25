@@ -2,7 +2,7 @@
 
 ===MESSAGE_BREAK===
  ** **
-`Horizon`: **l'association d'entraide**, de peer learning/peer support et de projets collaboratifs de l'***Efrei***, **qui gère <@&817131722399154177> :efreiparis:** ! `Ef'Réussite`: le forum de discussions pour aider la réussite scolaire des étudiants <@&822901466586415114> : 
+`Horizon`: **l'association d'entraide**, de peer learning/peer support et de projets collaboratifs de l'@Efrei, **qui gère <@&817131722399154177> <:efreiparis:809232977347084308>** ! `Ef'Réussite`: le forum de discussions pour aider la réussite scolaire des étudiants @Efrei : 
 
 `Ef'Réussite` : le forum de discussions pour aider la réussite scolaire des étudiants @Efrei :
 > Suis nos séances de révisions organisées par des <@&805873100813500447>, pose tes questions & discute sur les divers channels, relaie des <#895430423990140958> et participe à la communauté :100: !
@@ -38,9 +38,9 @@ Pour rejoindre l'association Horizon, le Pôle Ef'Réussite, tu peux contacter l
 > __Le bot delete automatiquement les messages ne contenant pas de docs. Merci de ne pas discuter dans ces salons pour éviter le flood ! __
 
 ⦿ Pour une question générale __par rapport à une matière__, demande dans le channel de la matière: 
-> Ex. Question sur les Maths en L1 ? ➤ <#895430659395424257> / Question en Formation Générale en L3 ? ➤ <#880208269593939978>
+> Ex. Question sur les Maths en L1 ? ➤ <#801429506854223872> / Question en Formation Générale en L3 ? ➤ <#880208269593939978>
   **
-<#895430659395424257>/l2/l3 + <#895430659395424257> = Résumés des cours à venir <#895430659395424257>/l2/l3 = Annonces des cours à venir 
+<#838541954253455380>/l2/l3 + <#895430659395424257> = Résumés des cours à venir <#883667080212267038>/l2/l3 = Annonces des cours à venir 
 
 **[TIP] Réagis sur les :white_check_mark: pour avoir un rappel pour le cours dans** <#895430659395424257> <#895430659395424257> <#895430659395424257>
  ** **
@@ -54,12 +54,15 @@ __**:book: `CHANNELS GÉNÉRAUX`**__
 
 __Salons publics ouverts aux **questions, remontées de problèmes et discussions**__: 
 
-<#895430833593286666>= A propos de la plateforme, de l'école, des actualités qui concernent tout le monde... :speech_left:
-<#895430833593286666> = Mobilités internationales, SWIM, journée internationale, étudiants internationaux... :earth_africa:
-<#895430833593286666> = Outils Efrei (Teams, Moodle), contacts administratifs... :school_satchel:
-<#895430833593286666> = Conventions de stage, conseils pour trouver un job, questions career center... :briefcase:
-<#895430833593286666> = Tout ce qui est en rapport avec l'informatique, même hors de ce qui est vu en cours :computer:
-<#895430833593286666> = Signalement de problèmes, suggestions d'améliorations pour l'Efrei  :efreiparis:
+<#761924229208735825> = A propos de la plateforme, de l'école, des actualités qui concernent tout le monde... :speech_left:
+<#889180185574924328> = Mobilités internationales, SWIM, journée internationale, étudiants internationaux... :earth_africa:
+<#900333330065670186> = Pour tout ce qui relèvent des filières, des majeures, des options... 
+<#851422333264330752> = Outils Efrei (Teams, Moodle), contacts administratifs... :school_satchel:
+<#803281098515677225> = Conventions de stage, conseils pour trouver un job, questions career center... :briefcase:
+<#935943395094970398> = Tout ce qui relève du logement
+<#955033831516307507> = Partage ton (tes) idée(s) de projet(s) transverse(s), si tu recherches une équipe etc... Horizon Web et One Panthéon peuvent t'aider dans le suivi du projet pour l'un, et la continuation du projet au-delà pour l'autre
+<#810204694869180426> = Tout ce qui est en rapport avec l'informatique, même hors de ce qui est vu en cours :computer:
+<#849592923325857793> = Signalement de problèmes, suggestions d'améliorations pour l'Efrei  :efreiparis:
 <#881986157355888691> = Écris `!help` dans le canal pour voir la liste des commandes :robot:
 
 **[TIP] Utilise la commande `!tags list` pour voir tous les récapitulatifs d'infos disponibles dans notre base de données !**
@@ -79,20 +82,20 @@ __Salons publics ouverts aux **questions, remontées de problèmes et discussion
 
 <@&805873100813500447> = Étudiants prêts à t'aider pour les révisions via des séances de cours ou en répondant à tes questions par écrit ! 
 
-<@&821920726155395102> = Étudiant(e)-Professeur prêts à t'aider pour les révisions via des séances de cours sur Discord/Teams ou en répondant à tes questions par écrit !
+<@&821920726155395102> = Étudiant(e)-Professeur réalisant des sessions de révisions, des cours sur Discord/Teams ou répondant à tes questions par écrit !
 
-<@&821921661661610004> = Étudiant(e)-Professeur prêts à t'aider pour réaliser des sessions de révisions via des séances de cours ou en répondant à tes questions en présentiel* !
+<@&821921661661610004> = Étudiant(e)-Professeur réalisant des sessions de révisions, des cours ou répondant à tes questions en présentiel* !
 
 **[TIP] Pose tes questions publiquement et détaille-les au max. pour que les <@&805873100813500447> puissent t'aider !**
 **[TIP] Si tu souhaites t'inscrire en tant qu'eProf, tu peux contacter  un des <@&934147334760169574>**
 
-`*` *`Séances de maximum 15 à 30 personnes`*
+`*` *`Séances de maximum 15-30 personnes`*
   
 ** **
 ===MESSAGE_BREAK===
- ** **
+
 🎩 __**`REPRÉSENTANTS ÉTUDIANTS`**__
-** **
+
 <@&805219177660022834> = Délégués Efrei: Interlocuteurs privilégiés pour les cours à organiser, les remontées & les relais d'annonces
 <@&893240708339753000> = Interlocuteurs volontaires pour aider à représenter leur majeure
 <@&995780483034124409> = Interlocuteurs volontaires pour aider à répondre à des questions liées au semestre à l'étranger
@@ -116,3 +119,4 @@ __Salons publics ouverts aux **questions, remontées de problèmes et discussion
 
 **[TIP] Utilise le channel <#892340236175147029> pour obtenir un `Rôle optionnel`**
 
+*N.B. l'association peut prêter des tablettes graphiques pour des cours.*
