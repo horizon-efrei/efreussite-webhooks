@@ -21,7 +21,8 @@ Pour rejoindre l'association Horizon, le Pôle Ef'Réussite, tu peux contacter l
 
 `Mentorat` - [`Inscription Junior`](https://bit.ly/HorizonJunior)
 `Mentorat` - [`Inscription Mentor`](https://bit.ly/HorizonMentor)
- 
+  
+
 ===MESSAGE_BREAK===
 
 %PNG_BANNER_CHANNELS%
@@ -42,6 +43,7 @@ Pour rejoindre l'association Horizon, le Pôle Ef'Réussite, tu peux contacter l
 <#895430659395424257>/l2/l3 + <#895430659395424257> = Résumés des cours à venir <#895430659395424257>/l2/l3 = Annonces des cours à venir 
 
 **[TIP] Réagis sur les :white_check_mark: pour avoir un rappel pour le cours dans** <#895430659395424257> <#895430659395424257> <#895430659395424257>
+ 
 
 ===MESSAGE_BREAK===
  
@@ -62,9 +64,10 @@ __Salons publics ouverts aux **questions, remontées de problèmes et discussion
 
 **[TIP] Utilise la commande `!tags list` pour voir tous les récapitulatifs d'infos disponibles dans notre base de données !**
  
+
 ===MESSAGE_BREAK===
 
-%BANNER_ROLES_PARTICULIERS%
+%PNG_BANNER_ROLES_PARTICULIERS%
 
 ===MESSAGE_BREAK===
  
@@ -84,7 +87,8 @@ __Salons publics ouverts aux **questions, remontées de problèmes et discussion
 **[TIP] Si tu souhaites t'inscrire en tant qu'eProf, tu peux contacter  un des <@&934147334760169574>**
 
 *`*``Séances de maximum 15 à 30 personnes`*
- 
+  
+
 ===MESSAGE_BREAK===
  
 🎩 __**`REPRÉSENTANTS ÉTUDIANTS`**__
@@ -95,7 +99,8 @@ __Salons publics ouverts aux **questions, remontées de problèmes et discussion
 <@&892397608138584086>/L1/L2/L3/M1/M2/Spé = Étudiants avec permissions d'annonce (canaux # ⚪-promo-<promo>)
 
 **[TIP] ↑ Les rôles ci-dessus peuvent être obtenus en les demandant à un des respo <@&938679049746792448>**
-  
+   
+
 ===MESSAGE_BREAK===
  
 ⚙️ __**`RÔLES OPTIONNELS`**__
