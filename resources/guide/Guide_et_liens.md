@@ -1,27 +1,27 @@
 %GIF_BANNER_EFREUSSITE_HORIZON%
 
 ===MESSAGE_BREAK===
-
+ 
 `Horizon`: **l'association d'entraide**, de peer learning/peer support et de projets collaboratifs de l'***Efrei***, **qui gère <@&817131722399154177> :efreiparis:** ! `Ef'Réussite`: le forum de discussions pour aider la réussite scolaire des étudiants <@&822901466586415114> : 
 
 `Ef'Réussite` : le forum de discussions pour aider la réussite scolaire des étudiants @Efrei :
 > Suis nos séances de révisions organisées par des <@&805873100813500447>, pose tes questions & discute sur les divers channels, relaie des <#895430423990140958> et participe à la communauté :100: !
 
-Pour rejoindre l'association Horizon, le Pôle Ef'Réussite, tu peux contacter le <@&918277370161532948>, les <@&938679049746792448>, un des <@&934147334760169574> 
-
+Pour rejoindre l'association Horizon, le Pôle Ef'Réussite, tu peux contacter le <@&918277370161532948>, les <@&938679049746792448>, un des <@&934147334760169574> ou remplir le formulaire plus bas. 
+ 
 ===MESSAGE_BREAK===
 
 %PNG_BANNER_NOS_RESEAUX%
 
 ===MESSAGE_BREAK===
-
+ 
 <:Youtube:1000875843167453277> [`YouTube`](https://bit.ly/HorizonYouTube) [Rediffusions des cours édités]
 <:SharePoint:1000875919080161382> [`SharePoint`](https://bit.ly/EfRéussiteSP) [Rediffusions des cours] 
 <:Instagram:1000875984330965012> [`Instagram`](https://bit.ly/HorizonInstagram) horizon.efrei
 
 `Mentorat` - [`Inscription Junior`](https://bit.ly/HorizonJunior)
 `Mentorat` - [`Inscription Mentor`](https://bit.ly/HorizonMentor)
-
+ 
 ===MESSAGE_BREAK===
 
 %PNG_BANNER_CHANNELS%
@@ -44,7 +44,7 @@ Pour rejoindre l'association Horizon, le Pôle Ef'Réussite, tu peux contacter l
 **[TIP] Réagis sur les :white_check_mark: pour avoir un rappel pour le cours dans** <#895430659395424257> <#895430659395424257> <#895430659395424257>
 
 ===MESSAGE_BREAK===
-
+ 
 __**:book: `CHANNELS GÉNÉRAUX`**__
 
 #:white_circle:-général-<promo> = Questions relatives à ta promo, relais d'informations et discussions libres :speech_balloon: 
@@ -61,13 +61,13 @@ __Salons publics ouverts aux **questions, remontées de problèmes et discussion
 <#881986157355888691> = Écris `!help` dans le canal pour voir la liste des commandes :robot:
 
 **[TIP] Utilise la commande `!tags list` pour voir tous les récapitulatifs d'infos disponibles dans notre base de données !**
-
+ 
 ===MESSAGE_BREAK===
 
 %BANNER_ROLES_PARTICULIERS%
 
 ===MESSAGE_BREAK===
-
+ 
 :compass:__**L'ÉQUIPE**__ 
 
 <@&808297761450754049>/<@&809102657205043301> = Membres de l'équipe pédagogique/de l'administration Efrei 
@@ -83,10 +83,10 @@ __Salons publics ouverts aux **questions, remontées de problèmes et discussion
 **[TIP] Pose tes questions publiquement et détaille-les au max. pour que les <@&805873100813500447> puissent t'aider !**
 **[TIP] Si tu souhaites t'inscrire en tant qu'eProf, tu peux contacter  un des <@&934147334760169574>**
 
-*`*Séances de maximum 15 à 30 personnes`*
-
+*`*``Séances de maximum 15 à 30 personnes`*
+ 
 ===MESSAGE_BREAK===
-
+ 
 🎩 __**`REPRÉSENTANTS ÉTUDIANTS`**__
 
 <@&805219177660022834> = Délégués Efrei: Interlocuteurs privilégiés pour les cours à organiser, les remontées & les relais d'annonces
@@ -96,6 +96,7 @@ __Salons publics ouverts aux **questions, remontées de problèmes et discussion
 
 **[TIP] ↑ Les rôles ci-dessus peuvent être obtenus en les demandant à un des respo <@&938679049746792448>**
   
+===MESSAGE_BREAK===
  
 ⚙️ __**`RÔLES OPTIONNELS`**__
 
