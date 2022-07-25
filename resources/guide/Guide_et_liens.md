@@ -39,12 +39,13 @@ Pour rejoindre l'association Horizon, le Pôle Ef'Réussite, tu peux contacter l
 
 ⦿ Pour une question générale __par rapport à une matière__, demande dans le channel de la matière: 
 > Ex. Question sur les Maths en L1 ? ➤ <#801429506854223872> / Question en Formation Générale en L3 ? ➤ <#880208269593939978>
-  **
+
 <#838541954253455380>/l2/l3 + <#811971646894243880> = Résumés des cours à venir 
 <#883667080212267038>/l2/l3 = Annonces des cours à venir 
 
 **[TIP] Réagis sur les :white_check_mark: pour avoir un rappel pour le cours dans** <#883667080212267038> <#883667105558441994> <#883667127159103508>
- ** **
+ 
+** **
 
 ===MESSAGE_BREAK===
  ** **
