@@ -40,9 +40,10 @@ Pour rejoindre l'association Horizon, le Pôle Ef'Réussite, tu peux contacter l
 ⦿ Pour une question générale __par rapport à une matière__, demande dans le channel de la matière: 
 > Ex. Question sur les Maths en L1 ? ➤ <#801429506854223872> / Question en Formation Générale en L3 ? ➤ <#880208269593939978>
   **
-<#838541954253455380>/l2/l3 + <#895430659395424257> = Résumés des cours à venir <#883667080212267038>/l2/l3 = Annonces des cours à venir 
+<#838541954253455380>/l2/l3 + <#811971646894243880> = Résumés des cours à venir 
+<#883667080212267038>/l2/l3 = Annonces des cours à venir 
 
-**[TIP] Réagis sur les :white_check_mark: pour avoir un rappel pour le cours dans** <#895430659395424257> <#895430659395424257> <#895430659395424257>
+**[TIP] Réagis sur les :white_check_mark: pour avoir un rappel pour le cours dans** <#883667080212267038> <#883667105558441994> <#883667127159103508>
  ** **
 
 ===MESSAGE_BREAK===
@@ -115,7 +116,7 @@ __Salons publics ouverts aux **questions, remontées de problèmes et discussion
 > - Mini-annonces ("Nous recherchons une personne qui s'y connaît dans tel ou tel domaine, connaissez-vous quelqu'un ?", relais d'annonces ...)
 
 <@&895274408325836850> = Rôle notifié lors de nouvelles annonces informatives sont postées sur <#895274285457887242>
-<@&823155823063597107> = Rôle notifié lorsque de nouveaux <#895431846958092300> sont lancés (ta voix importe !)
+<@&823155823063597107> = Rôle notifié lorsque de nouveaux <#822840404968734790> sont lancés (ta voix importe !)
 
 **[TIP] Utilise le channel <#892340236175147029> pour obtenir un `Rôle optionnel`**
 
