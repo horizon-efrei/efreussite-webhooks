@@ -75,7 +75,7 @@ __Salons publics ouverts aux **questions, remontées de problèmes et discussion
 
 <@&808297761450754049>/<@&809102657205043301> = Membres de l'équipe pédagogique/de l'administration Efrei 
 
-@Horizon = Membres d'Horizon, l'association étudiante Efrei dont l'un des Pôles est <@&817131722399154177> ! 
+<@&805883190878928907> = Membres d'Horizon, l'association étudiante Efrei dont l'un des Pôles est <@&817131722399154177> ! 
 
 <@&805873100813500447> = Étudiants prêts à t'aider pour les révisions via des séances de cours ou en répondant à tes questions par écrit ! 
 
@@ -86,7 +86,7 @@ __Salons publics ouverts aux **questions, remontées de problèmes et discussion
 **[TIP] Pose tes questions publiquement et détaille-les au max. pour que les <@&805873100813500447> puissent t'aider !**
 **[TIP] Si tu souhaites t'inscrire en tant qu'eProf, tu peux contacter  un des <@&934147334760169574>**
 
-*`*` `Séances de maximum 15 à 30 personnes`*
+`*` *`Séances de maximum 15 à 30 personnes`*
   
 ** **
 ===MESSAGE_BREAK===
@@ -102,7 +102,7 @@ __Salons publics ouverts aux **questions, remontées de problèmes et discussion
    
 ** **
 ===MESSAGE_BREAK===
- ** **
+
 ⚙️ __**`RÔLES OPTIONNELS`**__
 
 <@&893240596280537119> = Rôle notifié pour des questions/annonces ne nécessitant pas de gros ping (@everyone ou ping de promo) mais qui peuvent aider la communauté 👍
