@@ -7,7 +7,7 @@
 `Ef'Réussite` : le forum de discussions pour aider la réussite scolaire des étudiants @Efrei :
 > Suis nos séances de révisions organisées par des <@&805873100813500447>, pose tes questions & discute sur les divers channels, relaie des <#895430423990140958> et participe à la communauté :100: !
 
-Pour rejoindre l'association Horizon, le Pôle Ef'Réussite, tu peux contacter @Elliot, @David,...
+Pour rejoindre l'association Horizon, le Pôle Ef'Réussite, tu peux contacter le <@&918277370161532948>, les <@&938679049746792448>, un des <@&934147334760169574> 
 
 ===MESSAGE_BREAK===
 
@@ -28,21 +28,26 @@ Pour rejoindre l'association Horizon, le Pôle Ef'Réussite, tu peux contacter @
 
 ===MESSAGE_BREAK===
 
-:teacher: __**CHANNELS DE COURS**__ 
+:teacher: __**CHANNELS DE COURS**__
+
 ⦿ Pour une question / une demande de cours __pour un module__, demande directement dans le channel du cours: 
 > Ex: Question en Python ? ➤ <#799611218352406528> / Question en Communication ? ➤ <#694636294961234001> 
+
 ⦿ Les channels #<module>-docs (ex. <#895430659395424257>, <#895430659395424257>) servent à partager des ressources de cours (TD, annales, fiches de révisions...) 
 > __Le bot delete automatiquement les messages ne contenant pas de docs. Merci de ne pas discuter dans ces salons pour éviter le flood ! __
+
 ⦿ Pour une question générale __par rapport à une matière__, demande dans le channel de la matière: 
 > Ex. Question sur les Maths en L1 ? ➤ <#895430659395424257> / Question en Formation Générale en L3 ? ➤ <#880208269593939978>
+
 <#895430659395424257>/l2/l3 + <#895430659395424257> = Résumés des cours à venir <#895430659395424257>/l2/l3 = Annonces des cours à venir 
+
 **[TIP] Réagis sur les :white_check_mark: pour avoir un rappel pour le cours dans** <#895430659395424257> <#895430659395424257> <#895430659395424257>
 
 ===MESSAGE_BREAK===
 
 __**:book: `CHANNELS GÉNÉRAUX`**__
 #:white_circle:-général-<promo> = Questions relatives à ta promo, relais d'informations et discussions libres :speech_balloon: 
-**[TIP] Remplis le formulaire en bas du channel pour rejoindre l'asso !** 
+**[TIP] Remplis le [formulaire](https://bit.ly/EfRéussiteRecrute) pour rejoindre l'asso !** 
 
 __Salons publics ouverts aux **questions, remontées de problèmes et discussions**__: 
 
@@ -62,14 +67,22 @@ __Salons publics ouverts aux **questions, remontées de problèmes et discussion
 
 ===MESSAGE_BREAK===
 
-:compass:__**L'ÉQUIPE**__ <@&808297761450754049>/<@&809102657205043301> = Membres de l'équipe pédagogique/de l'administration Efrei 
-@Horizon = Membres d'Horizon, l'association étudiante Efrei dont l'un des Pôles est <@&817131722399154177> ! 
-@Étudiant-Prof = Étudiants prêts à t'aider pour les révisions via des séances de cours ou en répondant à tes questions par écrit ! 
-@etudiant prof cours = 
-@etudiant présentiel = 
+:compass:__**L'ÉQUIPE**__ 
 
-[TIP] Pose tes questions publiquement et détaille-les au max. pour que les @Étudiant-Prof puissent t'aider ! 
-[TIP] Si tu souhaites t'inscrire en tant qu'eProf, tu peux contacter 
+<@&808297761450754049>/<@&809102657205043301> = Membres de l'équipe pédagogique/de l'administration Efrei 
+
+@Horizon = Membres d'Horizon, l'association étudiante Efrei dont l'un des Pôles est <@&817131722399154177> ! 
+
+<@&805873100813500447> = Étudiants prêts à t'aider pour les révisions via des séances de cours ou en répondant à tes questions par écrit ! 
+
+<@&821920726155395102> = Étudiant(e)-Professeur prêts à t'aider pour les révisions via des séances de cours sur Discord/Teams ou en répondant à tes questions par écrit !
+
+<@&821921661661610004> = Étudiant(e)-Professeur prêts à t'aider pour réaliser des sessions de révisions via des séances de cours ou en répondant à tes questions en présentiel* !
+
+**[TIP] Pose tes questions publiquement et détaille-les au max. pour que les <@&805873100813500447> puissent t'aider !**
+**[TIP] Si tu souhaites t'inscrire en tant qu'eProf, tu peux contacter  un des <@&934147334760169574>**
+
+*`*Séances de maximum 15 à 30 personnes`*
 
 ===MESSAGE_BREAK===
 
