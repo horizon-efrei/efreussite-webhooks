@@ -86,13 +86,13 @@ __Salons publics ouverts aux **questions, remontées de problèmes et discussion
 **[TIP] Pose tes questions publiquement et détaille-les au max. pour que les <@&805873100813500447> puissent t'aider !**
 **[TIP] Si tu souhaites t'inscrire en tant qu'eProf, tu peux contacter  un des <@&934147334760169574>**
 
-*`*``Séances de maximum 15 à 30 personnes`*
+*`*` `Séances de maximum 15 à 30 personnes`*
   
 ** **
 ===MESSAGE_BREAK===
  ** **
 🎩 __**`REPRÉSENTANTS ÉTUDIANTS`**__
-**
+** **
 <@&805219177660022834> = Délégués Efrei: Interlocuteurs privilégiés pour les cours à organiser, les remontées & les relais d'annonces
 <@&893240708339753000> = Interlocuteurs volontaires pour aider à représenter leur majeure
 <@&995780483034124409> = Interlocuteurs volontaires pour aider à répondre à des questions liées au semestre à l'étranger
