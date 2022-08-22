@@ -2,7 +2,8 @@ Hello à toutes et à tous 👋 :)
 
 On espère que vous avez passé un bel été et une bonne rentrée pour celles et ceux qui ont déjà repris 
 
-**`Pour celles et ceux qui nous rejoignent`**
+:small_blue_diamond: **`Pour celles et ceux qui nous rejoignent`**
+
 Ef'Réussite est le serveur d'entraide édutiante pour les étudiants de l'Efrei.
 Géré par l'association Horizon, il permet ainsi à tout étudiant voulant donner de son temps pour aider ses camarades ou d'autres étudiants de sa promo qui auraient des difficultés ou des questions, en échange d'une reconnaissance pour sa participation dans cet objectif d'entraide... 
 Certains enseignants de l'Efrei sont dans le Discord. 
