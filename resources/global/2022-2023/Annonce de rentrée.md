@@ -18,7 +18,7 @@ Certains cours peuvent être réalisés sur Teams si l'eProf assurant le cours r
 
 Les Responsables eProf aide le responsable de Pôle dans la gestion du serveur, la planification et l'organisation des cours.
 
-**`Composition du Pôle`**
+:small_blue_diamond:**`Composition du Pôle`**
 Le Pôle Ef'Réussite s'est restructuré depuis l'année dernière selon se schéma :
   - <@890084641317478400>, M2 Network & Cloud Infrastructure, Responsable de Pôle
   - <@362902765124452364>, L3 classique, Co-Responsable de Pôle
