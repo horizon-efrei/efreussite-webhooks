@@ -35,7 +35,7 @@ Tu pourras aussi trouver des membres de l'asso dans le Discord, ils ont le rôle
 Ci-dessous quelques infos à savoir par rapport à Ef'Réussite et l'Efrei pour bien commencer l'année
  - les messages dans les canaux <#817741515564122143> et <#892407797961089114> ont été mis à jour
    Ping <@&701774653940564078> si quelque chose n'est pas clair
- - les rôles pour accéder au serveur restent les mêmes Efrei -> Pacours Ingé / Parcours Pex -> Rôles Ingé ou Rôles Pex + un canal de rôles supplémentaires
+ - les rôles pour accéder au serveur restent les mêmes : Efrei → Pacours Ingé/Pex → Rôles Ingé/Pex, ainsi qu'un canal de rôles supplémentaires
  - On est jamais fermé ! On est ouvert à toutes et à tous, curieux, soucieux d'aider sans savoir comment. On finit toujours par trouver un nouveau moyen innovant
  - le responsable réussite étudiante devient le responsable de formation
 
