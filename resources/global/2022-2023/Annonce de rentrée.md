@@ -30,7 +30,7 @@ Le Pôle Ef'Réussite s'est restructuré depuis l'année dernière selon se sch�
 Tu pourras aussi trouver des membres de l'asso dans le Discord, ils ont le rôle <@&805883190878928907>
 
 
-**`Pour tout le monde`**
+:small_blue_diamond: **`Pour tout le monde`**
 
 Ci-dessous quelques infos à savoir par rapport à Ef'Réussite et l'Efrei pour bien commencer l'année
  - les messages dans les canaux <#817741515564122143> et <#892407797961089114> ont été mis à jour
