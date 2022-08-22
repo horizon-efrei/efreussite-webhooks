@@ -18,7 +18,7 @@ Les Responsables eProf aide le responsable de Pôle dans la gestion du serveur, 
 
 Le Pôle Ef'Réussite s'est restructuré depuis l'année dernière selon se schéma :
   - <@890084641317478400>, M2 Network & Cloud Infrastructure, Responsable de Pôle
-  - <@362902765124452364>, L3 Int, Co-Responsable de Pôle
+  - <@362902765124452364>, L3 classique, Co-Responsable de Pôle
   - <@542818109912907776>, L3 Int, Responsable eProf L3
   - <@602744407417946123>, L2 Int, Responsable eProf L2
   - Un responsable eProf L1, en L1 classique/int/r : MP <@890084641317478400> ou [remplis le form](https://bit.ly/EfRéussiteRecrute) si ça vous intéresse
