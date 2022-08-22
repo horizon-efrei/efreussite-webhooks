@@ -16,11 +16,11 @@ On appelle les étudiants donnant des cours, les <@805873100813500447> ou eProf 
 Les cours sur le Discord peuvent être enregistrés par les eProf. Les enregistrements sont stockés sur le [SharePoint d'Horizon](https://bit.ly/EfRéussiteSP) * 
 Certains cours peuvent être réalisés sur Teams si l'eProf assurant le cours rencontre des soucis techniques.
 
-Les Responsables eProf aide le responsable de Pôle dans la gestion du serveur, la planification et l'organisation des cours.
+Les Responsables eProf aident le responsable de Pôle dans la gestion du serveur, la planification et l'organisation des cours.
 
 :small_blue_diamond:**`Composition du Pôle`**
 
-Le Pôle Ef'Réussite s'est restructuré depuis l'année dernière selon se schéma :
+Le Pôle Ef'Réussite s'est restructuré depuis l'année dernière selon ce schéma :
   - <@890084641317478400>, M2 Network & Cloud Infrastructure, Responsable de Pôle
   - <@362902765124452364>, L3 classique, Co-Responsable de Pôle
   - <@542818109912907776>, L3 Int, Responsable eProf L3
