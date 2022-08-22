@@ -53,7 +53,7 @@ On
 Bienvenue en L2 !
 Allez plus qu'un an avant l'expérience à l'étranger, ça va être une expérience à se raconter des histoires même 10 ans après !
 On charbonne encore
-En Physique l'année dernière, votre programme a changé, Ef'Réussite a eu du mal à répondre présent 😔, alors c'est **TA chance** pour aider à ce que ça chaneg cette année !
+Le programme de physique a changé l'année dernière et Ef'Réussite a eu du mal à répondre présent 😔, alors c'est **TA chance** pour aider à ce que ça change cette année !
 
 
  <@&794628669737009183> <@&810540179609092096>
