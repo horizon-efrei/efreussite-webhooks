@@ -59,7 +59,7 @@ Le programme de physique a changé l'année dernière et Ef'Réussite a eu du ma
 
 
  <@&794628669737009183> <@&810540179609092096>
-Bienvenue en L... Ah pardon, vous allez à l'étranger 😅 Alors éclatez-vous, mais pas trop, on aimerait vous voir entier mi-décembre.
+Bienvenue en L... Ah pardon, vous allez à l'étranger 😅 Alors éclatez-vous, mais pas trop, on aimerait vous voir en entier mi-décembre.
 On reste là pour vous épauler 💪. La promo 2023 et 2024 ont quelques annales dans les canaux L3. 
 Vous pouvez demander aussi dans les canaux des destinations pour que les étudiants précédents vous partagent leurs ressources ;)
 
