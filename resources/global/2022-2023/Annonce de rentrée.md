@@ -38,11 +38,11 @@ Ci-dessous quelques infos à savoir par rapport à Ef'Réussite et l'Efrei pour 
  - les messages dans les canaux <#817741515564122143> et <#892407797961089114> ont été mis à jour
    Ping <@&701774653940564078> si quelque chose n'est pas clair
  - les rôles pour accéder au serveur restent les mêmes : Efrei → Pacours Ingé/Pex → Rôles Ingé/Pex, ainsi qu'un canal de rôles supplémentaires
- - On est jamais fermé ! On est ouvert à toutes et à tous, curieux, soucieux d'aider sans savoir comment. On finit toujours par trouver un nouveau moyen innovant
+ - On n'est jamais fermé ! On est ouvert à toutes et à tous, curieux, soucieux d'aider sans savoir comment. On finit toujours par trouver un nouveau moyen innovant
  - le responsable réussite étudiante devient le responsable de formation
 
 Et qui dit rentrée.... Dit nouveautés !
-On se met au couleur de l'association, on sait certains aimer l'ancien logo, on le garde dans notre cœur et on dit bienvenue au nouveau logo !
+On se met aux couleurs de l'association, on sait certains aimer l'ancien logo, on le garde dans notre cœur et on dit bienvenue au nouveau logo !
 
 
  <@&998640012537122917> <@&998640714281910344>
