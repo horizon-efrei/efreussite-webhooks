@@ -11,7 +11,7 @@ Certains enseignants de l'Efrei sont dans le Discord.
 *Liste les prof et leur préférence de contact ? à demander la permission auprès des enseignants*
 
 
-Fin juin dernier, le Pôle est ouvert à la possibilité de réaliser des cours en présentiel (5, 10 à 20 étudiants), et aussi à pouvoir organiser et permettre aux étudiants du Parcours Experts du Numérique à valoriser l'entraide réalisée auprès d'autres étudiants
+Depuis juin, le Pôle est ouvert à la possibilité de réaliser des cours en présentiel (5, 10 à 20 étudiants), et à favoriser l'entraide aux étudiants du Parcours Experts du Numérique.
 On appelle les étudiants donnant des cours, les <@805873100813500447> ou eProf ; celles et ceux étant ouverts à des cours en présentiel ont le rôle <@&821921661661610004>.
 Les cours sur le Discord peuvent être enregistrés par les eProf. Les enregistrements sont stockés sur le [SharePoint d'Horizon](https://bit.ly/EfRéussiteSP) * 
 Certains cours peuvent être réalisés sur Teams si l'eProf assurant le cours rencontre des soucis techniques.
