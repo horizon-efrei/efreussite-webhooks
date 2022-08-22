@@ -9,6 +9,7 @@ Certains enseignants de l'Efrei sont dans le Discord.
 
 *Liste les prof et leur préférence de contact ? à demander la permission auprès des enseignants*
 
+
 Fin juin dernier, le Pôle est ouvert à la possibilité de réaliser des cours en présentiel (5, 10 à 20 étudiants), et aussi à pouvoir organiser et permettre aux étudiants du Parcours Experts du Numérique à valoriser l'entraide réalisée auprès d'autres étudiants
 On appelle les étudiants donnant des cours, les <@805873100813500447> ou eProf ; celles et ceux étant ouverts à des cours en présentiel ont le rôle <@&821921661661610004>.
 Les cours sur le Discord peuvent être enregistrés par les eProf. Les enregistrements sont stockés sur le [SharePoint d'Horizon](https://bit.ly/EfRéussiteSP) * 
@@ -16,6 +17,7 @@ Certains cours peuvent être réalisés sur Teams si l'eProf assurant le cours r
 
 Les Responsables eProf aide le responsable de Pôle dans la gestion du serveur, la planification et l'organisation des cours.
 
+**`Composition du Pôle`**
 Le Pôle Ef'Réussite s'est restructuré depuis l'année dernière selon se schéma :
   - <@890084641317478400>, M2 Network & Cloud Infrastructure, Responsable de Pôle
   - <@362902765124452364>, L3 classique, Co-Responsable de Pôle
@@ -27,6 +29,7 @@ Le Pôle Ef'Réussite s'est restructuré depuis l'année dernière selon se sch�
 
 Tu pourras aussi trouver des membres de l'asso dans le Discord, ils ont le rôle <@&805883190878928907>
 
+
 **`Pour tout le monde`**
 
 Ci-dessous quelques infos à savoir par rapport à Ef'Réussite et l'Efrei pour bien commencer l'année
@@ -36,10 +39,15 @@ Ci-dessous quelques infos à savoir par rapport à Ef'Réussite et l'Efrei pour 
  - On est jamais fermé ! On est ouvert à toutes et à tous, curieux, soucieux d'aider sans savoir comment. On finit toujours par trouver un nouveau moyen innovant
  - le responsable réussite étudiante devient le responsable de formation
 
+Et qui dit rentrée.... Dit nouveautés !
+On se met au couleur de l'association, on sait certains aimer l'ancien logo, on le garde dans notre cœur et on dit bienvenue au nouveau logo !
+
+
  <@&998640012537122917> <@&998640714281910344>
 Bienvenue à l'Efrei 🥳 
 Sens toi libre de poser tes questions dans les canaux appropriés (<#892407797961089114> pour te repérer)
 On
+
 
  <@&794603039477596160> <@&809851024823156736>
 Bienvenue en L2 !
@@ -53,6 +61,7 @@ Bienvenue en L... Ah pardon, vous allez à l'étranger 😅 Alors éclatez-vous,
 On reste là pour vous épauler 💪. La promo 2023 et 2024 ont quelques annales dans les canaux L3. 
 Vous pouvez demander aussi dans les canaux des destinations pour que les étudiants précédents vous partagent leurs ressources ;)
 
+
  <@&799636419249045554> <@&810540280155471913>
 Bienvenue en M1, les anciens L3
 Alors ça commence à se professionnaliser ? Trouver un stage c'est difficile 😩 Postuler et Postuler disaient-ils...
@@ -63,6 +72,7 @@ Les connaissances ne font pas tout, le savoir-être aussi ;)
 Alors oui on a parlé de bosser, mais vous êtes étudiants aussi pour vous éclater et profiter de ces années.
 Avec les autres asso et le BDE, Horizon vous souhaite une bonne rentrée, certes studieuse, mais pleine de nouvelles rencontres et opportunités !
 
-Allez
+Allez bonne rentrée à toutes et à tous 🥳👌
+
 
 * `'*' si tu as des problèmes d'affichage des vidéos, tu peux demander qu'on t'envoie un lien sur ton adresse efrei.net. Le problème est connu. L'équipe a contacté le service informatique de l'Efrei pour trouver une solution viable...`
