@@ -48,7 +48,7 @@ On se met aux couleurs de l'association, on sait certains aimer l'ancien logo, o
  <@&998640012537122917> <@&998640714281910344>
 Bienvenue à l'Efrei 🥳 
 Sens toi libre de poser tes questions dans les canaux appropriés (<#892407797961089114> pour te repérer)
-On
+Horizon sera présent lors de la journée du 8 septembre, tu pourras poser tes questions ou découvrir les pôles de l'association ;)
 
 
  <@&794603039477596160> <@&809851024823156736>
@@ -67,7 +67,7 @@ Vous pouvez demander aussi dans les canaux des destinations pour que les étudia
  <@&799636419249045554> <@&810540280155471913>
 Bienvenue en M1, les anciens L3
 Alors ça commence à se professionnaliser ? Trouver un stage c'est difficile 😩 Postuler et postuler disaient-ils...
-Allez on croit en vous, vous avez d'évoluer et c'est ça qu'ils cherchent : que vous êtes intéressés par un projet dans l'entreprise, dans l'entreprise même....
+Allez on croit en vous, vous avez envie d'évoluer et c'est ça qu'ils cherchent : que vous êtes intéressés par un projet dans l'entreprise, dans l'entreprise même....
 Les connaissances ne font pas tout, le savoir-être aussi ;)
 
 
