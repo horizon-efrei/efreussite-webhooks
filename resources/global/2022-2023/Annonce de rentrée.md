@@ -1,6 +1,6 @@
 Hello à toutes et à tous 👋 !
 
-On espère que vous avez passé un bel été et une bonne rentrée pour celles et ceux qui ont déjà repris 
+On espère que vous avez passé un bel été et nous vous souhaitons une bonne rentrée !
 
 :small_blue_diamond: **`Pour les nouveaux 🌱`**
 
