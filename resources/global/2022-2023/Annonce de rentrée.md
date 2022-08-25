@@ -1,4 +1,4 @@
-Hello à toutes et à tous 👋 :)
+Hello à toutes et à tous 👋 !
 
 On espère que vous avez passé un bel été et une bonne rentrée pour celles et ceux qui ont déjà repris 
 
