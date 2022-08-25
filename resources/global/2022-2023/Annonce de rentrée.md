@@ -56,7 +56,8 @@ Bienvenue en L2 !
 Allez plus qu'un an avant l'expérience à l'étranger, ça va être une expérience à se raconter des histoires même 10 ans après !
 On charbonne encore
 Le programme de physique a changé l'année dernière et Ef'Réussite a eu du mal à répondre présent 😔, alors c'est **TA chance** pour aider à ce que ça change cette année !
-
+Dépose des copies, cours, exercices de TD dans les channels docs L1 pour les étudiant(e)s de la Promo 2027, mais aussi pour les années futures ! Tu peux les annonymiser évidemment ;)
+Si tu rencontres des soucis ou n'est pas sûr comment pour accéder ou déposer les documents, contactes <@&934147334760169574>
 
  <@&794628669737009183> <@&810540179609092096>
 Bienvenue en L... Ah pardon, vous allez à l'étranger 😅 Alors éclatez-vous, mais pas trop, on aimerait vous voir en entier mi-décembre.
