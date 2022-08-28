@@ -6,7 +6,8 @@ On espère que vous avez passé un bel été et nous vous souhaitons une bonne r
 :small_blue_diamond: **`Pour les nouveaux 🌱 ou ceux qui sont dans le flou : précisions sur l'organisation du Pôle`**
 
 Ef'Réussite est le serveur d'entraide étudiante de l'Efrei.
-Pôle de l'association <@&805883190878928907>, il permet ainsi à tout étudiant voulant donner de son temps pour aider ses camarades ou d'autres étudiants qui auraient des questions ou des difficultés, en échange d'une reconnaissance pour sa participation dans cet objectif d'entraide... 
+Pôle de l'association <@&805883190878928907>, il est composé des étudiants bénévoles voulant donner de leur temps pour aider ses camarades ou d'autres étudiants, les  <@&805873100813500447>.
+ 
 
 Les <@&934147334760169574> gèrent Ef'Réussite avec les <@&938679049746792448> ; contactez-les pour toute question relative à la planification et l'organisation de cours, ou [pour vous engager comme <@&805873100813500447>](https://bit.ly/EfRéussiteRecrute) !
 
@@ -16,8 +17,10 @@ Les <@&934147334760169574> gèrent Ef'Réussite avec les <@&938679049746792448> 
 Les canaux `🟠-cours-LX` comportent les annonces des cours auxquels tu peux t'inscrire 🔔
 Les canaux des ressources pédagogiques comportent le suffixe "-docs" 📄
 
-Les cours ont lieu sur Discord ou Teams et sont généralement enregistrés par les <@&805873100813500447>. Ils sont ensuite mis sur [SharePoint d'Horizon](https://bit.ly/EfRéussiteSP) * ¹ 
+Les cours ont lieu sur Discord ou Teams et sont généralement enregistrés par les <@&821920726155395102>. Ils sont ensuite mis sur [SharePoint d'Horizon](https://bit.ly/EfRéussiteSP) * ¹ 
 Si vous souhaitez qu'une de vos interventions soit supprimée du rendu public de la vidéo, que votre nom n'y apparaisse pas, ou autre, envoyez une demande au <@&1012394085174227045>.
+<@&821921661661610004> sont les eProfs pour les cours en présentiel.
+
 ===MESSAGE_BREAK===
 ` `
 **NOTE: des enseignants et membres de l'administration de l'Efrei sont présents sur le Discord.**
