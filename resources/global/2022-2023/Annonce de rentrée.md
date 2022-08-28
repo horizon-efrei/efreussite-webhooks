@@ -24,7 +24,7 @@ Si vous souhaitez qu'une de vos interventions soit supprimée du rendu public de
 🔹 **`On recrute !`**
 Comme l'année précédente, on recherche un responsable eProf L1, en L1 classique/int/r, ainsi qu'un co-responsable eProf L1, essentiellement en L2 pour pouvoir seconder et accompagner le respo eprof L1 à déterminer les matières qui auraient besoin de cours.
 
-On souhaite pouvoir développer et organiser l'entraide aux étudiants du Parcours Experts du Numérique. Si vous êtes intéressés, contactez-nous ou remplissez le [form](https://bit.ly/EfRéussiteRecrute) !
+On souhaite pouvoir développer et organiser l'entraide aux étudiants <@&809188399248179201>. Si vous êtes intéressés, contactez-nous ou [remplissez le formulaire](https://bit.ly/EfRéussiteRecrute) !
 
 
 :small_blue_diamond: **`Pour tout le monde`**
