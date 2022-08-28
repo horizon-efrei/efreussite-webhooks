@@ -70,7 +70,7 @@ Les connaissances ne font pas tout, le savoir-être aussi ;)
 
 
 Alors oui on a parlé de bosser, mais vous êtes étudiants aussi pour vous éclater et profiter de ces années.
-Avec les autres asso et le BDE, Horizon vous souhaite une bonne rentrée, certes studieuse, mais pleine de nouvelles rencontres et opportunités !
+Avec les autres assos et le BDE, Horizon vous souhaite une bonne rentrée, certes studieuse, mais pleine de nouvelles rencontres et opportunités !
 
 Allez bonne rentrée à toutes et à tous 🥳👌
 
