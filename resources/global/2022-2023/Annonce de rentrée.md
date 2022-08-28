@@ -14,7 +14,7 @@ IMAGE
 Les canaux `🟠-cours-LX` comportent les annonces des cours auxquels tu peux t'inscrire 🔔
 Les canaux des ressources pédagogiques comportent le suffixe "-docs" 📄
 
-Les cours ont lieu sur Discord ou Teams et sont généralement enregistrés par les <@&805873100813500447>. Ils sont ensuite mis sur [SharePoint d'Horizon](https://bit.ly/EfRéussiteSP) * 
+Les cours ont lieu sur Discord ou Teams et sont généralement enregistrés par les <@&805873100813500447>. Ils sont ensuite mis sur [SharePoint d'Horizon](https://bit.ly/EfRéussiteSP) * ¹ 
 Si vous souhaitez qu'une de vos interventions soit supprimée du rendu public de la vidéo, que votre nom n'y apparaisse pas, ou autre, envoyez une demande au <@&1012394085174227045>.
 
 **NOTE: des enseignants et membres de l'administration de l'Efrei sont présents sur le Discord.**
