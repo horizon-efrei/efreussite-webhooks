@@ -31,13 +31,7 @@ On souhaite pouvoir développer et organiser l'entraide aux étudiants <@&809188
 
 Ci-dessous quelques infos à savoir par rapport à Ef'Réussite et l'Efrei pour bien commencer l'année
 🔸Asso :
- - les messages dans les canaux <#817741515564122143> et <#892407797961089114> ont été mis à jour
-   Ping <@&701774653940564078> si quelque chose n'est pas clair
  - Ef'Réussite expérimente depuis juin la réalisation de cours en présentiel (5, 10 à 20 étudiants) pour favoriser l'entraide entre __étudiants__. 
- - les rôles pour accéder au serveur restent les mêmes : Efrei → Pacours Ingé/Pex → Rôles Ingé/Pex, ainsi qu'un canal de rôles supplémentaires
- - On n'est jamais fermé ! On est ouvert à toutes et à tous, curieux, soucieux d'aider sans savoir comment. On finit toujours par trouver un nouveau moyen innovant
- - Ah oui on a un bot et .... *(whispers :shushing_face:)* ah ! On ne peut pas vous en dire plus 🤷‍♂️. Restez aux aguets ;)
- - Une annonce sur les Pôles d'Horizon sera faite prochainement 📢
 🔸Efrei : 
 - le **responsable réussite étudiante de l'EFREI** devient le **Responsable de Formation**
 
