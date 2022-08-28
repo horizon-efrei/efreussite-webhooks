@@ -2,34 +2,29 @@ Hello à toutes et à tous 👋 !
 
 On espère que vous avez passé un bel été et nous vous souhaitons une bonne rentrée !
 
-:small_blue_diamond: **`Pour les nouveaux 🌱`**
+:small_blue_diamond: **`Pour les nouveaux 🌱 : Précisions sur l'organisation du Pôle`**
 
 Ef'Réussite est le serveur d'entraide étudiante de l'Efrei.
-Géré par l'association Horizon, il permet ainsi à tout étudiant voulant donner de son temps pour aider ses camarades ou d'autres étudiants de sa promo qui auraient des questions ou des difficultés, en échange d'une reconnaissance pour sa participation dans cet objectif d'entraide... 
-Certains enseignants de l'Efrei sont dans le Discord. 
+Pôle de l'association <@&805883190878928907>, il permet ainsi à tout étudiant voulant donner de son temps pour aider ses camarades ou d'autres étudiants qui auraient des questions ou des difficultés, en échange d'une reconnaissance pour sa participation dans cet objectif d'entraide... 
 
-*Liste les prof et leur préférence de contact ? à demander la permission auprès des enseignants*
+Les <@&934147334760169574> gèrent Ef'Réussite avec les <@&938679049746792448> ; contactez-les pour toute question relative à la planification et l'organisation de cours, ou pour vous [engager](https://bit.ly/EfRéussiteRecrute) comme <@&805873100813500447> !
+
+IMAGE
+
+Les canaux ` 🟠-cours-LX` comportent les annonces des cours auxquels tu peux t'inscrire aux rappels 🔔
+Les cannaux des ressources pédagogiques sont identifiables par la présence "-docs" 📄
+
+Les cours ont lieu sur Discord ou Teams et sont généralement enregistrés par les <@&805873100813500447>. Ils sont ensuite mis sur [SharePoint d'Horizon](https://bit.ly/EfRéussiteSP) * 
+Si vous souhaitez qu'une de vos interventions soit supprimée du rendu public de la vidéo, que votre nom n'y apparaisse pas, ou autre, envoyez une demande au <@&1012394085174227045>.
+
+**NOTE: des enseignants et membres de l'administration de l'Efrei sont présents sur le Discord.**
+*Liste des professeurs et de leur préférence de contact à venir (modifier prochainement)*
 
 
-Depuis juin, le Pôle est ouvert à la possibilité de réaliser des cours en présentiel (5, 10 à 20 étudiants), et à favoriser l'entraide aux étudiants du Parcours Experts du Numérique.
-On appelle les étudiants donnant des cours, les <@805873100813500447> ou eProf ; celles et ceux étant ouverts à des cours en présentiel ont le rôle <@&821921661661610004>.
-Les cours sur le Discord peuvent être enregistrés par les eProf. Les enregistrements sont stockés sur le [SharePoint d'Horizon](https://bit.ly/EfRéussiteSP) * 
-Certains cours peuvent être réalisés sur Teams si l'eProf assurant le cours rencontre des soucis techniques.
+🔹 **`On recrute !`**
+Comme l'année précédente, on recherche un responsable eProf L1, en L1 classique/int/r, ainsi qu'un co-responsable eProf L1, essentiellement en L2 pour pouvoir seconder et accompagner le respo eprof L1 à déterminer les matières qui auraient besoin de cours.
 
-Les Responsables eProf aident le responsable de Pôle dans la gestion du serveur, la planification et l'organisation des cours.
-
-:small_blue_diamond:**`Composition du Pôle`**
-
-Le Pôle Ef'Réussite s'est restructuré depuis l'année dernière selon ce schéma :
-  - <@890084641317478400>, M2 Network & Cloud Infrastructure, Responsable de Pôle
-  - <@362902765124452364>, L3 classique, Co-Responsable de Pôle
-  - <@542818109912907776>, L3 Int, Responsable eProf L3
-  - <@602744407417946123>, L2 Int, Responsable eProf L2
-  - Un responsable eProf L1, en L1 classique/int/r : MP <@890084641317478400> ou [remplis le form](https://bit.ly/EfRéussiteRecrute) si ça vous intéresse
-  - Un co-responsable eProf L1, en L2 pour pouvoir seconder et accompagner le respo eprof L1 à déterminer les matières qui auraient besoin de cours : MP <@890084641317478400> ou [remplis le form](https://bit.ly/EfRéussiteRecrute) si ça vous intéresse
-  - <@226846557222207488>, M1 Cybersécurité, infrastructure et logiciel, Responsable SharePoint
-
-Tu pourras aussi trouver des membres de l'asso dans le Discord, ils ont le rôle <@&805883190878928907>
+On souhaite pouvoir développer et organiser l'entraide aux étudiants du Parcours Experts du Numérique. Si vous êtes intéressés, contactez-nous ou remplissez le [form](https://bit.ly/EfRéussiteRecrute) !
 
 
 :small_blue_diamond: **`Pour tout le monde`**
@@ -38,9 +33,11 @@ Ci-dessous quelques infos à savoir par rapport à Ef'Réussite et l'Efrei pour 
 🔸Asso :
  - les messages dans les canaux <#817741515564122143> et <#892407797961089114> ont été mis à jour
    Ping <@&701774653940564078> si quelque chose n'est pas clair
+ - Ef'Réussite expérimente depuis juin la réalisation de cours en présentiel (5, 10 à 20 étudiants) pour favoriser l'entraide entre __étudiants__. 
  - les rôles pour accéder au serveur restent les mêmes : Efrei → Pacours Ingé/Pex → Rôles Ingé/Pex, ainsi qu'un canal de rôles supplémentaires
  - On n'est jamais fermé ! On est ouvert à toutes et à tous, curieux, soucieux d'aider sans savoir comment. On finit toujours par trouver un nouveau moyen innovant
  - Ah oui on a un bot et .... *(whispers :shushing_face:)* ah ! On ne peut pas vous en dire plus 🤷‍♂️. Restez aux aguets ;)
+ - Une annonce sur les Pôles d'Horizon sera faite prochainement 📢
 🔸Efrei : 
 - le **responsable réussite étudiante de l'EFREI** devient le **Responsable de Formation**
 
@@ -50,17 +47,17 @@ On se met aux couleurs de l'association, on sait certains aimer l'ancien logo, o
 
  <@&998640012537122917> <@&998640714281910344>
 Bienvenue à l'Efrei 🥳 
-Sens toi libre de poser tes questions dans les canaux appropriés (<#892407797961089114> pour te repérer)
-Horizon sera présent lors de la journée du 8 septembre, tu pourras poser tes questions ou découvrir les pôles de l'association ;)
+Sentez-vous libre de poser vos questions dans les canaux appropriés (<#892407797961089114> pour vous repérer)
+Horizon sera présent lors de la journée du 8 septembre, vous pourrez poser vos questions ou découvrir les pôles de l'association ;)
 
 
  <@&794603039477596160> <@&809851024823156736>
 Bienvenue en L2 !
 Allez plus qu'un an avant l'expérience à l'étranger, ça va être une expérience à se raconter des histoires même 10 ans après !
 On charbonne encore
-Le programme de physique a changé l'année dernière et Ef'Réussite a eu du mal à répondre présent 😔, alors c'est **TA chance** pour aider à ce que ça change cette année !
-Dépose des copies, cours, exercices de TD dans les channels docs L1 pour les étudiant(e)s de la Promo 2027, mais aussi pour les années futures ! Tu peux les annonymiser évidemment ;)
-Si tu rencontres des soucis ou n'est pas sûr comment pour accéder ou déposer les documents, contactes <@&934147334760169574>
+Le programme de physique a changé l'année dernière et Ef'Réussite a eu du mal à répondre présent 😔, alors c'est **VOTRE chance** pour aider à ce que ça change cette année !
+Déposez des copies, cours, exercices de TD dans les channels docs L1 pour les étudiant(e)s de la Promo 2027, mais aussi pour les années futures ! Vous pouvez les annonymiser évidemment ;)
+Si vous rencontrez des soucis ou n'est pas sûr comment pour accéder ou déposer les documents, contactes <@&934147334760169574>
 
  <@&794628669737009183> <@&810540179609092096>
 Bienvenue en L... Ah pardon, vous allez à l'étranger 😅 Alors éclatez-vous, mais pas trop, on aimerait vous voir en entier mi-décembre.
@@ -81,4 +78,4 @@ Avec les autres asso et le BDE, Horizon vous souhaite une bonne rentrée, certes
 Allez bonne rentrée à toutes et à tous 🥳👌
 
 
-* `'*' si tu as des problèmes d'affichage des vidéos, tu peux demander qu'on t'envoie un lien sur ton adresse efrei.net. Le problème est connu. L'équipe a contacté le service informatique de l'Efrei pour trouver une solution viable...`
+* `'*' si vous avez des problèmes d'affichage des vidéos, vous pouvez demander qu'on vous envoie un lien sur votre adresse efrei.net. Le problème est connu. L'équipe a contacté le service informatique de l'Efrei pour trouver une solution viable...`
