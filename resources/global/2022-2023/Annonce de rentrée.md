@@ -7,7 +7,7 @@ On espère que vous avez passé un bel été et nous vous souhaitons une bonne r
 Ef'Réussite est le serveur d'entraide étudiante de l'Efrei.
 Pôle de l'association <@&805883190878928907>, il permet ainsi à tout étudiant voulant donner de son temps pour aider ses camarades ou d'autres étudiants qui auraient des questions ou des difficultés, en échange d'une reconnaissance pour sa participation dans cet objectif d'entraide... 
 
-Les <@&934147334760169574> gèrent Ef'Réussite avec les <@&938679049746792448> ; contactez-les pour toute question relative à la planification et l'organisation de cours, ou pour vous [engager](https://bit.ly/EfRéussiteRecrute) comme <@&805873100813500447> !
+Les <@&934147334760169574> gèrent Ef'Réussite avec les <@&938679049746792448> ; contactez-les pour toute question relative à la planification et l'organisation de cours, ou [pour vous engager comme <@&805873100813500447>](https://bit.ly/EfRéussiteRecrute) !
 
 IMAGE
 
