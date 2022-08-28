@@ -54,7 +54,7 @@ Allez plus qu'un an avant l'expérience à l'étranger, ça va être une expéri
 On charbonne encore
 Le programme de physique a changé l'année dernière et Ef'Réussite a eu du mal à répondre présent 😔, alors c'est **VOTRE chance** pour aider à ce que ça change cette année !
 Déposez des copies, cours, exercices de TD dans les channels docs L1 pour les étudiant(e)s de la Promo 2027, mais aussi pour les années futures ! Vous pouvez les annonymiser évidemment ;)
-Si vous rencontrez des soucis ou n'est pas sûr comment pour accéder ou déposer les documents, contactes <@&934147334760169574>
+Si vous rencontrez des soucis ou ne savez pas comment accéder aux documents ou où les déposer, contactez <@&934147334760169574>
 
  <@&794628669737009183> <@&810540179609092096>
 Bienvenue en L... Ah pardon, vous allez à l'étranger 😅 Alors éclatez-vous, mais pas trop, on aimerait vous voir en entier mi-décembre.
