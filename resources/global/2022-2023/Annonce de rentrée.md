@@ -39,7 +39,7 @@ Ci-dessous quelques infos à savoir par rapport à Ef'Réussite et l'Efrei pour 
 - le **responsable réussite étudiante de l'EFREI** devient le **Responsable de Formation**
 
 Et qui dit rentrée.... Dit nouveautés !
-On se met aux couleurs de l'association, on sait certains aimer l'ancien logo, on le garde dans notre cœur et on dit bienvenue au nouveau logo !
+Nous nous mettons aux couleurs de l'association, nous savons que certains aimaient l'ancien logo du serveur ; on le garde dans notre cœur et on dit bienvenue au nouveau logo !
 
 
  <@&998640012537122917> <@&998640714281910344>
