@@ -75,4 +75,4 @@ Avec les autres assos et le BDE, Horizon vous souhaite une bonne rentrée, certe
 Allez bonne rentrée à toutes et à tous 🥳👌
 
 
-* `'*' si vous avez des problèmes d'affichage des vidéos, vous pouvez demander qu'on vous envoie un lien sur votre adresse efrei.net. Le problème est connu. L'équipe a contacté le service informatique de l'Efrei pour trouver une solution viable...`
+* `¹: si vous avez des problèmes d'affichage des vidéos, vous pouvez demander qu'on vous envoie un lien sur votre adresse efrei.net. Le problème est connu. L'équipe a contacté le service informatique de l'Efrei pour trouver une solution viable...`
