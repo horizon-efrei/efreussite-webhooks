@@ -41,8 +41,8 @@ Ci-dessous quelques infos à savoir par rapport à Ef'Réussite et l'Efrei pour 
 __🔸Asso__ :
  - Ef'Réussite expérimente depuis juin la réalisation de cours en présentiel (5, 10 à 20 étudiants) pour favoriser l'entraide entre __étudiants__. 
  - On n'est jamais fermé ! On est ouvert à toutes et à tous, curieux, soucieux d'aider sans savoir comment. On finit toujours par trouver un nouveau moyen innovant 
- - Les messages dans les canaux <#817741515564122143> et <#892407797961089114> ont été mis à jour
-   Ping <@&701774653940564078> ou <@&934147334760169574> si quelque chose n'est pas clair
+ - Pour les rôles, vous pouvez regarder dans les canaux <#817741515564122143> (accès)  et  <#891362567476363274>/<#891362465718370405>.
+   Les rôles dans <#892340236175147029> sont des rôles optionnels. Si vous êtes perdu, regardez ici <#892407797961089114> ou pingez <@&701774653940564078> ou <@&934147334760169574> si quelque chose n'est pas clair ;)
 __🔸Efrei__ : 
 - le **responsable réussite étudiante de l'EFREI** devient le **Responsable de Formation**
 
