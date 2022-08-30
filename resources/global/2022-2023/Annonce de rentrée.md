@@ -2,8 +2,8 @@ Hello à toutes et à tous 👋 !
 
 On espère que vous avez passé un bel été et nous vous souhaitons une bonne rentrée !
 ===MESSAGE_BREAK===
-` `
-:small_blue_diamond: **`Pour les nouveaux 🌱 ou ceux qui sont dans le flou : précisions sur l'organisation du Pôle`**
+**
+**🔹 **Pour les nouveaux 🌱 ou ceux qui sont dans le flou : précisions sur l'organisation du Pôle**
 
 Ef'Réussite est le serveur d'entraide étudiante de l'Efrei.
 Pôle de l'association <@&805883190878928907>, il est composé des étudiants bénévoles voulant donner de leur temps pour aider leurs camarades ou d'autres étudiants, les  <@&805873100813500447>.
