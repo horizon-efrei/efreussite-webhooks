@@ -6,7 +6,7 @@ On espère que vous avez passé un bel été et nous vous souhaitons une bonne r
 **🔹 **Pour les nouveaux 🌱 ou ceux qui sont dans le flou : précisions sur l'organisation du Pôle**
 
 Ef'Réussite est le serveur d'entraide étudiante de l'Efrei.
-Pôle de l'association <@&805883190878928907>, il est composé des étudiants bénévoles voulant donner de leur temps pour aider leurs camarades ou d'autres étudiants, les  <@&805873100813500447>.
+Pôle de l'association <@&805883190878928907>, il est composé d'<@&805873100813500447>, étudiants bénévoles voulant donner de leur temps pour aider leurs camarades ou d'autres étudiants.
  
 
 Les <@&934147334760169574> gèrent Ef'Réussite avec les <@&938679049746792448> ; contactez-les pour toute question relative à la planification et l'organisation de cours, ou [pour vous engager comme <@&805873100813500447>](https://bit.ly/EfRéussiteRecrute) !
