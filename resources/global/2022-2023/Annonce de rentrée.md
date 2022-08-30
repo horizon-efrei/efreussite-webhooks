@@ -13,8 +13,8 @@ Les <@&934147334760169574> gèrent Ef'Réussite avec les <@&938679049746792448> 
 %PNG_ORGANIGRAMME%
  
 ===MESSAGE_BREAK===
-` `
-Les canaux `🟠-cours-LX` comportent les annonces des cours auxquels tu peux t'inscrire 🔔
+**
+**Les canaux `🟠-cours-LX` comportent les annonces des cours auxquels tu peux t'inscrire 🔔
 Les canaux des ressources pédagogiques comportent le suffixe `-docs` 📄
 
 Les cours ont lieu sur Discord ou Teams et sont généralement enregistrés par les <@&821920726155395102>. Ils sont ensuite mis sur [SharePoint d'Horizon](https://bit.ly/EfRéussiteSP) * ¹ 
