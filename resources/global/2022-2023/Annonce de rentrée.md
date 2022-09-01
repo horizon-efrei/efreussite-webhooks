@@ -12,9 +12,7 @@ Pôle de l'association <@&805883190878928907>, il est composé d'<@&805873100813
 Les <@&934147334760169574> gèrent Ef'Réussite avec les <@&938679049746792448> ; contactez-les pour toute question relative à la planification et l'organisation de cours, ou [pour vous engager comme <@&805873100813500447>](https://bit.ly/EfRéussiteRecrute) !
 
 ===MESSAGE_BREAK===
-
 %PNG_ORGANIGRAMME%
-** **
 ===MESSAGE_BREAK===
 **
 **Les canaux `🟠-cours-LX` comportent les annonces des cours auxquels tu peux t'inscrire 🔔
