@@ -25,9 +25,11 @@ Si vous souhaitez qu'une de vos interventions soit supprimée du rendu public de
 ===MESSAGE_BREAK===
 ** **
 **NOTE : des enseignants et membres de l'administration de l'Efrei sont présents sur le Discord.**
+
+***Liste d'enseignants sur le Discord***
 *M. Zalamea - Mathématiques - [federico.zalamea@efrei.fr](mailto:federico.zalamea@efrei.fr)*
 
-*Liste des professeurs et de leur préférence de contact à venir (modifier prochainement)*
+*Cette liste est susceptible d'être complétée prochainement*
 
 ===MESSAGE_BREAK===
 ** **
