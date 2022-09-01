@@ -11,8 +11,10 @@ Pôle de l'association <@&805883190878928907>, il est composé d'<@&805873100813
  
 Les <@&934147334760169574> gèrent Ef'Réussite avec les <@&938679049746792448> ; contactez-les pour toute question relative à la planification et l'organisation de cours, ou [pour vous engager comme <@&805873100813500447>](https://bit.ly/EfRéussiteRecrute) !
 
+===MESSAGE_BREAK===
+
 %PNG_ORGANIGRAMME%
- 
+** **
 ===MESSAGE_BREAK===
 **
 **Les canaux `🟠-cours-LX` comportent les annonces des cours auxquels tu peux t'inscrire 🔔
@@ -45,12 +47,12 @@ On souhaite pouvoir développer et organiser l'entraide aux étudiants <@&809188
 Voici quelques infos à savoir pour bien commencer l'année 🎉 !
 
 __🔸Concernant Ef'Réussite__ :
- - Pour toute question, n'hésitez pas à contacter <@1014452565208997889> (future nouvelle Responsable Ef'Réussite) et <@1014170847868616805> (futur nouveau Président d'Horizon), qui vous répondront dans les plus brefs délais 👋 
+ - Pour toute question, n'hésitez pas à contacter <@362902765124452364> (future nouvelle Responsable Ef'Réussite) et <@188341077902753794> (futur nouveau Président d'Horizon), qui vous répondront dans les plus brefs délais 👋 
  
  - Nous ne sommes fermés à aucune idée ! Nous sommes ouverts à toutes et à tous, curieux et soucieux d'aider. 
  *Nos moyens d'aider sont toujours en évolution et l'innovation est au coeur de notre projet, donc exprimez-vous dans <#761924229208735825> et <#822840404968734790> 💬*
  
- -  *Les prochains cours en présentiel & en distanciel seront **annoncés à leur reprise sur Ef'Réussite** :efreussite:*
+ -  *Les prochains cours en présentiel & en distanciel seront **annoncés à leur reprise sur Ef'Réussite** <:efreussite:1014522753321287763>*
  
  __🔸Concernant Horizon__ :
 Qui dit rentrée... dit **__NOUVEAUTÉS__** 🚀
