@@ -36,7 +36,7 @@ On souhaite pouvoir développer et organiser l'entraide aux étudiants <@&809188
 
 ===MESSAGE_BREAK===
 ** **
-:small_blue_diamond: **`Pour tout le monde`**
+:small_blue_diamond: **Pour tout le monde**
 
 Voici quelques infos à savoir pour bien commencer l'année 🎉 !
 
@@ -60,7 +60,7 @@ Qui dit rentrée... dit **__NOUVEAUTÉS__** 🚀
  
 ===MESSAGE_BREAK===
 ** **
-:small_blue_diamond: **`Pour chaque promotion`**
+:small_blue_diamond: **Pour chaque promotion**
 ===MESSAGE_BREAK===
 ** **
 <@&998640012537122917> <@&998640714281910344>
