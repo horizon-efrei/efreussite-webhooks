@@ -1,9 +1,19 @@
+import { exec } from 'node:child_process';
 import { readFile } from 'node:fs/promises';
 import { setTimeout as wait } from 'node:timers/promises';
 import { URL } from 'node:url';
 import { WebhookClient } from 'discord.js';
 
-const imagesBaseUrl = 'https://raw.githubusercontent.com/horizon-efrei/efreussite-webhooks/master/resources/_images';
+const currentBranch = await new Promise((resolve, reject) =>
+  exec('git rev-parse --abbrev-ref HEAD', (err, stdout) => {
+    if (err)
+      reject(`getBranch Error: ${err}`);
+    else if (typeof stdout === 'string')
+      resolve(stdout.trim());
+  }),
+);
+
+const imagesBaseUrl = `https://raw.githubusercontent.com/horizon-efrei/efreussite-webhooks/${currentBranch}/resources/_images`;
 
 const isDraft = process.env.IS_DRAFT === 'true';
 const draftWebhook = process.env.WEBHOOKURL_DRAFT;
