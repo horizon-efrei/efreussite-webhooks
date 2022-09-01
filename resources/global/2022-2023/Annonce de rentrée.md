@@ -84,7 +84,8 @@ Allez plus qu'un an avant l'expérience à l'étranger, ça va être une expéri
 On charbonne encore !
 
 Le programme de physique a changé l'année dernière et Ef'Réussite a eu du mal à répondre présent 😔, alors c'est **VOTRE chance** pour aider à ce que ça change cette année !
-Déposez des copies, cours, exercices de TD dans les channels docs L1 pour les étudiant(e)s de la Promo 2027, mais aussi pour les années futures ! Vous pouvez les anonymiser évidemment ;)
+
+Déposez des copies, cours, exercices de TD dans les channels docs L1 pour les étudiant(e)s de la Promo 2027, mais aussi pour les années futures ! Vous pouvez les anonymiser évidemment 😉
 Si vous rencontrez des soucis, ne savez pas comment accéder aux documents ou ne savez pas où les déposer, contactez <@&934147334760169574>
 
 ===MESSAGE_BREAK===
@@ -93,7 +94,7 @@ Si vous rencontrez des soucis, ne savez pas comment accéder aux documents ou ne
 
 Bienvenue en L... Ah pardon, vous allez à l'étranger 😅 Alors éclatez-vous, mais pas trop, on aimerait vous voir en entier mi-décembre.
 On reste là pour vous épauler 💪. Les promos 2023 et 2024 ont quelques annales dans les canaux L3. 
-Vous pouvez demander aussi dans les canaux des destinations pour que les étudiants des années précédentes vous partagent leurs ressources ;)
+Vous pouvez demander aussi dans les canaux des destinations pour que les étudiants des années précédentes vous partagent leurs ressources 😉
 
 ===MESSAGE_BREAK===
 ** **
@@ -102,7 +103,7 @@ Vous pouvez demander aussi dans les canaux des destinations pour que les étudia
 Bienvenue en M1, les anciens L3
 Alors ça commence à se professionnaliser ? Trouver un stage c'est difficile 😩 Postuler et postuler disaient-ils...
 Allez on croit en vous, vous avez envie d'évoluer et c'est ça qu'ils cherchent : que vous êtes intéressés par un projet dans l'entreprise, dans l'entreprise même....
-Les connaissances ne font pas tout, le savoir-être aussi ;)
+Les connaissances ne font pas tout, le savoir-être aussi 😉
 
 ===MESSAGE_BREAK===
 ** **
