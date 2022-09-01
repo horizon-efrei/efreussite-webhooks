@@ -38,18 +38,26 @@ On souhaite pouvoir développer et organiser l'entraide aux étudiants <@&809188
 ** **
 :small_blue_diamond: **`Pour tout le monde`**
 
-Ci-dessous quelques infos à savoir par rapport à Ef'Réussite et l'Efrei pour bien commencer l'année
-__🔸Asso__ :
- - Ef'Réussite expérimente depuis juin la réalisation de cours en présentiel (5, 10 à 20 étudiants) pour favoriser l'entraide entre __étudiants__. 
- - On n'est jamais fermé ! On est ouvert à toutes et à tous, curieux, soucieux d'aider sans savoir comment. On finit toujours par trouver un nouveau moyen innovant 
- - Pour ceux qui nous rejoignent si vous voyez pas certaines choses ou avez des questions, <#957735193068851240>, seulement visible par celles et ceux sans rôles, est fait pour vous ! 
-   Pour les rôles, vous pouvez regarder dans les canaux <#817741515564122143> (accès)  et  <#891362567476363274>/<#891362465718370405>.
-   Les rôles dans <#892340236175147029> sont des rôles optionnels. Si vous êtes perdu, regardez ici <#892407797961089114> ou pingez <@&701774653940564078> ou <@&934147334760169574> si quelque chose n'est pas clair ;)
-__🔸Efrei__ : 
-- le **responsable réussite étudiante de l'EFREI** devient le **Responsable de Formation**
+Voici quelques infos à savoir pour bien commencer l'année 🎉 !
 
-Et qui dit rentrée... Dit nouveautés !
-Nous nous mettons aux couleurs de l'association, nous savons que certains aimaient l'ancien logo du serveur ; on le garde dans notre cœur et on dit bienvenue au nouveau logo !
+__🔸Concernant Ef'Réussite__ :
+ - Pour toute question, n'hésitez pas à contacter <@1014452565208997889> (future nouvelle Responsable Ef'Réussite) et <@1014170847868616805> (futur nouveau Président d'Horizon), qui vous répondront dans les plus brefs délais 👋 
+ 
+ - Nous ne sommes fermés à aucune idée ! Nous sommes ouverts à toutes et à tous, curieux et soucieux d'aider. 
+ *Nos moyens d'aider sont toujours en évolution et l'innovation est au coeur de notre projet, donc exprimez-vous dans <#761924229208735825> et <#822840404968734790> 💬*
+ 
+ -  *Les prochains cours en présentiel & en distanciel seront **annoncés à leur reprise sur Ef'Réussite** :efreussite:*
+ 
+ __🔸Concernant Horizon__ :
+Qui dit rentrée... dit **__NOUVEAUTÉS__** 🚀
+
+ - **Les cours en présidentiel reprennent** en tandem avec le Mentorat 🌱
+ 
+ - __**"Horizon : Web 🌐" devient "Horizon : OpenDEV 🌐"**__. Après le succès du projet [Okampus](myefrei.okampus.fr), qui sera utilisé par l'Efrei pour l'année 2022-23, OpenDEV accueille de nouveaux projets ! *Retrouvez toutes les infos sur [le Discord de OpenDEV 🌐](https://discord.gg/zDz6kwuP8S)*
+ 
+ - Nos logos se mettent couleurs d'Horizon :horizon: ! Les fonds des logos [d'Ef'Réussite ⭐](https://discord.gg/7WKfyhghyn), du [Mentorat 🌱](https://discord.gg/G7fWxQZXqF) et de [OpenDEV 🌐](https://discord.gg/zDz6kwuP8S) passent au orange à la place du vert turquoise.
+   *Nous savons que certains aimaient l'ancien logo du serveur ; nous le garderons dans notre cœur tout en disant bienvenue aux nouveaux logos !*
+ 
 ===MESSAGE_BREAK===
 ** **
 :small_blue_diamond: **`Pour chaque promotion`**
