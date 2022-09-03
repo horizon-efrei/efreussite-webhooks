@@ -30,7 +30,7 @@ Si vous souhaitez qu'une de vos interventions soit supprimée du rendu public de
 *M. Zalamea - Mathématiques - [federico.zalamea@efrei.fr](mailto:federico.zalamea@efrei.fr)*
 *M. Marshall Breton - Algorithmie - [c.marshallbreton@gmail.com](mailto:c.marshallbreton@gmail.com)*
 *Mme Daadaa - Mathématiques - [mouna.daadaa@efrei.fr](mailto:mouna.daadaa@efrei.fr)* A confirmer
-*Mme Marechal - Physiques - [catherine.marechal@efrei.fr](mailto:catherine.marechal@efrei.fr)* email avec dscription difficultés, elle enverra une réunion Teams 
+*Mme Marechal - Physiques - [catherine.marechal@efrei.fr](mailto:catherine.marechal@efrei.fr)* email avec description difficultés, elle enverra une réunion Teams 
 
 *Cette liste est susceptible d'être complétée prochainement*
 
