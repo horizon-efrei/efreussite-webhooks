@@ -27,10 +27,10 @@ Si vous souhaitez qu'une de vos interventions soit supprimée du rendu public de
 **NOTE : des enseignants et membres de l'administration de l'Efrei sont présents sur le Discord.**
 
 ***Liste d'enseignants sur le Discord***
-*M. Zalamea - Mathématiques - [federico.zalamea@efrei.fr](mailto:federico.zalamea@efrei.fr)*
-*M. Marshall Breton - Algorithmie - [c.marshallbreton@gmail.com](mailto:c.marshallbreton@gmail.com)*
-*Mme Daadaa - Mathématiques - [mouna.daadaa@efrei.fr](mailto:mouna.daadaa@efrei.fr)* A confirmer
-*Mme Marechal - Physiques - [catherine.marechal@efrei.fr](mailto:catherine.marechal@efrei.fr)* email avec description difficultés, elle enverra une réunion Teams 
+*M. Zalamea - Mathématiques - federico.zalamea@efrei.fr*
+*M. Marshall Breton - Algorithmie - c.marshallbreton@gmail.com*
+*Mme Daadaa - Mathématiques - mouna.daadaa@efrei.fr*
+*Mme Marechal - Physiques - catherine.marechal@efrei.fr* (email avec description difficultés, elle enverra une réunion Teams)
 
 *Cette liste est susceptible d'être complétée prochainement*
 
