@@ -37,6 +37,7 @@ Si vous souhaitez qu'une de vos interventions soit supprimée du rendu public de
 ===MESSAGE_BREAK===
 ** **
 🔹 **On recrute !**
+
 Comme l'année précédente, on recherche un <@&934144211815661658>, en L1 Classique/INT/R, ainsi qu'un co-responsable eProf L1, en L2 pour pouvoir accompagner le <@&934144211815661658> et l'aider à déterminer les matières qui auraient besoin de cours.
 
 On souhaite pouvoir développer et organiser l'entraide aux étudiants <@&809188399248179201>. Si vous êtes intéressés, contactez-nous ou [remplissez le formulaire](https://bit.ly/EfRéussiteRecrute) !
