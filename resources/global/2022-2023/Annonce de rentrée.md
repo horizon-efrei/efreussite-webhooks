@@ -62,7 +62,7 @@ Qui dit rentrée... dit **__NOUVEAUTÉS__** 🚀
  
  - __**"Horizon : Web 🌐" devient "Horizon : OpenDEV 🌐"**__. Après le succès du projet [Okampus](myefrei.okampus.fr), qui sera utilisé par l'Efrei pour l'année 2022-23, OpenDEV accueille de nouveaux projets ! *Retrouvez toutes les infos sur [le Discord de OpenDEV 🌐](https://discord.gg/zDz6kwuP8S)*
  
- - Nos logos se mettent couleurs d'Horizon :horizon: ! Les fonds des logos [d'Ef'Réussite ⭐](https://discord.gg/7WKfyhghyn), du [Mentorat 🌱](https://discord.gg/G7fWxQZXqF) et de [OpenDEV 🌐](https://discord.gg/zDz6kwuP8S) passent au orange à la place du vert turquoise.
+ - Nos logos se mettent couleurs d'Horizon <:horizon:1014536805510557908> ! Les fonds des logos [d'Ef'Réussite ⭐](https://discord.gg/7WKfyhghyn), du [Mentorat 🌱](https://discord.gg/G7fWxQZXqF) et de [OpenDEV 🌐](https://discord.gg/zDz6kwuP8S) passent au orange à la place du vert turquoise.
    *Nous savons que certains aimaient l'ancien logo du serveur ; nous le garderons dans notre cœur tout en disant bienvenue aux nouveaux logos !*
  
 ===MESSAGE_BREAK===
@@ -75,7 +75,6 @@ Qui dit rentrée... dit **__NOUVEAUTÉS__** 🚀
 Bienvenue à l'Efrei 🥳 
 Sentez-vous libre de poser vos questions dans les canaux appropriés (<#892407797961089114> pour vous repérer)
 Horizon sera présent demain lors de la journée du 8 septembre, vous pourrez poser vos questions ou découvrir les pôles de l'association ;)
-** **
 ===MESSAGE_BREAK===
 ** **
 <@&794603039477596160> <@&809851024823156736>
