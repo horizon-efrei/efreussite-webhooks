@@ -74,7 +74,7 @@ Qui dit rentrée... dit **__NOUVEAUTÉS__** 🚀
 
 Bienvenue à l'Efrei 🥳 
 Sentez-vous libre de poser vos questions dans les canaux appropriés (<#892407797961089114> pour vous repérer)
-Horizon sera présent lors de la journée du 8 septembre, vous pourrez poser vos questions ou découvrir les pôles de l'association ;)
+Horizon sera présent demain lors de la journée du 8 septembre, vous pourrez poser vos questions ou découvrir les pôles de l'association ;)
 ** **
 ===MESSAGE_BREAK===
 ** **
