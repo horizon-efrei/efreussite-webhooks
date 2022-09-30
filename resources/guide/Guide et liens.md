@@ -4,7 +4,14 @@
  ** **
 `Horizon` : **l'association d'entraide**, de peer learning/peer support et de projets collaboratifs de l'@Efrei, **qui gère <@&817131722399154177> <:efreiparis:809232977347084308>** ! `Ef'Réussite` : le forum de discussions pour aider la réussite scolaire des étudiants @Efrei : 
 
-`Ef'Réussite` : le forum de discussions pour aider la réussite scolaire des étudiants @Efrei :
+L'association est composé de 5 pôles :
+- le Pôle Ef'Réussite
+- le Pôle Mentorat 
+- le Pôle Com&Design
+- le Pôle Vidéo
+- le Pôle OpenDev
+
+`Ef'Réussite` : le Pôle d'Horizon qui possède ce Discord, un forum de discussions pour aider la réussite scolaire des étudiants @Efrei :
 > Suis nos séances de révisions organisées par des <@&805873100813500447>, pose tes questions & discute sur les divers channels, relaie des <#895430423990140958> et participe à la communauté :100: !
 
 Pour rejoindre l'association Horizon, le Pôle Ef'Réussite, tu peux contacter le <@&918277370161532948>, les <@&938679049746792448>, un des <@&934147334760169574> ou remplir le formulaire plus bas. 
