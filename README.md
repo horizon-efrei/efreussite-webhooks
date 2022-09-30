@@ -56,7 +56,7 @@ Une fois qu'un document est prêt à être publié, il peut être déployé avec
 #### ✏️ Mise à jour d'un message
 
 La mise à jour d'un message se fait manuellement.
-Installez le projet en local avec `git clone https://github.com/horizon-efrei/efreussite-webhooks && cd efreussite-webhooks && npm intsall`. Si la commande `npm` n'est pas reconnue, vous devez [installer Node.js](https://nodejs.org/en/download/).
+Installez le projet en local avec `git clone https://github.com/horizon-efrei/efreussite-webhooks && cd efreussite-webhooks && npm install`. Si la commande `npm` n'est pas reconnue, vous devez [installer Node.js](https://nodejs.org/en/download/).
 Assurez-vous d'avoir Node.js ≥16.9.0 minimum, via `node -v`. Autrement, mettez-le à jour.
 Ensuite, dans le fichier [updater](./src/updater.js), suivez les instructions en commentaire. Remplacez le contenu du message, l'ID du message et l'url du webhook comme indiqué.
 
