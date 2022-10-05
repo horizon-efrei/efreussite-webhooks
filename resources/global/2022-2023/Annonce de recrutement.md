@@ -10,6 +10,7 @@ Postes à pourvoir :
     - :teacher: Des __eProfs__ de toutes les promotions, majoritairement **L1** ! Si tu es bon dans une matière, n'est pas peur, c'est le moment d'aider tes pairs !
     - :pilot: Un __Responsable eProf L1__ pour gérer les plannings de cours des L1 sur Ef'Réussite
     - :loudspeaker: Membres pour l'équipe de __communication__
+    - :handshake: **Chargé de la Cohésion** (organiser des évènements intra-association !)
 
 *__Car ensemble on va plus loin !__*
 **HORIZON <:horizon:1014536805510557908>**
