@@ -6,7 +6,7 @@ Souhaiteriez-vous la création d'un Discord Ef'Réussite Pex ? 😮
 
 <:upvote:825391560890908723> : Oui
 <:downvote:825392113260560404> : Non
-:white_large_square: : Sanas avis
+:white_large_square: : Sans avis
 
 Si vous avez des remarques, des idées, le projet vous intéresse ou autres, on en parle dans <#1032104443845562368> ;)
 
