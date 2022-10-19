@@ -2,7 +2,7 @@ Hello les <@&809188399248179201> :wave:
 
 Ceci est un sondage pour vous !
 
-Souhaiteriez-vous la création d'un Discord Pex ? 😮
+Souhaiteriez-vous la création d'un Discord Ef'Réussite Pex ? 😮
 
 <:upvote:825391560890908723> : Oui
 <:downvote:825392113260560404> : Non
