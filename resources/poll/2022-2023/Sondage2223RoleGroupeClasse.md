@@ -24,9 +24,7 @@ On en discute dans 👉 https://discord.com/channels/694220883815956580/10322541
 
 6️⃣ un écran de bienvenue quand on rejoint le serveur (comme actuellement)
 7️⃣ pas d'écran de bienvenue quand on rejoint le serveur
-
 8️⃣ je ne veux pas que le système change
-
 9️⃣ sans avis
 
 Le système des canaux de rôles a des chances d'être simplifié prochainement...
