@@ -16,8 +16,8 @@ On en discute dans 👉 https://discord.com/channels/694220883815956580/10322541
 (Plusieurs options possibles dans la question qui suit)
 2. Voulez-vous avoir :
  
-1️⃣ un canal de :wave: présentation où un message de bienvenue apparaît
-2️⃣ un canal de :wave: présentation où on peut réagir avec un sticker quand une personne rejoint
+1️⃣ un canal de :wave: présentation où un message de bienvenue apparaît et/ou on peut réagir avec un sticker quand une personne rejoint
+2️⃣ un canal de :wave: présentation où il y a des messages du bot où je peux choisir les rôles dans un menu déroulant, ou des menus réactions
 3️⃣ un canal de :wave: présentation où je peux me présenter pour qu'on me donne les rôles (N.B. vous pourrez continuer à choisir vos rôles via le bot)
 4️⃣ un canal de :wave: présentation où je peux me présenter qui disparaît une fois que je me suis présenté·e et qu'on m'a donné les rôles (N.B. vous pourrez continuer à choisir vos rôles)
 5️⃣ je ne souhaite pas voir le canal mentionné dans 1️⃣, 2️⃣, 3️⃣ et 4️⃣
