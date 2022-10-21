@@ -42,7 +42,7 @@ On demande juste un peu de patience pendant que tout cela sera fait, et on vous 
 
 Après discussion en interne, l'option des boutons rencontre quelques soucis techniques qui se révèlent pour le moment non compatible avec les modèles envisagés.
 On réouvre cependant <#694220883815956583>, vous pouvez le mute en clic droit "paramètres de notification" et choisisez ce que vous voulez ou le mute.
-
+Pour vous présenter, demander pour les rôles etc...
 
 Comme tous ces changements vont avoir lieu sur le week-end et la semaine qui suit, on vous remercie d'avance de votre patience et on s'excuse pour la gêne ocasionnée
 
