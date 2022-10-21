@@ -1,11 +1,13 @@
 Hello @everyone
 
+Bienvenue à celles et ceux qui ont rejoint récemment le Discord EF'Réussite 👋:)
+
 Cette annonce est pour vous informer des changements suivants qui vont subvenir au Pôle Ef'Réussite 📖 :
 
 1. Nouvelle responsable Ef'Réussite - Suite à l'AGE Horizon le 16-10
 
 La passation se passe progressivement entre la nouvelle Responsable du Pôle Ef'Réussite <:efreussite_rond:1017359426249822280> <@362902765124452364> et l'ancien, <@890084641317478400> qui devient co-Responsable pour une période de transition.
-On souhaite pouvoir répondre à vos attentes donc nos dms restent ouverts ;)
+On souhaite pouvoir répondre à vos attentes donc nos **mp** restent **ouverts pour toutes questions** ;)
 
 
 2. Création du Discord Pex Ef'Réussite <:efreussite_rond:1017359426249822280>
@@ -39,6 +41,8 @@ On maintiendra certains rôles et Ef'Réussite restera le même serveur, et tout
 On demande juste un peu de patience pendant que tout cela sera fait, et on vous invite à nous signaler tout problème si jamais vous en remarquer un.
  
 
+
+Comme tous ces changements vont avoir lieu sur le week-end et la semaine qui suit, on vous remercie d'avance de votre patience et on s'excuse pour la gêne ocasionnée
 
 
 * sujet à changer
