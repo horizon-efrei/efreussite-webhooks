@@ -39,7 +39,9 @@ Vu que les rôles Pex basculent sur l'autre serveur, cela permettra de réarrang
 Attendez, partez pas.
 On maintiendra certains rôles et Ef'Réussite restera le même serveur, et tout le monde est invité, parce qu'on veut que les différents promotions et pprogrammes se rencontrent.
 On demande juste un peu de patience pendant que tout cela sera fait, et on vous invite à nous signaler tout problème si jamais vous en remarquer un.
- 
+
+Après discussion en interne, l'option des boutons rencontre quelques soucis techniques qui se révèlent pour le moment non compatible avec les modèles envisagés.
+On réouvre cependant <#694220883815956583>, vous pouvez le mute en clic droit "paramètres de notification" et choisisez ce que vous voulez ou le mute.
 
 
 Comme tous ces changements vont avoir lieu sur le week-end et la semaine qui suit, on vous remercie d'avance de votre patience et on s'excuse pour la gêne ocasionnée
