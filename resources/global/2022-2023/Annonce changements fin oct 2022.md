@@ -17,7 +17,7 @@ Oui, on y est ☺️.
 
 Merci aux étudiants des programmes hors PGE pour leur confiance, on revient vers vous dès que possible ☺️.
 
-Si vous souhaitez nous aider, vous pouvez nous envoyer la liste de vos cours pour qu'on crée kles canaux.
+Si vous souhaitez nous aider, vous pouvez nous envoyer la liste de vos cours pour qu'on crée les canaux.
 
 3. Qui dit nouveau discord, dit.... ? Oui des nouveaux postes
 
