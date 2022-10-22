@@ -38,7 +38,7 @@ Et bien évidemment des étudiants volontaires 🙋 pour donner des cours, répo
 Vu que les rôles Pex basculent sur l'autre serveur, cela permettra de réarranger les canaux de menus de réactions de rôles.
 
 Attendez, partez pas.
-On maintiendra certains rôles et Ef'Réussite restera le même serveur, et tout le monde est invité, parce qu'on veut que les différents promotions et pprogrammes se rencontrent.
+On maintiendra certains rôles et Ef'Réussite restera le même serveur, et tout le monde est invité, parce qu'on veut que les différents promotions et programmes se rencontrent.
 On demande juste un peu de patience pendant que tout cela sera fait, et on vous invite à nous signaler tout problème si jamais vous en remarquer un.
 
 Après discussion en interne, l'option des boutons rencontre quelques soucis techniques qui se révèlent pour le moment non compatible avec les modèles envisagés.
