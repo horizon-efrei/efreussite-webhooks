@@ -2,7 +2,7 @@ Hello @everyone
 
 Bienvenue à celles et ceux qui ont récemment rejoint le Discord EF'Réussite 👋:)
 
-Cette annonce est pour vous informer des changements suivants qui vont subvenir au Pôle Ef'Réussite 📖 :
+Cette annonce est là pour vous informer des changements qui vont avoir lieu au Pôle Ef'Réussite 📖 :
 
 1. Nouvelle responsable Ef'Réussite - Suite à l'AGE Horizon le 16-10
 
