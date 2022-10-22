@@ -42,7 +42,7 @@ On maintiendra certains rôles et Ef'Réussite restera le même serveur, et tout
 On demande juste un peu de patience pendant que tout cela sera fait, et on vous invite à nous signaler tout problème si jamais vous en remarquez un.
 
 Après discussion en interne, l'option des boutons rencontre quelques soucis techniques qui se révèlent pour le moment non compatibles avec les modèles envisagés.
-On réouvre cependant <#694220883815956583>, vous pouvez le mute en clic droit "paramètres de notification" et choisisez ce que vous voulez ou le mute.
+On rouvre cependant <#694220883815956583>, vous pouvez le mute en faisant clic droit puis "paramètres de notification".
 Pour vous présenter, demander pour les rôles etc...
 
 Comme tous ces changements vont avoir lieu sur le week-end et la semaine qui suit, on vous remercie d'avance de votre patience et on s'excuse pour la gêne ocasionnée
