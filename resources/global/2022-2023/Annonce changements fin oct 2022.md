@@ -1,6 +1,6 @@
 Hello @everyone
 
-Bienvenue à celles et ceux qui ont rejoint récemment le Discord EF'Réussite 👋:)
+Bienvenue à celles et ceux qui ont récemment rejoint le Discord EF'Réussite 👋:)
 
 Cette annonce est pour vous informer des changements suivants qui vont subvenir au Pôle Ef'Réussite 📖 :
 
