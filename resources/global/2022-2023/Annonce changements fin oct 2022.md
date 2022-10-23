@@ -57,7 +57,7 @@ Pour vous présenter, demander pour les rôles etc...
 
 A noter que certaines informations dans <#892407797961089114> risquent de ne pas être à jour mais seront mises à jour dès que possible.
 
-Comme tous ces changements vont avoir lieu pendant le week-end et la semaine qui suit, on vous remercie d'avance de votre patience et on s'excuse pour la gêne occasionnée. 🙏
+Comme tous ces changements vont continuer pendant la semaine qui arrive, on vous remercie d'avance de votre patience et on s'excuse pour la gêne occasionnée. 🙏
 
 
 ~ La Team Ef'Réussite <:efreussite_rond:1017359426249822280>
