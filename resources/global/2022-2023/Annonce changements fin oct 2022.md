@@ -48,7 +48,7 @@ On maintiendra certains rôles Pex sur ce serveur.
 Tout le monde est le bienvenue sur Ef'Réussite, parce qu'on veut que les différents promotions et programmes se rencontrent.
 Horizon : Ef'Réussite ⭐ est et restera le serveur historique du Pôle et continuera de fonctionner.
 
-On demande juste un peu de patience le temps du réarrangement, et on vous invite à nous signaler tout problème si jamais vous en remarquez un.
+On demande juste un peu de patience le temps du réarrangement, et on vous invite à nous signaler tout problème si jamais vous en remarquez un. 💯
 
 Après discussion en interne, quelques blocages techniques rendent incompatibles l'option des boutons avec les modèles envisagés.
 On rouvre <#694220883815956583> pour que chacun puisse accueillir les membres comme il se doit !
@@ -57,10 +57,10 @@ Pour vous présenter, demander pour les rôles etc...
 
 A noter que certaines informations dans <#892407797961089114> risquent de ne pas être à jour mais seront mis à jour dès que possible
 
-Comme tous ces changements vont avoir lieu pendant le week-end et la semaine qui suit, on vous remercie d'avance de votre patience et on s'excuse pour la gêne occasionnée.
+Comme tous ces changements vont avoir lieu pendant le week-end et la semaine qui suit, on vous remercie d'avance de votre patience et on s'excuse pour la gêne occasionnée. 🙏
 
 
-
+~ La Team Ef'Réussite <:efreussite_rond:1017359426249822280>
 
 
 * conditions sujettes à évoluer
