@@ -55,7 +55,7 @@ On rouvre <#694220883815956583> pour que chacun puisse accueillir les membres co
 Vous pouvez le mute en faisant clic droit puis "paramètres de notification".
 Pour vous présenter, demander pour les rôles etc...
 
-A noter que certaines informations dans <#892407797961089114> risquent de ne pas être à jour mais seront mis à jour dès que possible
+A noter que certaines informations dans <#892407797961089114> risquent de ne pas être à jour mais seront mises à jour dès que possible.
 
 Comme tous ces changements vont avoir lieu pendant le week-end et la semaine qui suit, on vous remercie d'avance de votre patience et on s'excuse pour la gêne occasionnée. 🙏
 
