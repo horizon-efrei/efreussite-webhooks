@@ -50,7 +50,7 @@ Horizon : Ef'Réussite ⭐ est et restera le serveur historique du Pôle et cont
 
 On demande juste un peu de patience le temps du réarrangement, et on vous invite à nous signaler tout problème si jamais vous en remarquez un. 💯
 
-Après discussion en interne, quelques blocages techniques rendent incompatibles l'option des boutons avec les modèles envisagés.
+Après discussion en interne, quelques blocages techniques rendent incompatible l'option des boutons avec les modèles envisagés.
 On rouvre <#694220883815956583> pour que chacun puisse accueillir les membres comme il se doit !
 Vous pouvez le mute en faisant clic droit puis "paramètres de notification".
 Pour vous présenter, demander pour les rôles etc...
