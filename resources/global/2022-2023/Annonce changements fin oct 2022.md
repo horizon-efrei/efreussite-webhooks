@@ -24,7 +24,7 @@ Si vous souhaitez nous aider, vous pouvez nous envoyer la liste de vos cours pou
 
 ===MESSAGE_BREAK===
 
-3. Qui dit nouveau discord, dit.... ? Oui des nouveaux postes
+3. Qui dit nouveau discord, dit.... ? Oui, des nouveaux postes !
 
 Voici une liste non-exhaustive des 🆕 nouveaux postes 📢.
 On recherche des étudiant-e-s motivé-e-s du programme et de l'année * en question.
