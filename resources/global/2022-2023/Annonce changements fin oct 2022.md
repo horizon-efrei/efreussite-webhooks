@@ -41,6 +41,7 @@ Et bien évidemment des **étudiants volontaires** 🙋 pour donner des cours, r
 ===MESSAGE_BREAK===
 
 4. **Les rôles et canaux de rôles sur le main serveur vont être modifiés**
+
 Vu que les rôles Pex basculent sur l'autre serveur, des changements sont en cours pour réarranger les canaux de menus de réactions de rôles ainsi que les rôles Pex.
 
 Attendez, partez pas.
@@ -61,6 +62,5 @@ Comme tous ces changements vont continuer pendant la semaine qui arrive, on vous
 
 
 *~ La Team Ef'Réussite <:efreussite_rond:1017359426249822280>*
-
 
 * conditions sujettes à évoluer
