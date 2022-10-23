@@ -2,7 +2,7 @@ Hello @everyone
 
 Bienvenue à celles et ceux qui ont récemment rejoint le Discord EF'Réussite 👋:)
 
-Cette annonce est là pour vous informer des changements qui vont avoir lieu au Pôle Ef'Réussite 📖 :
+Cette annonce est là pour vous informer des __changements__ qui vont avoir lieu au Pôle Ef'Réussite 📖
 
 ===MESSAGE_BREAK===
 ** **
@@ -46,7 +46,7 @@ Vu que les rôles Pex basculent sur l'autre serveur, des changements sont en cou
 Attendez, partez pas.
 On maintiendra certains rôles Pex sur ce serveur. 
 **Tout le monde est le bienvenu sur Ef'Réussite**, parce qu'on veut que les différents promotions et programmes **se rencontrent**.
-Horizon : Ef'Réussite ⭐ est et restera le serveur historique du Pôle et continuera de fonctionner.
+**Horizon : Ef'Réussite ⭐ est et restera le serveur historique du Pôle et continuera de fonctionner.**
 
 On demande juste un peu de patience le temps du réarrangement, et on vous invite à nous signaler tout problème si jamais vous en remarquez un. 💯
 
