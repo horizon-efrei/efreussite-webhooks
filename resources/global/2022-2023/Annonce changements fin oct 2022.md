@@ -18,7 +18,7 @@ On souhaite pouvoir répondre à vos attentes donc nos **mp** restent **ouverts 
 Oui, on y est ☺️.
 **Un nouveau Discord est en cours de préparation** 😮🥳 pour permettre de maximiser 💪 la possibilité d'avoir des canaux dédiés pour chaque promotion BTS, Licence, Bachelor, Mastère, Msc.
 
-Merci 🙏 aux étudiants des programmes hors PGE pour leur confiance, on revient vers vous dès que possible ☺️.
+**Merci 🙏** aux étudiants des programmes **hors PGE** pour leur confiance, on revient vers vous dès que possible ☺️.
 
 Si vous souhaitez nous aider, vous pouvez nous envoyer **la liste de vos cours** pour qu'on crée les canaux.
 ** **
@@ -60,7 +60,7 @@ A noter que certaines informations dans <#892407797961089114> risquent de ne pas
 Comme tous ces changements vont continuer pendant la semaine qui arrive, on vous remercie d'avance de votre patience et on __s'excuse pour la gêne occasionnée__. 🙏
 
 
-~ La Team Ef'Réussite <:efreussite_rond:1017359426249822280>
+*~ La Team Ef'Réussite <:efreussite_rond:1017359426249822280>*
 
 
 * conditions sujettes à évoluer
