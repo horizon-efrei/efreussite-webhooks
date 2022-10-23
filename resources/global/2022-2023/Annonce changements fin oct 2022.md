@@ -41,14 +41,18 @@ Et bien évidemment des étudiants volontaires 🙋 pour donner des cours, répo
 ===MESSAGE_BREAK===
 
 4. Les rôles et canaux de rôles sur le main serveur vont être modifiés
-Vu que les rôles Pex basculent sur l'autre serveur, cela permettra de réarranger les canaux de menus de réactions de rôles.
+Vu que les rôles Pex basculent sur l'autre serveur, des changements sont en cours pour réarranger les canaux de menus de réactions de rôles ainsi que les rôles Pex.
 
 Attendez, partez pas.
-On maintiendra certains rôles et Ef'Réussite restera le même serveur, et tout le monde est invité, parce qu'on veut que les différents promotions et programmes se rencontrent.
-On demande juste un peu de patience pendant que tout cela sera fait, et on vous invite à nous signaler tout problème si jamais vous en remarquez un.
+On maintiendra certains rôles Pex sur ce serveur. 
+Tout le monde est le bienvenue sur Ef'Réussite, parce qu'on veut que les différents promotions et programmes se rencontrent.
+Horizon : Ef'Réussite ⭐ est et restera le serveur historique du Pôle et continuera de fonctionner.
 
-Après discussion en interne, l'option des boutons rencontre quelques soucis techniques qui se révèlent pour le moment non compatibles avec les modèles envisagés.
-On rouvre cependant <#694220883815956583>, vous pouvez le mute en faisant clic droit puis "paramètres de notification".
+On demande juste un peu de patience le temps du réarrangement, et on vous invite à nous signaler tout problème si jamais vous en remarquez un.
+
+Après discussion en interne, quelques blocages techniques rendent incompatibles l'option des boutons avec les modèles envisagés.
+On rouvre <#694220883815956583> pour que chacun puisse accueillir les membres comme il se doit !
+Vous pouvez le mute en faisant clic droit puis "paramètres de notification".
 Pour vous présenter, demander pour les rôles etc...
 
 A noter que certaines informations dans <#892407797961089114> risquent de ne pas être à jour mais seront mis à jour dès que possible
