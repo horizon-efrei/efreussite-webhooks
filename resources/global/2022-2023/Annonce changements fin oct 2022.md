@@ -45,7 +45,7 @@ Vu que les rôles Pex basculent sur l'autre serveur, des changements sont en cou
 
 Attendez, partez pas.
 On maintiendra certains rôles Pex sur ce serveur. 
-Tout le monde est le bienvenue sur Ef'Réussite, parce qu'on veut que les différents promotions et programmes se rencontrent.
+Tout le monde est le bienvenu sur Ef'Réussite, parce qu'on veut que les différents promotions et programmes se rencontrent.
 Horizon : Ef'Réussite ⭐ est et restera le serveur historique du Pôle et continuera de fonctionner.
 
 On demande juste un peu de patience le temps du réarrangement, et on vous invite à nous signaler tout problème si jamais vous en remarquez un. 💯
