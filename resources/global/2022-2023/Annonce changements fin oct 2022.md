@@ -5,12 +5,12 @@ Bienvenue à celles et ceux qui ont récemment rejoint le Discord EF'Réussite �
 Cette annonce est là pour vous informer des changements qui vont avoir lieu au Pôle Ef'Réussite 📖 :
 
 ===MESSAGE_BREAK===
-
+** **
 1. Nouvelle responsable Ef'Réussite - Suite à l'AGE Horizon le 16-10
 
 La passation se passe progressivement entre la nouvelle Responsable du Pôle Ef'Réussite <:efreussite_rond:1017359426249822280> <@362902765124452364> et l'ancien, <@890084641317478400> qui devient co-Responsable pour une période de transition.
 On souhaite pouvoir répondre à vos attentes donc nos **mp** restent **ouverts pour toutes questions** ;)
-
+** **
 ===MESSAGE_BREAK===
 
 2. Création du Discord Pex Ef'Réussite <:efreussite_rond:1017359426249822280>
@@ -21,7 +21,7 @@ Oui, on y est ☺️.
 Merci aux étudiants des programmes hors PGE pour leur confiance, on revient vers vous dès que possible ☺️.
 
 Si vous souhaitez nous aider, vous pouvez nous envoyer la liste de vos cours pour qu'on crée les canaux.
-
+** **
 ===MESSAGE_BREAK===
 
 3. Qui dit nouveau discord, dit.... ? Oui, des nouveaux postes !
@@ -37,7 +37,7 @@ On recherche des étudiant-e-s motivé-e-s du programme et de l'année * en ques
 - Respo eProf Bachelor
 
 Et bien évidemment des étudiants volontaires 🙋 pour donner des cours, répondre à des questions, partager des documents etc....
-
+** **
 ===MESSAGE_BREAK===
 
 4. Les rôles et canaux de rôles sur le main serveur vont être modifiés
