@@ -7,7 +7,7 @@
 
 L'association est composé de 5 pôles :
 - le Pôle Ef'Réussite
-- le Pôle Mentorat 
+- le Pôle Co-OP
 - le Pôle Com&Design
 - le Pôle Vidéo
 - le Pôle OpenDev
@@ -15,7 +15,7 @@ L'association est composé de 5 pôles :
 `Ef'Réussite` : le Pôle d'Horizon qui possède ce Discord, un forum de discussions pour aider la réussite scolaire des étudiants @Efrei :
 > Suis nos séances de révisions organisées par des <@&805873100813500447>, pose tes questions & discute sur les divers channels, relaie des <#895430423990140958> et participe à la communauté :100: !
 
-Pour rejoindre l'association Horizon, le Pôle Ef'Réussite, tu peux contacter le <@&918277370161532948>, les <@&938679049746792448>, un des <@&934147334760169574> ou remplir le formulaire plus bas. 
+Pour rejoindre l'association Horizon, le Pôle Ef'Réussite, tu peux contacter le <@&918277370161532948>, les <@&938679049746792448>, un des <@&934147334760169574> ou remplir le formulaire plus bas.
   ** **
 ===MESSAGE_BREAK===
 
@@ -70,7 +70,6 @@ __Salons et Forums publics ouverts aux **questions, remontées de problèmes et 
 <#851422333264330752> = Outils Efrei (Teams, Moodle), contacts administratifs... :school_satchel:
 <#803281098515677225> = Conventions de stage, conseils pour trouver un job, questions career center... :briefcase:
 <#935943395094970398> = Tout ce qui relève du logement
-<#955033831516307507> = Partage ton (tes) idée(s) de projet(s) transverse(s), si tu recherches une équipe etc... Horizon Web et One Panthéon peuvent t'aider dans le suivi du projet pour l'un, et la continuation du projet au-delà pour l'autre
 <#810204694869180426> = Tout ce qui est en rapport avec l'informatique, même hors de ce qui est vu en cours :computer:
 <#881986157355888691> = Écris `!help` dans le canal pour voir la liste des commandes :robot:
 
