@@ -2,7 +2,8 @@
 
 ===MESSAGE_BREAK===
  ** **
-`Horizon` : **l'association d'entraide**, de peer learning/peer support et de projets collaboratifs de l'@Efrei, **qui gère <@&817131722399154177> <:efreiparis:809232977347084308>** ! `Ef'Réussite` : le forum de discussions pour aider la réussite scolaire des étudiants @Efrei : 
+`Horizon` : **l'association d'entraide**, de peer learning/peer support et de projets collaboratifs de l'@Efrei, **qui gère <@&817131722399154177> <:efreiparis:809232977347084308>** ! 
+`Ef'Réussite` : le forum de discussions pour aider la réussite scolaire des étudiants @Efrei : 
 
 L'association est composé de 5 pôles :
 - le Pôle Ef'Réussite
@@ -23,7 +24,7 @@ Pour rejoindre l'association Horizon, le Pôle Ef'Réussite, tu peux contacter l
 ===MESSAGE_BREAK===
  ** **
 <:youtube:893954942069526528> [`YouTube`](https://bit.ly/HorizonYouTube) [Rediffusions des cours édités]
-<:SharePoint:918826983612354560> [`SharePoint`](https://bit.ly/EfRéussiteSP) [Rediffusions des cours] 
+<:SharePoint:918826983612354560> [`SharePoint`](https://bit.ly/EfRéussiteSP) [Rediffusions des cours]
 <:instagram:894179613918519386> [`Instagram`](https://bit.ly/HorizonInstagram) horizon.efrei
 
 `Mentorat` - [`Inscription Junior`](https://bit.ly/HorizonJunior)
@@ -61,17 +62,16 @@ __**:book: `CHANNELS GÉNÉRAUX`**__
 #:white_circle:-général-<promo> = Questions relatives à ta promo, relais d'informations et discussions libres :speech_balloon: 
 **[TIP] Remplis le [formulaire](https://bit.ly/EfRéussiteRecrute) pour rejoindre le Pôle ou l'asso !** 
 
-__Salons publics ouverts aux **questions, remontées de problèmes et discussions**__: 
+__Salons et Forums publics ouverts aux **questions, remontées de problèmes et discussions**__: 
 
 <#761924229208735825> = A propos de la plateforme, de l'école, des actualités qui concernent tout le monde... :speech_left:
-<#889180185574924328> = Mobilités internationales, SWIM, journée internationale, étudiants internationaux... :earth_africa:
+<#1037831534398418954> ou <#1021916253100707920> = Forums pour les mobilités internationales, SWIM, journée internationale, étudiants internationaux... :earth_africa:
 <#900333330065670186> = Pour tout ce qui relèvent des filières, des majeures, des options... 
 <#851422333264330752> = Outils Efrei (Teams, Moodle), contacts administratifs... :school_satchel:
 <#803281098515677225> = Conventions de stage, conseils pour trouver un job, questions career center... :briefcase:
 <#935943395094970398> = Tout ce qui relève du logement
 <#955033831516307507> = Partage ton (tes) idée(s) de projet(s) transverse(s), si tu recherches une équipe etc... Horizon Web et One Panthéon peuvent t'aider dans le suivi du projet pour l'un, et la continuation du projet au-delà pour l'autre
 <#810204694869180426> = Tout ce qui est en rapport avec l'informatique, même hors de ce qui est vu en cours :computer:
-<#849592923325857793> = Signalement de problèmes, suggestions d'améliorations pour l'Efrei  :efreiparis:
 <#881986157355888691> = Écris `!help` dans le canal pour voir la liste des commandes :robot:
 
 **[TIP] Utilise la commande `!tags list` pour voir tous les récapitulatifs d'infos disponibles dans notre base de données !**
