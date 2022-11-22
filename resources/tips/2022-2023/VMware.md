@@ -21,7 +21,7 @@ Renseignez votre adresse mail
 
 ===MESSAGE_BREAK===
  ** **
-Suivez la procédure, pour changer le mot de passe.
+Suivez la procédure pour changer le mot de passe.
 Vous aurez ensuite accès à votre compte en vous connectant.
 
 Pour tous les [services ou produits disponibles](https://itacademy.vmware.com/catalog?pagename=Software-Licenses-Repository)
