@@ -1,9 +1,8 @@
 <@&895274408325836850>
 Bonsoir à vous, les curieux et curieuses du savoir :wave:
 
-1. Changement de VMware Licences provider pour l'Efrei
-
-2. VMware Workstation Pro 17 is out !
+1. __Changement de VMware Licences provider pour l'Efrei__
+2. __VMware Workstation Pro 17 is out !__
 ===MESSAGE_BREAK===
 ** **
 **Changement de VMware Licences provider**
@@ -16,7 +15,6 @@ Rendez-vous sur la [page de connexion](https://itacademy.brightspace.com/d2l/log
 
 Puis cliquez sur mot de passe oublié.
 Renseignez votre adresse mail
-  ** **
 ===MESSAGE_BREAK===
 
 %PNG_LOGIN%
@@ -32,8 +30,8 @@ Pour tous les [services ou produits disponibles](https://itacademy.vmware.com/ca
 *Si ce n'est pas le cas et que vous avez besoin des services VMware, vous pouvez contacter le service Informatique*
 ** **
 ===MESSAGE_BREAK===
-** **
-[**VMware Workstation Pro 17 is out !**](https://blogs.vmware.com/workstation/2022/11/announcing-vmware-workstation-17-pro-and-player.html)
+
+**VMware [Workstation Pro 17](https://blogs.vmware.com/workstation/2022/11/announcing-vmware-workstation-17-pro-and-player.html) is out !**
 
 La licence est récupérable sur la [page mentionnée précédemment](https://itacademy.vmware.com/catalog?pagename=Software-Licenses-Repository)
 ** **
