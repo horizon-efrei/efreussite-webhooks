@@ -2,7 +2,7 @@
 Bonsoir à vous, les curieux et curieuses du savoir :wave:
 
 1. __Changement de VMware Licences provider pour l'Efrei__
-2. __VMware Workstation Pro 17 is out !__
+2. __VMware Workstation Pro 17 is out (Windows OS)!__
 ===MESSAGE_BREAK===
 ** **
 **Changement de VMware Licences provider**
@@ -34,6 +34,7 @@ Pour tous les [services ou produits disponibles](https://itacademy.vmware.com/ca
 **VMware [Workstation Pro 17](https://blogs.vmware.com/workstation/2022/11/announcing-vmware-workstation-17-pro-and-player.html) is out !**
 
 La licence est récupérable sur la [page mentionnée précédemment](https://itacademy.vmware.com/catalog?pagename=Software-Licenses-Repository)
+*N.B.VMware Workstation Pro/Player est pour Windows. Fusion est pour Linux/Mac*
 ===MESSAGE_BREAK===
 
 %PNG_VMWARE_WORKSTATION_PRO_17%
