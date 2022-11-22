@@ -33,7 +33,7 @@ Pour tous les [services ou produits disponibles](https://itacademy.vmware.com/ca
 ** **
 ===MESSAGE_BREAK===
 ** **
-**VMware Workstation Pro 17 is out !**
+[**VMware Workstation Pro 17 is out !**](https://blogs.vmware.com/workstation/2022/11/announcing-vmware-workstation-17-pro-and-player.html)
 
 La licence est récupérable sur la [page mentionnée précédemment](https://itacademy.vmware.com/catalog?pagename=Software-Licenses-Repository)
 ** **
