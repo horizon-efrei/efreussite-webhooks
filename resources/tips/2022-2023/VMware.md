@@ -38,9 +38,10 @@ Pour tous les [services ou produits disponibles](https://itacademy.vmware.com/ca
 La licence est récupérable sur la [page mentionnée précédemment](https://itacademy.vmware.com/catalog?pagename=Software-Licenses-Repository)
 ** **
 ===MESSAGE_BREAK===
-** **
+
 %PNG_VMWARE_WORKSTATION_PRO_17%
-** **
+
 ===MESSAGE_BREAK===
+** **
 C'est tout pour ce soir !
 A la prochaine pour d'autres tips ;)
