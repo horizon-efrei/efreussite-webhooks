@@ -8,6 +8,6 @@ On a eu vent que certains d'entre vous ont du mal à regarder les **enregsistrem
 Grâce à un étudiant qui les a réuploadé et a **partagé les liens**, on vous les amis dans les **canaux docs** ;)
 
 Allez les amis, courage !
-Vous allez matez ces exams !
+Vous allez mater ces exams !
 
 ~ David de la part de la Team Ef'Réussite
