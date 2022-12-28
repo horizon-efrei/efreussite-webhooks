@@ -1,4 +1,4 @@
-Hello les <@&794628669737009183>
+Hello les <@&794628669737009183> 👋
 
 Suite à des **généreux étudiants en M1**, on a pu anonymisé certaines copies suite à leur demande et on les **a mis à disposition dans les canaux docs** 😮
 
