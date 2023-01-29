@@ -39,9 +39,8 @@ __**RATTRAPAGES L2**__
 :zero: <#797220848033464410>
 
 ===MESSAGE_BREAK===
-
+** **
+** **
 Si vous avez des questions pour les rattrapages de communication ou d'anglais, vous pouvez les poser sur les canaux respectifs (<#694636294961234001> et <#694636933166530580>)
-
-===MESSAGE_BREAK===
-
+** **
 Bon courage !
