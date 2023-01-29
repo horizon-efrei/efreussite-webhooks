@@ -5,8 +5,8 @@ Si tu ne vois pas le canal où prendre les rôles, il te manque le [rôle parcou
 
 Réagis sur les menus suivants pour nous aider à avoir une idée de là où tu pourrais avoir besoin d'aide ou de cours.
 
-
-` `
+===MESSAGE_BREAK===
+** **
 __**RATTRAPAGES L1**__
 
 :zero: <#796439254469312582>
@@ -20,8 +20,8 @@ __**RATTRAPAGES L1**__
 :eight: <#802867138518843432>
 :nine: <#927857179824889896>
 
-
-` `
+===MESSAGE_BREAK===
+** **
 __**RATTRAPAGES L2**__
 
 :zero: <#815938394013827112>
@@ -35,14 +35,14 @@ __**RATTRAPAGES L2**__
 :eight: <#809082131166134313>
 :nine: <#761922623063064648>
 
-
-` `
+===MESSAGE_BREAK===
+** **
 :zero: <#888085892080738324>
 :one: <#809818898182045696>
 :two: <#810151770192871454>
 
-
-` `
+===MESSAGE_BREAK===
+** **
 __**RATTRAPAGES L3**__
 
 :zero: <#809083403743264788>
@@ -56,8 +56,9 @@ __**RATTRAPAGES L3**__
 :eight: <#799664237462159400> (date ?)
 .....
 
-
-` `
+===MESSAGE_BREAK===
+** **
 Pour les L3, nous n'avons pas toutes les dates :calendar_spiral: ni tous les examens, envoie les à <@370940255026675715> si tu les as.
 Tu peux poser tes questions :question: dans les canaux 😉.
 Voir l'[annonce](https://discord.com/channels/694220883815956580/887751449625387089/985630204728864818).
+===MESSAGE_BREAK===
