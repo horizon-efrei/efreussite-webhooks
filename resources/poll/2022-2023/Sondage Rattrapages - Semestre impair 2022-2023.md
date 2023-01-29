@@ -40,7 +40,6 @@ __**RATTRAPAGES L2**__
 
 ===MESSAGE_BREAK===
 ** **
-** **
 Si vous avez des questions pour les rattrapages de communication ou d'anglais, vous pouvez les poser sur les canaux respectifs (<#694636294961234001> et <#694636933166530580>)
 ** **
 Persévérance & courage 💪💯 !
