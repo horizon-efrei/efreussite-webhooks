@@ -42,23 +42,6 @@ __**RATTRAPAGES L2**__
 :two: <#810151770192871454>
 
 ===MESSAGE_BREAK===
-** **
-__**RATTRAPAGES L3**__
 
-:zero: <#809083403743264788>
-:one: <#806611362221916190>
-:two: <#694636294961234001>
-:three: <#809083188331937882>
-:four: <#812362478340145162>
-:five: <#809844421054824468>
-:six: <#799662080071303248>
-:seven: <#836219786705764412> (date ?)
-:eight: <#799664237462159400> (date ?)
-.....
 
-===MESSAGE_BREAK===
-** **
-Pour les L3, nous n'avons pas toutes les dates :calendar_spiral: ni tous les examens, envoie les à <@370940255026675715> si tu les as.
-Tu peux poser tes questions :question: dans les canaux 😉.
-Voir l'[annonce](https://discord.com/channels/694220883815956580/887751449625387089/985630204728864818).
 ===MESSAGE_BREAK===
