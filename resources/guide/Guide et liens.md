@@ -23,13 +23,13 @@ Pour rejoindre l'association Horizon, le Pôle Ef'Réussite, tu peux contacter l
 %PNG_BANNER_NOS_RESEAUX%
 
 ===MESSAGE_BREAK===
- ** **
-<:youtube:893954942069526528> [\`YouTube\`](https://bit.ly/HorizonYouTube) [Rediffusions des cours édités]
-<:SharePoint:918826983612354560> [\`SharePoint\`](https://bit.ly/EfRéussiteSP) [Rediffusions des cours]
-<:instagram:894179613918519386> [\`Instagram\`](https://bit.ly/HorizonInstagram) horizon.efrei
-<:LinkedIn:1076447580545888337> [\`LinkedIn\`](https://bit.ly/LinkedInHorizon) [Horizon Efrei]
+** **
+<:youtube:893954942069526528> [`YouTube`](https://bit.ly/HorizonYouTube) [Rediffusions des cours édités]
+<:SharePoint:918826983612354560> [`SharePoint`](https://bit.ly/EfRéussiteSP) [Rediffusions des cours]
+<:instagram:894179613918519386> [`Instagram`](https://bit.ly/HorizonInstagram) horizon.efrei
+<:LinkedIn:1076447580545888337> [`LinkedIn`](https://bit.ly/LinkedInHorizon) [Horizon Efrei]
 
-\`Co - Op\` - [<:discord:1066122578546135072>](https://discord.gg/MVmqmkjQzy)
+<:Discord:1076451012459626546> [`Co - Op`](https://discord.gg/MVmqmkjQzy) [Discord Horizon Co - Op]
 
   ** **
 
@@ -45,7 +45,7 @@ Pour rejoindre l'association Horizon, le Pôle Ef'Réussite, tu peux contacter l
 > Ex: Question en Python ? ➤ <#799611218352406528> / Question en Communication ? ➤ <#694636294961234001>
 
 ⦿ Les channels #<module>-docs (ex. <#885617773131202640>, <#810151799020847164>) servent à partager des ressources de cours (TD, annales, fiches de révisions...)
-> __Le bot supprime automatiquement les messages ne contenant pas de docs. Merci de ne pas discuter dans ces salons pour éviter le flood !__
+> **Le bot supprime automatiquement les messages ne contenant pas de docs. Merci de ne pas discuter dans ces salons pour éviter le flood !**
 
 ⦿ Pour une question générale **par rapport à une matière**, demande dans le channel de la matière:
 > Ex. Question sur les Maths en L1 ? ➤ <#801429506854223872> / Question en Formation Générale en L3 ? ➤ <#880208269593939978>
@@ -61,7 +61,8 @@ Pour rejoindre l'association Horizon, le Pôle Ef'Réussite, tu peux contacter l
  ** **
 __**:book: `CHANNELS GÉNÉRAUX`**__
 
-# :white_circle:-général-<promo> = Questions relatives à ta promo, relais d'informations et discussions libres :speech_balloon:
+# :white_circle:-général-<promo> = Questions relatives à ta promo, relais d'informations et discussions libres :speech_balloon
+
 **[TIP] Remplis le [formulaire](https://bit.ly/EfRéussiteRecrute) pour rejoindre le Pôle ou l'asso !**
 
 __Salons et Forums publics ouverts aux **questions, remontées de problèmes et discussions**__:
