@@ -1,4 +1,4 @@
-<h1 align="center">Ef'réussite Webhooks</h1>
+<h1 align="center">Ef'Réussite Webhooks</h1>
 <p align="center">
   📜 Les annonces du discord Ef'Réussite !
 </p>

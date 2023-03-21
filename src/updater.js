@@ -2,6 +2,8 @@ import { fetch, FetchMethods, FetchResultTypes } from '@sapphire/fetch';
 import { stripIndents } from 'common-tags';
 
 // Remplacez le champ ci dessous par votre message. Oui, dans ce fichier, oui ce texte là directement !
+// Note : il faut échapper les ` avec un \, par exemple: `Horizon` devient \`Horizon\`.
+// Note : Vous n'avez pas besoin d'échapper les liens avec des < et >.
 const content = stripIndents`
 <INSÉREZ VOTRE CONTENU>
 `.replace(/\[(?<text>.+?)]\((?<url>.+?)\)/gm, (_, p1, p2) => `[${p1}](<${p2}>)`);
