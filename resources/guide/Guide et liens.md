@@ -3,14 +3,13 @@
 ===MESSAGE_BREAK===
 
 ** **
-`Horizon` : **l'association d'entraide**, de peer-learning/peer-support et de projets collaboratifs de l'Efrei <:pantheonassas:957749365940822107>, **qui gère <@&817131722399154177> <:efreussite_rond:1017359426249822280>** !
+`Horizon` : **l'association d'entraide**, de peer-learning/peer-support et de projets collaboratifs de l'Efrei Paris Panthéon-Assas université <:pantheonassas:957749365940822107>, **qui gère <@&817131722399154177> <:efreussite_rond:1017359426249822280>** !
 
-L'association est composée de 5 pôles :
+L'association est composée de 4 pôles :
   • le Pôle Ef'Réussite
   • le Pôle Co-Op
   • le Pôle Com' & Design
   • le Pôle Vidéo
-  • le Pôle OpenDEV
 
 `Ef'Réussite` : le Pôle d'Horizon qui possède ce Discord, un forum de discussions pour aider la réussite scolaire des étudiants de l'Efrei !
 > *Suis nos séances de révisions organisées par des <@&805873100813500447>, pose tes questions, discute dans les divers salons, relaie des tips et participe à la communauté :100: !*
@@ -32,7 +31,6 @@ L'association est composée de 5 pôles :
 <:LinkedIn:1076447580545888337> [`LinkedIn`](https://bit.ly/LinkedInHorizon) (Horizon Efrei)
 
 <:Discord:1076451012459626546> [`Co-Op`](https://discord.gg/MVmqmkjQzy) : Discord des séances de Co-Op (entraide entre étudiants en présentiel, sur ce que vous souhaitez !)
-<:Discord:1076451012459626546> [`OpenDEV`](https://discord.gg/jS4Bf3tcDq) : Discord d'OpenDEV (entraide sur vos projets de développement open source)
 
 ** **
 
