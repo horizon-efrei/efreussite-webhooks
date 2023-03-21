@@ -15,6 +15,7 @@ L'association est composée de 4 pôles :
 > *Suis nos séances de révisions organisées par des <@&805873100813500447>, pose tes questions, discute dans les divers salons, relaie des tips et participe à la communauté :100: !*
 
 [:bulb:]   **Remplis le formulaire [pour rejoindre le pôle](https://bit.ly/EfRéussiteRecrute) ou [pour rejoindre l'asso](https://bit.ly/HorizonRecrute) !**
+
 ** **
 
 ===MESSAGE_BREAK===
