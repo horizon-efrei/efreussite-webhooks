@@ -31,7 +31,6 @@ L'association est composée de 4 pôles :
 <:LinkedIn:1076447580545888337> [`LinkedIn`](https://bit.ly/LinkedInHorizon) (Horizon Efrei)
 
 <:Discord:1076451012459626546> [`Co-Op`](https://discord.gg/MVmqmkjQzy) : Discord des séances de Co-Op (entraide entre étudiants en présentiel, sur ce que vous souhaitez !)
-<:Discord:1076451012459626546> [`OpenDEV`](https://discord.gg/jS4Bf3tcDq) : Discord d'OpenDEV (entraide sur vos projets de développement open source)
 
 ** **
 
