@@ -9,7 +9,7 @@ Qu’Ef’Réussite vous ai aidé ou non, nous vous demandons s’il-vous-plaît
 
 > Si vous souhaitez ajouter n’importe quelle remarque, nous les lirons toutes ! Vous pouvez aussi les envoyer dans https://discord.com/channels/694220883815956580/1022191775361814538
 
-**[> > > Lien du questionnaire < < <](https://forms.gle/wYpytpndUSpVfBZj8)**
+>>> [**Lien du questionnaire**](https://forms.gle/wYpytpndUSpVfBZj8) <<<
 
 *Faites-le tourner aussi à vos amis, même s'ils n'utilisent pas Ef'Réussite !*
 
