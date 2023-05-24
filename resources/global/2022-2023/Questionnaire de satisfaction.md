@@ -1,7 +1,6 @@
-# Questionnaire de satisfaction
+# [Questionnaire de satisfaction](https://forms.gle/wYpytpndUSpVfBZj8)
 **20 secondes ⏱️**
 
-Bonjour @everyone 👋
 
 La période d’examens touche à sa fin pour beaucoup d’entre-vous…
 
