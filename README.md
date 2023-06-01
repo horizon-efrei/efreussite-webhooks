@@ -32,16 +32,18 @@
 - Utilisez "nous", "l'équipe" etc, pas "je" car les lecteurs ne sauront pas de qui vous parlez comme le message sera posté sous le nom "Horizon".
 - Pensez à utilisez des émojis !
 - Intégrez les liens au texte, par exemple `[Rendez-vous sur Google](https://www.google.com)` qui donne "[Rendez-vous sur Google](https://www.google.com)". Évitez de mettre un lien uniquement sur des textes cours et non descriptifs ("Cliquez [ici]", "Vous pouvez le voir [là]"...).
+- Utilisez des titres (`# Titre`, `## Sous-titre`, `### Sous-sous-titre`) pour structurer votre texte.
 - Utilisez du **gras** (`**gras**`), de l'italique (`*italique*`) et du souligné (`__souligné__`) pour mettre en forme votre texte.
 - Utilisez des images ! Pour cela, il faut :
     1. Créez un ou des **dossier(s)** dans `./resources/_images/` correspondants aux dossiers dans lesquels vous avez mis votre annonce. Exemples :
          - Pour une annonce dans `./resources/guide/Premier message.md`, il faut créer le dossier `./resources/_images/guide/Premier message/`
          - Pour une annonce dans `./resources/P2025/2021-2022/Ateliers mobilité S5.md`, il faut créer le dossier `./resources/_images/P2025/2021-2022/Ateliers mobilité S5/`
       Notez bien qu'il faut créer un **dossier** correspondant au nom de votre annonce, mais sans le `.md` à la fin.
-    1. Dans `./resources/_images/<FOLDER_NAME>`, ajoutez l'image au format `.png` avec un nom tout en MAJUSCULES avec uniquement des lettres, des chiffres et des underscores (`_`).
-    1. Les référencer dans le fichier markdown avec `%PNG_<IMAGE_FILE_NAME>%`.
+    2. Dans `./resources/_images/<FOLDER_NAME>`, ajoutez l'image au format `.png` avec un nom tout en MAJUSCULES avec uniquement des lettres, des chiffres et des underscores (`_`).
+    3. Les référencer dans le fichier markdown avec `%PNG_<IMAGE_FILE_NAME>%`.
 
     Les images apparaitront toujours à la fin du message, sauf si vous utilisez `===MESSAGE_BREAK===`.
+- Si vous insérez des liens privés, qui ne sont pas voués à être partagés en dehors des élèves de l'EFREI (ex: groupes whatsapp), alors utilisez le format `%SECRET_<nombre de 0 à 9>%` (ex: `%SECRET_0%`), et demandez à un administrateur du repository de définir le "Repository Secret" correspondant (ici `SECRET_0`) dans les [secrets GitHub](https://github.com/horizon-efrei/efreussite-webhooks/settings/secrets/actions) avec la bonne valeur. Vous pouvez le réinitialiser après l'annonce postée.
 
 
 ### 🚀 Déployer un message

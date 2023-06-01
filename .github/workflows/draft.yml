@@ -46,4 +46,15 @@ jobs:
           DEPLOY_SERVER_ID: ${{ secrets.DEPLOY_SERVER_ID }}
           ANNOUNCEMENT_NAME: ${{ github.event.inputs.announcementName }}
 
+          SECRET_0: ${{ secrets.SECRET_0 }}
+          SECRET_1: ${{ secrets.SECRET_1 }}
+          SECRET_2: ${{ secrets.SECRET_2 }}
+          SECRET_3: ${{ secrets.SECRET_3 }}
+          SECRET_4: ${{ secrets.SECRET_4 }}
+          SECRET_5: ${{ secrets.SECRET_5 }}
+          SECRET_6: ${{ secrets.SECRET_6 }}
+          SECRET_7: ${{ secrets.SECRET_7 }}
+          SECRET_8: ${{ secrets.SECRET_8 }}
+          SECRET_9: ${{ secrets.SECRET_9 }}
+
           IS_DRAFT: true

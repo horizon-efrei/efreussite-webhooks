@@ -76,7 +76,8 @@ try {
 file = file
   .replace(/\[(?<text>.+?)]\((?<url>.+?)\)/gm, (_, text, url) => `[${text}](<${url}>)`)
   .replace(/%PNG_(?<name>[\dA-Z_]+)%/gm, encodeURI(`${imagesBaseUrl}/${announcementPath}/$1.png`))
-  .replace(/%GIF_(?<name>[\dA-Z_]+)%/gm, encodeURI(`${imagesBaseUrl}/${announcementPath}/$1.gif`));
+  .replace(/%GIF_(?<name>[\dA-Z_]+)%/gm, encodeURI(`${imagesBaseUrl}/${announcementPath}/$1.gif`))
+  .replace(/%SECRET_(?<name>\d)%/gm, (_, secretName) => process.env[`SECRET_${secretName}`] || '');
 
 const parts = file.split('===MESSAGE_BREAK===');
 
