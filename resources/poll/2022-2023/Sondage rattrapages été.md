@@ -1,12 +1,10 @@
-Hello <@&809185319161036841> <@&809102850902589440> <@&809185449447784498>
+Hello ||<@&809185319161036841> <@&809102850902589440> <@&809185449447784498> <@&1073379353997619220> <@&1073379326910799913> <@&1073377077866270790> <@&1078405317324439642> <@&1073379352856768572> <@&1073377085252456529>||
 
 Si tu veux être ping pour les rattrapages, prends les [rôles ping des rattrapages](<id:customize>) car les rôles promo ne seront pas ping <:ping:825866873609650186> !
-Si tu ne vois pas le canal où prendre les rôles, il te manque le [rôle parcours ingé ou pex](https://discord.com/channels/694220883815956580/817741515564122143/895428636038012970).
 
 Réagis sur les menus suivants pour nous aider à avoir une idée de là où tu pourrais avoir besoin d'aide ou de cours.
 
 
-` `
 __**RATTRAPAGES L1**__
 
 :zero: <#809084980050526248>
@@ -20,7 +18,10 @@ __**RATTRAPAGES L1**__
 :eight: <#927857179824889896>
 
 
-` `
+===MESSAGE_BREAK===
+
+**
+**
 __**RATTRAPAGES L2**__
 
 :zero: <#815938394013827112>
@@ -35,12 +36,18 @@ __**RATTRAPAGES L2**__
 :nine: <#761922623063064648>
 
 
-` `
+===MESSAGE_BREAK===
+
+**
+**
 :zero: <#809818898182045696>
 :one: <#836947267785064518>
 :three: <#1063180550749302876>
 
-` `
+===MESSAGE_BREAK===
+
+**
+**
 __**RATTRAPAGES L3**__
 
 :zero: <#811034892477399060>
@@ -55,7 +62,10 @@ __**RATTRAPAGES L3**__
 :nine: <#829428202303651841>
 
 
-` `
+===MESSAGE_BREAK===
+
+**
+**
 :zero: <#806611362221916190>
 :one: <#836219786705764412>
 :two: <#799664237462159400>
@@ -67,6 +77,15 @@ __**RATTRAPAGES L3**__
 :eight: <#815640419815391262> 
 
 
-` `
+===MESSAGE_BREAK===
+
+**
+**
 :zero: <#1097797910302834688>
 :one: <#927860759759814666>
+
+===MESSAGE_BREAK===
+
+**
+**
+Bon courage à tous dans vos révisions :muscle:
