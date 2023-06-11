@@ -1,6 +1,6 @@
 Hello ||<@&809185319161036841> <@&809102850902589440> <@&809185449447784498> <@&1073379353997619220> <@&1073379326910799913> <@&1073377077866270790> <@&1078405317324439642> <@&1073379352856768572> <@&1073377085252456529>||
 
-Si tu veux être ping pour les rattrapages, prends les [rôles ping des rattrapages](<id:customize>) car les rôles promo ne seront pas ping <:ping:825866873609650186> !
+Si tu veux être ping pour les rattrapages, prends les rôles ping des rattrapages ici : <id:customize> car les rôles promo ne seront pas ping <:ping:825866873609650186> !
 
 Réagis sur les menus suivants pour nous aider à avoir une idée de là où tu pourrais avoir besoin d'aide ou de cours.
 
