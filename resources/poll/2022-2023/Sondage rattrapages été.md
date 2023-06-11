@@ -7,15 +7,15 @@ Réagis sur les menus suivants pour nous aider à avoir une idée de là où tu 
 
 __**RATTRAPAGES L1**__
 
-:zero: <#809084980050526248>
-:one: <#927862574777790495>
-:two: <#694636294961234001>
-:three: <#694636933166530580>
-:four: <#798264486728302652>
-:five: <#809084853348991017>
-:six: <#819540421545033759>
-:seven: <#802867138518843432>
-:eight: <#927857179824889896>
+:regional_indicator_a: <#809084980050526248>
+:regional_indicator_b: <#809084980050526248>
+:regional_indicator_c: <#927862574777790495>
+:regional_indicator_d: <#694636294961234001>
+:regional_indicator_e: <#694636933166530580>
+:regional_indicator_f: <#798264486728302652>
+:regional_indicator_g: <#809084853348991017>
+:regional_indicator_h: <#819540421545033759>
+:regional_indicator_i: <#802867138518843432>
 
 
 ===MESSAGE_BREAK===
@@ -24,25 +24,19 @@ __**RATTRAPAGES L1**__
 **
 __**RATTRAPAGES L2**__
 
-:zero: <#815938394013827112>
-:one: <#809082397781655592>
-:two: <#819374104108728340>
-:three: <#694636294961234001>
-:four: <#888085892080738324>
-:five: <#927858681972944926>
-:six: <#832302872506138684>
-:seven: <#694636933166530580>
-:eight: <#809082131166134313>
-:nine: <#761922623063064648>
-
-
-===MESSAGE_BREAK===
-
-**
-**
-:zero: <#809818898182045696>
-:one: <#836947267785064518>
-:three: <#1063180550749302876>
+:regional_indicator_a: <#815938394013827112>
+:regional_indicator_b: <#809082397781655592>
+:regional_indicator_c: <#819374104108728340>
+:regional_indicator_d: <#694636294961234001>
+:regional_indicator_e: <#888085892080738324>
+:regional_indicator_f: <#927858681972944926>
+:regional_indicator_g: <#832302872506138684>
+:regional_indicator_h: <#694636933166530580>
+:regional_indicator_i: <#809082131166134313>
+:regional_indicator_j: <#761922623063064648>
+:regional_indicator_k: <#809818898182045696>
+:regional_indicator_l: <#836947267785064518>
+:regional_indicator_m: <#1063180550749302876>
 
 ===MESSAGE_BREAK===
 
@@ -50,39 +44,32 @@ __**RATTRAPAGES L2**__
 **
 __**RATTRAPAGES L3**__
 
-:zero: <#811034892477399060>
-:one: <#694636294961234001>
-:two: <#809083403743264788>
-:three: <#836219611342700585>
-:four: <#694636933166530580>
-:five: <#809083188331937882>
-:six: <#809082867530334318>
-:seven: <#836220593811488778> 
-:eight: <#809844421054824468> 
-:nine: <#829428202303651841>
-
-
-===MESSAGE_BREAK===
-
-**
-**
-:zero: <#806611362221916190>
-:one: <#836219786705764412>
-:two: <#799664237462159400>
-:three: <#822885569252032522>
-:four: <#849416136290074624>
-:five: <#812362478340145162>
-:six: <#885803688894017536>
-:seven: <#799661647991013386> 
-:eight: <#815640419815391262> 
-
+:regional_indicator_a: <#811034892477399060>
+:regional_indicator_b: <#694636294961234001>
+:regional_indicator_c: <#809083403743264788>
+:regional_indicator_d: <#836219611342700585>
+:regional_indicator_e: <#694636933166530580>
+:regional_indicator_f: <#809083188331937882>
+:regional_indicator_g: <#809082867530334318>
+:regional_indicator_h: <#836220593811488778> 
+:regional_indicator_i: <#809844421054824468> 
+:regional_indicator_j: <#829428202303651841>
+:regional_indicator_k: <#806611362221916190>
+:regional_indicator_l: <#836219786705764412>
+:regional_indicator_m: <#799664237462159400>
+:regional_indicator_n: <#822885569252032522>
+:regional_indicator_o: <#849416136290074624>
+:regional_indicator_p: <#812362478340145162>
+:regional_indicator_q: <#885803688894017536>
+:regional_indicator_r: <#799661647991013386> 
+:regional_indicator_s: <#815640419815391262> 
 
 ===MESSAGE_BREAK===
 
 **
 **
-:zero: <#1097797910302834688>
-:one: <#927860759759814666>
+:regional_indicator_a: <#1097797910302834688>
+:regional_indicator_b: <#927860759759814666>
 
 ===MESSAGE_BREAK===
 
