@@ -8,14 +8,13 @@ Réagis sur les menus suivants pour nous aider à avoir une idée de là où tu 
 __**RATTRAPAGES L1**__
 
 :regional_indicator_a: <#809084980050526248>
-:regional_indicator_b: <#809084980050526248>
-:regional_indicator_c: <#927862574777790495>
-:regional_indicator_d: <#694636294961234001>
-:regional_indicator_e: <#694636933166530580>
-:regional_indicator_f: <#798264486728302652>
-:regional_indicator_g: <#809084853348991017>
-:regional_indicator_h: <#819540421545033759>
-:regional_indicator_i: <#802867138518843432>
+:regional_indicator_b: <#927862574777790495>
+:regional_indicator_c: <#694636294961234001>
+:regional_indicator_d: <#694636933166530580>
+:regional_indicator_e: <#798264486728302652>
+:regional_indicator_f: <#809084853348991017>
+:regional_indicator_g: <#819540421545033759>
+:regional_indicator_h: <#802867138518843432>
 
 
 ===MESSAGE_BREAK===
