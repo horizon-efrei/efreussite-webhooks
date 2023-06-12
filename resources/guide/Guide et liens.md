@@ -51,11 +51,11 @@ L'association est composée de 4 pôles :
 > *Le bot supprime automatiquement les messages ne contenant pas de documents. Merci de ne pas discuter dans ces salons pour éviter le flood !*
 
 ⦿ Pour une question générale **par rapport à une UE**, demande dans le salon de l'UE :
-> Ex :  Question sur l'UE Maths en L1 ? ➤ <#801429506854223872>
+> Ex : Question sur l'UE Maths en L1 ? ➤ <#801429506854223872>
 > Ex : Question sur l'UE Formation Générale en L3 ? ➤ <#880208269593939978>
 
 <#811971646894243880> : Résumé des cours à venir dans les 7 prochains jours.
-<#883667080212267038>/l2/l3 : Annonces des nouveaux cours à venir.
+<#883667080212267038>/<#883667105558441994>/<#883667127159103508> : Annonces des nouveaux cours à venir.
 
 
 [:bulb:]   **Réagis avec :white_check_mark: pour avoir un rappel pour le cours dans** <#883667080212267038> <#883667105558441994> <#883667127159103508>
@@ -69,8 +69,7 @@ L'association est composée de 4 pôles :
 
 #:white_circle:-général-<promo> : Questions relatives à ta promo, relais d'informations et discussions libres :speech_balloon:
 
-Vous avez également divers salons sur des thèmes plus particuliers à votre disposition, tels que
-<#1037831534398418954> ou <#1021916253100707920>, <#900333330065670186>, <#851422333264330752>, <#803281098515677225>, <#935943395094970398>, <#810204694869180426>, <#881986157355888691>...
+Vous avez également divers salons sur des thèmes plus particuliers à votre disposition, tels que <#1021916253100707920>, <#900333330065670186>, <#851422333264330752>, <#803281098515677225>, <#935943395094970398>, <#810204694869180426>, <#881986157355888691>...
 
 [:bulb:]   **Utilise la commande `/tags list` pour voir tous les récapitulatifs d'infos disponibles dans notre base de données !**
 
@@ -124,8 +123,9 @@ Vous avez également divers salons sur des thèmes plus particuliers à votre di
 > - Mini-annonces ("Nous recherchons une personne qui s'y connaît dans tel domaine", relais d'annonces...)
 
 <@&895274408325836850> : Rôle notifié lorsque de nouvelles annonces sont postées dans <#895274285457887242>
-<@&823155823063597107> : Rôle notifié lorsque de nouveaux <#822840404968734790> sont lancés (ta voix importe !)
 
-[:bulb:]   **Choisis tes rôles optionnels [sur ce message](https://discord.com/channels/694220883815956580/892340236175147029/893859068475740190)**
+<@&823155823063597107> : Rôle notifié lorsque de nouveaux <#822840404968734790> sont lancés (ta voix importe !)
 
-*N.B. l'association peut prêter des tablettes graphiques pour des cours.*
+[:bulb:]   **Choisis tes rôles optionnels dans l'onglet de communauté : <id:customize>
+
+*N.B. l'association prête des tablettes graphiques pour les cours des eProfs.*
