@@ -17,7 +17,7 @@ En début d'année nous avons ouvert un Discord spécial PEx <:efreussite_rond:1
 
 ## :busts_in_silhouette: Horizon recrute !
 
-Comme l'année précédente, on recherche un <@&1135935060667801650>, en <@&1135912964868808714>, et plein d'<@&805873100813500447> pour aider les nouveaux arrivants et renforcer nos rangs ! Plein de LXP à la clé, des évènements de cohésion et une bonne ambiance. :confetti_ball: [Formulaire de candidature (30s à remplir)](<https://forms.gle/ogZfDbVAzkpCyrkx5>)
+Comme l'année précédente, on recherche un <@&934144211815661658>, en <@&1135912964868808714>, et plein d'<@&805873100813500447> pour aider les nouveaux arrivants et renforcer nos rangs ! Plein de LXP à la clé, des évènements de cohésion et une bonne ambiance. :confetti_ball: [Formulaire de candidature (30s à remplir)](<https://forms.gle/ogZfDbVAzkpCyrkx5>)
 
 ## :seedling: Découvrez la Co-Op
 
