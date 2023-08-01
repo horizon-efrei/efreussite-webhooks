@@ -6,20 +6,21 @@
 ### 🆕 Ajouter un message
 
 1. Créez une nouvelle branche avec le titre du message.
-1. Ajouter un fichier markdown dans [`./resources`](/resources). Choisissez un des sous-dossiers qui correspond à votre message.
+1. Ajouter un fichier markdown dans [`./resources`](./resources). Choisissez un des sous-dossiers qui correspond à votre message.
       - `guide` pour les messages du guide (#📍-guide-et-liens)
       - `rules` pour les messages des règles (#📜-règles)
-      - `P2022` pour les annonces pour la Promo 2023 (#⚪-promo-2022)
+      - `P2022` pour les annonces pour la Promo 2022 (#⚪-promo-2022)
       - `P2023` pour les annonces pour la Promo 2023 (#🟣-promo-2023)
       - `P2024` pour les annonces pour la Promo 2024 (#🟤-promo-2024)
       - `P2025` pour les annonces pour la Promo 2025 (#🟠-promo-2025)
       - `P2026` pour les annonces pour la Promo 2026 (#🔵-promo-2026)
       - `P2027` pour les annonces pour la Promo 2027 (#🟢-promo-2027)
+      - `P2028` pour les annonces pour la Promo 2028 (#🟢-promo-2028)
       - `global` pour les annonces générales (#📢-annonces)
       - `poll` pour les messages de sondage (#🤔-sondages)
       - `tips` pour les annonces "bon à savoir" (#📢-bon-à-savoir-❗)
 
-    À part pour `guide` et `rules`, il vous faudra choisir un deuxième sous-dossier correspondant à l'année scolaire en cours. Par exemple, `P2024/2022-2023/`.
+    À part pour `guide` et `rules`, il vous faudra choisir un deuxième sous-dossier correspondant à l'année scolaire en cours. Par exemple, `P2024/2023-2024/`.
     Le nom du fichier en lui même doit être une courte description de l'annonce (avec ou sans espaces, accents, majuscules, caractères spéciaux...), seuls les points (`.`), et les slashs/anti-slashs (`/` et `\`) ne sont pas autorisés.
 
     Si le dossier dans lequel vous devez mettre votre annonce contient un fichier `.gitkeep`, vous pouvez le supprimer.

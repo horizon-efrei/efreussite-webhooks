@@ -26,6 +26,7 @@ const folderToWebhook = {
   P2025: process.env.WEBHOOKURL_P2025,
   P2026: process.env.WEBHOOKURL_P2026,
   P2027: process.env.WEBHOOKURL_P2027,
+  P2028: process.env.WEBHOOKURL_P2028,
   poll: process.env.WEBHOOKURL_POLL,
   rules: process.env.WEBHOOKURL_RULES,
   tips: process.env.WEBHOOKURL_TIPS,

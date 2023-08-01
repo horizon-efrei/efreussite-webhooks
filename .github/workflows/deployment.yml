@@ -46,6 +46,7 @@ jobs:
           WEBHOOKURL_P2025: ${{ secrets.WEBHOOKURL_P2025 }}
           WEBHOOKURL_P2026: ${{ secrets.WEBHOOKURL_P2026 }}
           WEBHOOKURL_P2027: ${{ secrets.WEBHOOKURL_P2027 }}
+          WEBHOOKURL_P2028: ${{ secrets.WEBHOOKURL_P2028 }}
           WEBHOOKURL_POLL: ${{ secrets.WEBHOOKURL_POLL }}
           WEBHOOKURL_RULES: ${{ secrets.WEBHOOKURL_RULES }}
           WEBHOOKURL_TIPS: ${{ secrets.WEBHOOKURL_TIPS }}
