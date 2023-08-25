@@ -1,12 +1,12 @@
 # Ef'Réussite <:efreussite_rond:1017359426249822280>
 
-Ef'Réussite se décline en deux Discord <:Discord:1076451012459626546>, celui où vous êtes actuellement, le **Discord principal et des PGE**, et un second Discord, le **Discord pour les Parcours Expert du Numérique**, disponible ici : https://discord.gg/BVbZPYfBGW
+Ef'Réussite se décline en deux Discord <:Discord:1076451012459626546>, celui où vous êtes actuellement, le **Discord principal et des PGE** (Programme Grandes Écoles), et un second Discord, le **Discord pour les PEx** (Parcours Expert du Numérique), disponible ici : https://discord.gg/XWv5tRwFTX
 
 
 :warning: **IMPORTANT**
 1. Pensez à personnaliser vos rôles & les salons que vous pouvez voir dans <id:customize> & <id:browse> !
 
-2. Nous nous focalisons pour le moment sur **le cycle License**. Si une demande suffisante est démontrée pour des cours réguliers pour le cycle Master nous ferons notre possible pour organiser des cours, mais en raison de la forte diversité de matières ce n'est pas aussi simple.
+2. Nous nous focalisons pour le moment sur **le cycle Licence**. Si une demande suffisante est démontrée pour des cours réguliers pour le cycle Master nous ferons notre possible pour organiser des cours, mais en raison de la forte diversité de matières ce n'est pas aussi simple.
 
 ===MESSAGE_BREAK===
 
@@ -38,7 +38,7 @@ Vous avez également divers salons sur des thèmes plus particuliers à votre di
 
 <@&808297761450754049>/<@&809102657205043301> : Membres de l'équipe pédagogique/de l'administration de l'EFREI
 
-<@&805883190878928907> : Membres du bureau étendu d'Horizon :horizon:
+<@&805883190878928907> : Membres du bureau étendu d'Horizon <:horizon:1014536805510557908>
 <@&805873100813500447> : Étudiants prêts à t'aider via des cours ou en répondant à tes questions écrites !
 <@&1064642762349220081> : Étudiants aidant sur des questions plus générales sur l'EFREI, mais ne donnant pas de cours.
 <@&934147334760169574> : Responsable du pôle Ef'Réussite. Contacte-les si tu as des questions !

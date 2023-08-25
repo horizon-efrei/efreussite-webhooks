@@ -7,6 +7,8 @@ Voici comment l'utiliser et des trucs & astuces bons à savoir :bulb:
 
 Tous les cours Ef'Réussite sont programmés via le bot. Le salon <#811971646894243880> est mis à jour tous les jours automatiquement pour afficher les cours des 7 prochains jours. Les salons des promos <#883667080212267038>, <#883667105558441994>, <#883667127159103508> sont là où sont annoncés les cours qui arrivent. Vous pouvez réagir ravec ":white_check_mark:" aux messages d'annonces pour vous inscrire sans engagement, afin de recevoir des rappels juste avant le cours.
 
+===MESSAGE_BREAK===
+** **
 ## Commandes <:gray_tick:830783586650816553>
 
 Le bot utilise les Slash-Commands. Vous pouvez donc commencer à écrire `/` dans <#881986157355888691> et une page d'aide apparaîtra. Cliquez sur le bot d'Horizon avec l'icône <:horizon:1014536805510557908>, et découvrez les différentes fonctionnalités disponibles !
@@ -21,8 +23,6 @@ Voici les meilleurs commandes que vous pouvez utiliser : :star:
 - **`/faq`:** Accédez à une base de données de questions/réponses fréquences.
 - **`/vocal-count`:** Regardez combien de personnes sont connectées dans un salon vocal.
 
-===MESSAGE_BREAK===
-** **
 ## Repository
 
 [Le bot est Open Source et disponible sur GitHub](https://github.com/horizon-efrei/HorizonBot). Vous pourrez y retrouver [un guide](https://github.com/horizon-efrei/HorizonBot/blob/master/CONTRIBUTING.md) pour le lancer et pour contribuer.
