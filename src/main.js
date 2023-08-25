@@ -19,7 +19,6 @@ const isDraft = process.env.IS_DRAFT === 'true';
 const draftWebhook = process.env.WEBHOOKURL_DRAFT;
 const folderToWebhook = {
   global: process.env.WEBHOOKURL_GLOBAL,
-  guide: process.env.WEBHOOKURL_GUIDE,
   P2022: process.env.WEBHOOKURL_P2022,
   P2023: process.env.WEBHOOKURL_P2023,
   P2024: process.env.WEBHOOKURL_P2024,
@@ -29,6 +28,10 @@ const folderToWebhook = {
   P2028: process.env.WEBHOOKURL_P2028,
   poll: process.env.WEBHOOKURL_POLL,
   rules: process.env.WEBHOOKURL_RULES,
+  guideHorizon: process.env.WEBHOOKURL_GUIDE_HORIZON,
+  guideEfreussite: process.env.WEBHOOKURL_GUIDE_EFREUSSITE,
+  guideEprof: process.env.WEBHOOKURL_GUIDE_EPROF,
+  guideHorizonBot: process.env.WEBHOOKURL_GUIDE_HORIZON_BOT,
   tips: process.env.WEBHOOKURL_TIPS,
 };
 

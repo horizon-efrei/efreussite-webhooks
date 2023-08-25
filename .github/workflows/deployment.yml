@@ -39,7 +39,10 @@ jobs:
         run: npm run deploy
         env:
           WEBHOOKURL_GLOBAL: ${{ secrets.WEBHOOKURL_GLOBAL }}
-          WEBHOOKURL_GUIDE: ${{ secrets.WEBHOOKURL_GUIDE }}
+          WEBHOOKURL_GUIDE_HORIZON: ${{ secrets.WEBHOOKURL_GUIDE_HORIZON }}
+          WEBHOOKURL_GUIDE_EFREUSSITE: ${{ secrets.WEBHOOKURL_GUIDE_EFREUSSITE }}
+          WEBHOOKURL_GUIDE_EPROF: ${{ secrets.WEBHOOKURL_GUIDE_EPROF }}
+          WEBHOOKURL_GUIDE_HORIZON_BOT: ${{ secrets.WEBHOOKURL_GUIDE_HORIZON_BOT }}
           WEBHOOKURL_P2022: ${{ secrets.WEBHOOKURL_P2022 }}
           WEBHOOKURL_P2023: ${{ secrets.WEBHOOKURL_P2023 }}
           WEBHOOKURL_P2024: ${{ secrets.WEBHOOKURL_P2024 }}

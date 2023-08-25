@@ -7,7 +7,6 @@
 
 1. Créez une nouvelle branche avec le titre du message.
 1. Ajouter un fichier markdown dans [`./resources`](./resources). Choisissez un des sous-dossiers qui correspond à votre message.
-      - `guide` pour les messages du guide (#📍-guide-et-liens)
       - `rules` pour les messages des règles (#📜-règles)
       - `P2022` pour les annonces pour la Promo 2022 (#⚪-promo-2022)
       - `P2023` pour les annonces pour la Promo 2023 (#🟣-promo-2023)
@@ -18,6 +17,10 @@
       - `P2028` pour les annonces pour la Promo 2028 (#🟢-promo-2028)
       - `global` pour les annonces générales (#📢-annonces)
       - `poll` pour les messages de sondage (#🤔-sondages)
+      - `guideEfReussite` pour les messages du guide Ef'Réussite (#📖-efréussite)
+      - `guideHorizon` pour les messages du guide Horizon (#⭐️-horizon)
+      - `guideEprof` pour les messages du guide eProf (#🎓-devenir-eprof)
+      - `guideHorizonBot` pour les messages du guide HorizonBot (#🤖-horizon-bot)
       - `tips` pour les annonces "bon à savoir" (#📢-bon-à-savoir-❗)
 
     À part pour `guide` et `rules`, il vous faudra choisir un deuxième sous-dossier correspondant à l'année scolaire en cours. Par exemple, `P2024/2023-2024/`.
