@@ -6,11 +6,17 @@ Vous avez rejoint le **#1 Discord de l'EFREI**, dédié à l'entraide étudiante
 
 Sentez-vous libre de poser vos questions dans les canaux appropriés (<id:guide> pour vous repérer).
 
-## Journée des associations demain
+## Journée des associations
 
-Horizon sera présent demain lors de la journée des associations, vous pourrez poser vos questions ou découvrir les pôles de l'association :wink:
+Horizon sera présent lors des journées des associations, vous pourrez poser vos questions ou découvrir les pôles de l'association :wink:
+Venez nous découvrir toute la journée :
+:white_medium_small_square: **Mercredi 30 août** au *Student Hub*
+:white_medium_small_square: **Jeudi 31 août** en *B001*
+:white_medium_small_square: **Jeudi 14 septembre** au *Student Hub*
 
 ## Que faire, maintenant ?
+
+:small_blue_diamond: Pour en découvrir plus sur l'association et notre mission, rendez-vous dans <id:guide> :books:
 
 :small_blue_diamond: Si vous vous sentez confiant dans une matière, [rejoignez-nous en tant qu'eProf](https://forms.gle/ogZfDbVAzkpCyrkx5), pour occasionnellement donner des cours à votre promotion, et gagner du LXP :moneybag:
 
