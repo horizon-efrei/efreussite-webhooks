@@ -1,26 +1,26 @@
 # Horizon <:horizon:1014536805510557908>
 
-**Horizon** est une association de l'EFREI <:pantheonassas:957749365940822107> dédiée à **l'entraide et la réussite étudiante**. Pas besoin d'être membre pour en profiter, il suffit de [**rejoindre nos plateformes**](https://example.com/LIEN_MESSAGE_RÉSEAUX)  !
+**Horizon** est une association de l'EFREI <:pantheonassas:957749365940822107> dédiée à **l'entraide et la réussite étudiante**. Pas besoin d'être membre pour en profiter, il suffit de [**rejoindre nos plateformes**](https://linktr.ee/horizon.efrei)  !
 
 ## Ef'Réussite <:efreussite_rond:1017359426249822280>
 
 **Ef'Réussite** est le pôle d'Horizon qui gère ce Discord, un **forum de discussions pour aider la réussite scolaire** des étudiants de l'EFREI ! Nous organisons régulièrement des cours de révision sur diverses matières.
-> Lis-en plus dans le [guide d'utilisation d'Ef'Réussite](https://example.com/LIEN_MESSAGE_EFRÉUSSITE) :bookmark:
+> Lis-en plus dans le [guide d'utilisation d'Ef'Réussite](https://discord.com/channels/694220883815956580/1144566887297069066/1145299550978969610) :bookmark:
 
 ## Co-Op :seedling:
 
 La **Co-Op** est le pôle d'Horizon qui organise des **séances d'entraide en présentiel et en petit groupe** pour de **l'aide personnalisée** sur des sujets scolaires (TD, DE, rattrapages, projets…) ou extra-scolaires (CV, projets persos…). :handshake:
-> [Rejoins le Discord](https://example.com/LIEN_MESSAGE_RÉSEAUX) pour en savoir plus !
+> [Rejoins le Discord](https://linktr.ee/horizon.efrei) pour en savoir plus !
 
 ## Comm' & Design :paintbrush:
 
 La **Comm' & Design** est notre pôle dédié à la **communication interne & externe**, c'est à dire la création d'affiches, de posts sur les réseaux sociaux, organisation d'évènements etc… Ce sont eux qui font rayonner l'association :sunny: !
-> *[Rejoins la team Comm & Design](https://example.com/LIEN_MESSAGE_RECRUTEMENT)* :briefcase:
+> *[Rejoins la team Comm & Design](https://discord.com/channels/694220883815956580/1144566466142814322/1145299970249994351)* :briefcase:
 
 ## Vidéo :video_camera:
 
-Le pôle **Vidéo** s'occupe de **trier & éditer les enregistrements des cours** pour les rendre plus court, plus dynamiques, et les publier sur [notre chaîne YouTube](https://example.com/LIEN_MESSAGE_RÉSEAUX) <:youtube:893954942069526528>
-> *[Rejoins la team Vidéo](https://example.com/LIEN_MESSAGE_RECRUTEMENT)* :briefcase:
+Le pôle **Vidéo** s'occupe de **trier & éditer les enregistrements des cours** pour les rendre plus court, plus dynamiques, et les publier sur [notre chaîne YouTube](https://linktr.ee/horizon.efrei) <:youtube:893954942069526528>
+> *[Rejoins la team Vidéo](https://discord.com/channels/694220883815956580/1144566466142814322/1145299970249994351)* :briefcase:
 
 ===MESSAGE_BREAK===
 ** **
