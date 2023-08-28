@@ -18,7 +18,7 @@ Venez nous découvrir toute la journée :
 
 :small_blue_diamond: Pour en découvrir plus sur l'association et notre mission, rendez-vous dans <id:guide> :books:
 
-:small_blue_diamond: Si vous vous sentez confiant dans une matière, [rejoignez-nous en tant qu'eProf](https://forms.gle/ogZfDbVAzkpCyrkx5), pour occasionnellement donner des cours à votre promotion, et gagner du LXP :moneybag:
+:small_blue_diamond: Si vous vous sentez confiants dans une matière, [rejoignez-nous en tant qu'eProf](https://forms.gle/ogZfDbVAzkpCyrkx5), pour occasionnellement donner des cours à votre promotion, et gagner du LXP :moneybag:
 
 :small_blue_diamond: À l'inverse, si vous avez du mal à suivre une matière, n'hésitez pas à poser vos questions dans nos salons d'entraide, ou à rejoindre la Co-Op :seedling: pour une aide plus personnalisée ! https://discord.gg/tDJFFHFS8K
 
