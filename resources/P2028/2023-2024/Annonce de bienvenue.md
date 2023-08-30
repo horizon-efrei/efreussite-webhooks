@@ -9,8 +9,7 @@ Sentez-vous libre de poser vos questions dans les canaux appropriés (<id:guide>
 ## Journée des associations
 
 Horizon sera présent lors des journées des associations, vous pourrez poser vos questions ou découvrir les pôles de l'association :wink:
-Venez nous découvrir toute la journée :
-:white_medium_small_square: **Mercredi 30 août** au *Student Hub*
+Venez nous découvrir l'après midi :
 :white_medium_small_square: **Jeudi 31 août** en *B001*
 :white_medium_small_square: **Jeudi 14 septembre** au *Student Hub*
 
