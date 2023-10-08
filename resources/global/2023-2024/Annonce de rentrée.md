@@ -9,7 +9,7 @@ On espère que vous avez passé un bel été et nous vous souhaitons une bonne r
 ✓ Pour **voir des cours d'années précédentes ou suivantes**, choisissez les rôles "**Voir Cours L𝒙**" !
 ✓ Si vous avez des **reliquats**, choisissez les **rôles de rattrapages "RAT"** (vous pouvez aussi enlever ceux que vous aviez déjà si vous avez réussi vos rattrapages :tada:)
 ✓ Si vous avez **redoublé** une année, pensez à **changer votre promotion**. Bon courage :muscle:
-✓ Pour les <@&1135935060667801650> **choisissez votre majeure**. Vous aurez aussi accès à de nouveaux salons pour discuter entre filières et majeures !
+✓ Pour les <@&794628669737009183> **choisissez votre majeure**. Vous aurez aussi accès à de nouveaux salons pour discuter entre filières et majeures !
 
 ## :bulb: Découvrez l'association
 
