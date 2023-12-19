@@ -13,7 +13,7 @@ Nous recherchons :
 
 ||*Ca rapporte le précieux LXP, et un gros + sur vos CVs !*||
 
-## [**Remplissez notre formulaire en 15 secondes !**](<https://forms.gle/ogZfDbVAzkpCyrkx5>)
+## [Remplissez notre formulaire en 15 secondes !](https://forms.gle/ogZfDbVAzkpCyrkx5)
 
 
 %PNG_BANNIERE%
