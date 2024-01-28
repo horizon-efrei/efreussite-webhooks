@@ -1,4 +1,4 @@
-Hello <@&809185319161036841> <@&809102850902589440> <@&809185449447784498> :wave:
+Salut <@&809185319161036841> <@&809102850902589440> <@&809185449447784498> :wave:
 
 Si vous voulez être ping pour les rattrapages, prennez les rôles ping des rattrapages dans <id:customize> car les rôles promo ne seront pas ping <:ping:825866873609650186> !
 
