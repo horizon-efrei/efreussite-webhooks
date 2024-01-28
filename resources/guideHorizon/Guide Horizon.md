@@ -32,8 +32,6 @@ Rejoins l'aventure d'Horizon <:horizon:1014536805510557908>, gagne tes LXP, et a
 > :fast_forward: <http://bit.ly/HorizonRecrute>
 
 Postes à pourvoire :
-- :paintbrush: **Reponsable du pôle Comm** • *recrute et gère une équipe pour nous faire rayonner aux évènements et à l'EFREI ! Il y a pas mal de tâche à faire, avec beaucoup de responsabilités et à la clé une expérience marquante et professionnalisante pour embellir votre CV ✨*
-
 - :paintbrush: **Membres du pôle Comm** • *occupe-toi de la communication d'Horizon sur les réseaux sociaux et aux évènements associatifs, et créé nos designs (banderoles, VDA, affiches…).*
 
 - :video_camera: **Éditeur pour le pôle Vidéo** • *monte les enregistrements des cours pour aider les étudiants à mieux les suivre en les condensant ! Le résultat final est uploadé sur YouTube.*
